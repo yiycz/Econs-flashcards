@@ -51,10 +51,10 @@ extra:
       group: Macroeconomics
       description: National output, the price level, and spare capacity.
     - id: policy-choices
-      title: Policy choices
+      title: Macroeconomics Policy
       group: Macroeconomics
       description: Fiscal, monetary, and supply-side policy.
     - id: firms-market-structure
-      title: Firms and market structure
+      title: Firms and decisions
       group: Microeconomics
       description: Firm objectives, economies of scale, market power, barriers to entry, efficiency, pricing strategies, and collusion.
