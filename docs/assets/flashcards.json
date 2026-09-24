@@ -190,6 +190,180 @@
     "topic": "economic-indicators",
     "question": "How does imperfect information in the labour market lead to frictional unemployment?",
     "answer": "workers are not fully aware of the types of jobs available, while employers are not fully informed about the types of labour available → people who are willing and able to work at the prevailing wage rate and are actively searching for jobs but do not currently have jobs → job-search and matching process takes time → frictional unemployment"
+  },
+  {
+    "id": "firms-market-structure-1",
+    "topic": "firms-market-structure",
+    "question": "Why can a separation of ownership and management arise as firms grow?",
+    "answer": "entrepreneurs and employers have to employ others to carry out specialised tasks → frequently hire consultants to give them advice or engage the services of specialist firms → they are seen as \"agents\" of their employers → as firms grow in size, there may be a separation of ownership and management → ownership is usually in the hands of shareholders, while day-to-day operations are controlled by directors and managers"
+  },
+  {
+    "id": "firms-market-structure-2",
+    "topic": "firms-market-structure",
+    "question": "How can management pursue sales-revenue maximisation instead of profit maximisation?",
+    "answer": "management salaries may be linked to the value of a firm's sales → firm may accept a lower price and produce above the profit-maximising output to increase market share → raise output beyond MC = MR until MR = 0 → extra sales beyond MR = 0 will not increase revenue → revenue is already maximised"
+  },
+  {
+    "id": "firms-market-structure-3",
+    "topic": "firms-market-structure",
+    "question": "Why might firms engage in profit-satisficing behaviour?",
+    "answer": "shareholders are divorced from the control of the firm → shareholders are keen on profits, while management is concerned with growth → interests of shareholders and management may be in conflict → profit-satisficing behaviour may be negotiated → firms seek to make a reasonable level of profit, sufficient to satisfy shareholders or meet a target set for management → feature of firms that have enjoyed a high market share over long periods → complacency"
+  },
+  {
+    "id": "firms-market-structure-4",
+    "topic": "firms-market-structure",
+    "question": "Why may firms seek growth and greater market dominance?",
+    "answer": "At AC = AR, the firm just makes normal profit → in industries where there are substantial IEOS to be reaped, MES is large → firms need to be large to keep their UCOP down → charge lower prices → undercut their competitors → further increase their market share → while still enjoying larger profits → firms grow to gain market dominance or market share in their industries → market power increases its bargaining power over consumers → allowing it to raise the prices of its products → faces a more price-inelastic demand curve"
+  },
+  {
+    "id": "firms-market-structure-5",
+    "topic": "firms-market-structure",
+    "question": "What are internal economies of scale, and what are their main sources?",
+    "answer": "cost savings arising from the increase in scale of production of the firm\n\nSpecialization → assigning workers to specific roles → daily repetition → accumulate more skills and knowledge → increase their productivity → increasing output per worker → reducing unit costs\n\nIndivisibilities of factor i/p → large firms have resources to support R&D into better products and cheaper production techniques → large scale of production → spreads R&D costs over a large output\n\nPurchase in bulk → large firms have a bargaining advantage → preferential treatment by suppliers → bulk buying of raw materials → obtain goods at lower costs and on better terms → lower unit costs\n\nFinancial → larger firms can obtain bank loans at lower interest rates than smaller firms → perceived to be more financially stable → unlikely to default on their loans"
+  },
+  {
+    "id": "firms-market-structure-6",
+    "topic": "firms-market-structure",
+    "question": "What are internal diseconomies of scale, and how can managerial IDOS arise?",
+    "answer": "A situation in which a firm experiences rising average costs as it increases its scale of production\n\nManagerial IDOS → large firms are bogged down by rules and regulations → excessive red tape → slows down decision-making → decreases efficiency → increase in average costs\n\nManagerial IDOS → large firms are hard to manage → coordinating work among different departments requires more supervision → increase in average costs"
+  },
+  {
+    "id": "firms-market-structure-7",
+    "topic": "firms-market-structure",
+    "question": "What are external economies of scale, and what are their main sources?",
+    "answer": "The reduction in unit costs arising from industry expansion\n\nEconomies of concentration → firms concentrate within a geographical area → benefit from a larger pool of skilled labour and improvements in infrastructure → cost of development can be shared among more firms as the industry expands\n\nEconomies of information → trade associations / central research centres provide common information services through journals and newsletters"
+  },
+  {
+    "id": "firms-market-structure-8",
+    "topic": "firms-market-structure",
+    "question": "What are external diseconomies of scale, and how can they arise?",
+    "answer": "A rise in firms' UCOP due to industry growth\n\nOver-concentration → over-utilisation of common infrastructure → excessive strain on the infrastructure → decrease productivity → increasing production costs\n\nHigher input prices → industry expands → demand for FOPs rises → higher input prices → especially if the supply of FOPs is price inelastic"
+  },
+  {
+    "id": "firms-market-structure-9",
+    "topic": "firms-market-structure",
+    "question": "What is market power?",
+    "answer": "Market power refers to the ability of a seller to exert significant influence over the quantity of a good or service traded or the price at which it is sold."
+  },
+  {
+    "id": "firms-market-structure-10",
+    "topic": "firms-market-structure",
+    "question": "What is a barrier to entry (BTE)?",
+    "answer": "BTE is defined as anything that prevents or impedes the entry of new firms into the industry and thereby limits the degree of competition faced by existing firms."
+  },
+  {
+    "id": "firms-market-structure-11",
+    "topic": "firms-market-structure",
+    "question": "How can high start-up costs and natural monopoly create barriers to entry?",
+    "answer": "Very high start-up costs → spreading high costs over a large output lowers average costs → firm needs to operate at a very large scale of production to reap IEOS → MES occurs at high levels of output → established large firm producing at Qi can reap IEOS and satisfy the entire market demand at a lower average cost per unit, Ci → potential new firms begin operations on a smaller scale, producing at Qn → incur a higher UCOP, Cn → unable to charge a price low enough to compete against the incumbents\n\nNatural monopoly → small market in which one firm can satisfy the entire market demand → LRAC falls as output expands over a wide range → a second firm would result in losses for both firms → assuming each has half of the market demand, DDm shifts to DDs → AR < LRAC at every output level → only one firm can earn supernormal profits because AR > LRAC"
+  },
+  {
+    "id": "firms-market-structure-12",
+    "topic": "firms-market-structure",
+    "question": "How can network effects create barriers to entry?",
+    "answer": "Network effects → value of a good or service increases as more and more people use the good or service → value individuals derive from the use of the good by other users → bandwagon effect → increase in the use of a good or service by more people → attracts more users → positive feedback loop\n\nExisting firms tend to have an extensive network with many users → makes it more valuable to current and new customers → creating consumer loyalty → makes it difficult for new entrants to draw customers away from incumbent firms\n\nOne type of technology dominates → very hard for a new firm to enter the market with a different technology → especially if it is not compatible with the existing technology → would not be compatible with the documents used by most people → would not gain a critical mass of users"
+  },
+  {
+    "id": "firms-market-structure-13",
+    "topic": "firms-market-structure",
+    "question": "Why does the Singapore telco market have significant barriers to entry?",
+    "answer": "The telco market is characterised by a few dominant firms → in Singapore, M1/Simba, StarHub and Singtel dominate\n\nStructural → firms need expensive technology and network-supporting infrastructure → must be installed across the country\n\nStatutory → limited number of government-issued telco licences"
+  },
+  {
+    "id": "firms-market-structure-14",
+    "topic": "firms-market-structure",
+    "question": "What is the Market Concentration Ratio (MCR)?",
+    "answer": "Market Concentration Ratio (MCR): The size of firms relative to the whole industry assists in determining the market structure."
+  },
+  {
+    "id": "firms-market-structure-15",
+    "topic": "firms-market-structure",
+    "question": "Why can prices remain rigid in an oligopoly?",
+    "answer": "Market prices remain quite stable over a long period of time → firms are aware of the high cost of entering a price war → avoid cutting prices → because of the stiff competition, firms are not willing to raise prices → may lose their customers to a cheaper firm → price rigidity → prices are stable without firms deliberately fixing prices"
+  },
+  {
+    "id": "firms-market-structure-16",
+    "topic": "firms-market-structure",
+    "question": "What characteristics of the hawker food market suggest monopolistic competition?",
+    "answer": "The hawker food market is characterised by many sellers → many hawker stalls across Singapore → each having little market share\n\nProduct is differentiated → variety of cuisines sold"
+  },
+  {
+    "id": "firms-market-structure-17",
+    "topic": "firms-market-structure",
+    "question": "What is allocative efficiency, and why do price setters fail to achieve it?",
+    "answer": "Allocative efficiency → current combination of goods produced and sold gives the maximum satisfaction for each consumer at the current level of income → P = MC → value consumers place on the good is exactly equal to the opportunity cost incurred by society\n\nHigher markup of P over MC → larger allocative inefficiency\n\nPrice setters → do not achieve allocative efficiency"
+  },
+  {
+    "id": "firms-market-structure-18",
+    "topic": "firms-market-structure",
+    "question": "What are the benefits of firms being technologically progressive?",
+    "answer": "Firms are technologically progressive in meeting the changing needs and wants of consumers over time → raises consumer welfare\n\nFor the macroeconomy → improves the competitiveness of the economy → expansion of the economy's productive capacity → economic and sustainable growth"
+  },
+  {
+    "id": "firms-market-structure-19",
+    "topic": "firms-market-structure",
+    "question": "What is productive efficiency, and how can X-inefficiency arise?",
+    "answer": "Productive efficiency → output is produced using the least costly combination of inputs, given the current level of technology\n\nSociety's perspective → at MES → firm fully enjoys the internal economies of scale while avoiding the onset of diseconomies of scale → productive efficiency is achieved\n\nFirm's perspective → LRAC maps out the lowest average cost of producing any given level of output in the long run → firm chooses the appropriate size for producing that level of output → firm produces on the LRAC → incurring the lowest possible cost of producing its chosen level of output → productive efficiency is achieved\n\nFirm operates at a point above the LRAC → firm is described as x-inefficient\n\nStrong BTE → firms could afford to be X-inefficient → allowing their average cost to drift above their LRAC → can charge a price high enough while earning supernormal profits"
+  },
+  {
+    "id": "firms-market-structure-20",
+    "topic": "firms-market-structure",
+    "question": "How does limit pricing deter potential entrants?",
+    "answer": "Limited pricing → prevents new firms from entering the market rather than forcing existing firms out → charging a price of P2, which is lower than the profit-maximising price of P1 → creates an artificial barrier to entry → increases its sales volume from Q1 to Q2 → sacrifices some short-term profits → short-run departure from profit maximisation can prevent entry → lowers entrants' expected profits from entry → potential entrants may decide that the risks of entering the industry are too high as they may make a sizable loss"
+  },
+  {
+    "id": "firms-market-structure-21",
+    "topic": "firms-market-structure",
+    "question": "How does predatory pricing reduce competition and increase market power?",
+    "answer": "Charging a very low price → force competitors to leave the market → predator should expect the losses made in the current period to be offset by future gains → higher market power and profitability arising from less competition in the industry → P1 and Q1 are the profit-maximising price and output levels → P2 and Q2 are the predatory price and output levels → firm makes a loss of C2P2DE at P2 → might force one or more competitors to leave the market if the competitors cannot match the price reduction over the long run → existing firms have been driven out and the entry of new firms has been deterred → remaining incumbent firms can raise prices to profit-maximising levels → higher market power and demand they will enjoy"
+  },
+  {
+    "id": "firms-market-structure-22",
+    "topic": "firms-market-structure",
+    "question": "What conditions are necessary for price discrimination?",
+    "answer": "Firms have to be price setters \n\nPED must differ → different individuals must have different demand curves → profit-maximising firm will charge a lower price where demand is more price elastic\n\nFirm must be able to separate the markets at little or no cost → prevent resale between different markets"
+  },
+  {
+    "id": "firms-market-structure-23",
+    "topic": "firms-market-structure",
+    "question": "When should a firm continue production or shut down in the short run and long run?",
+    "answer": "Short run → firm cannot avoid fixed costs even if it chooses to shut down → can avoid variable costs when it ceases production → if total revenue earned is sufficient to at least cover the variable costs, the firm should continue production → if TR > TVC → revenue earned covers all of TVC and goes towards covering part of TFC → minimises the loss → firm loses only part of its total fixed costs\n\nIf the firm cannot fully cover AVC → it cannot cover any part of AFC → total loss comprises the entire fixed costs and part of the total variable costs → if the firm shuts down → can avoid variable costs altogether → limit its loss to just total fixed costs → rational for firms to shut down and pause production in the short run if TR < TVC\n\nLong run → firms must make at least normal profits to stay in the industry → otherwise, it is better to leave the industry altogether → all FOPs are variable in the long run → better to earn nothing than to incur losses → in line with producers' profit-maximising objectives"
+  },
+  {
+    "id": "firms-market-structure-24",
+    "topic": "firms-market-structure",
+    "question": "What conditions make a cartel easier to sustain?",
+    "answer": "Clear market leader → easier to enforce cartel quotas → has the capacity to increase production quickly and significantly → push prices down → punish cheaters\n\nMarket is concentrated → fewer sellers → more difficult for each firm to cheat and produce more than the pre-agreed quota → easier for other members to find out who cheated\n\nProduct has to be quite homogeneous, and firms' costs must be similar → if products are highly differentiated → each producer will be able to justify setting a different price from its rivals → very difficult to agree on a common price"
+  },
+  {
+    "id": "firms-market-structure-25",
+    "topic": "firms-market-structure",
+    "question": "How does formal, explicit collusion affect price and output?",
+    "answer": "Formal, explicit collusion → oligopoly establishes a virtual monopoly → firms cooperate to jointly fix prices and output → price (Pc) and output (Qc) are determined at the market level by the forces of demand and supply → market supply curve in a perfectly competitive market is given by the MC curve → in the case of a pure monopoly, the demand curve faced by the firm is just the market demand → monopolist produces up to its profit-maximising level Qm, where MC = MR and MC cuts MR from below → charges a price of PM, the maximum price that the market is willing and able to pay for this output → firms collude → act as if they were a monopoly → restrict output and maximise their combined profits → price moves closer to Pm and output towards Qm."
+  },
+  {
+    "id": "firms-market-structure-26",
+    "topic": "firms-market-structure",
+    "question": "How does marginal-cost pricing affect a monopoly's price, output, and profits?",
+    "answer": "Monopolist → charge a price equal to MC → produce at the allocatively efficient level of output → reduction in price and a higher output level compared with the monopolist's own profit-maximising position\n\nNatural monopoly → MC pricing strategy → produce at output Q1 → charge a price of P1 → P(AR) = MC\n\nArtificial monopoly → MC pricing policy → produce at output Q1 → charge a price of P1 → P = MC → AR lies above LRAC → firm continues to make supernormal profits → lower than the maximum possible"
+  },
+  {
+    "id": "firms-market-structure-27",
+    "topic": "firms-market-structure",
+    "question": "How can competition law reduce monopoly power and allocative inefficiency?",
+    "answer": "government puts in place laws → prohibit anti-competitive practices and break up monopolies into smaller independent units → inject greater competition → bring prices down and increase output\n\nfirms collude → act as if they were a monopoly → restrict output and maximise their combined profits → prices move closer to Pm and output towards Qm → competition law in place to prohibit such collusion → firms would act more competitively → price and output in the industry move closer to price Pc and output Qc, determined by market forces → output increases from Qm towards the allocatively efficient output Qc, where P = MC"
+  },
+  {
+    "id": "firms-market-structure-28",
+    "topic": "firms-market-structure",
+    "question": "How can nationalization reduce allocative inefficiency?",
+    "answer": "Nationalization → acquisition of private companies by the public sector → nationalised industries are part of government production and provide private goods for sale in the marketplace → operate in the public interest → may choose to produce a larger output and charge a price closer to that in a competitive market → reduces the extent of allocative inefficiency → firm charges a price at the competitive level, where P = MC"
+  },
+  {
+    "id": "firms-market-structure-29",
+    "topic": "firms-market-structure",
+    "question": "How can market liberalisation increase competition?",
+    "answer": "Market liberalisation → introduces greater competition by reducing government restrictions → Australia's TPG Telecom was granted a licence → mobile plan prices have fallen ever since"
   }
 ]
 
