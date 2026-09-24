@@ -48,30 +48,6 @@
     "answer": "Firms have more time to adjust capacity, obtain inputs, and enter or leave the market. Quantity supplied can therefore respond more strongly to a price change."
   },
   {
-    "id": "failure-1",
-    "topic": "market-failure",
-    "question": "At what output is allocative efficiency achieved?",
-    "answer": "At the output where marginal social benefit equals marginal social cost: MSB = MSC."
-  },
-  {
-    "id": "failure-2",
-    "topic": "market-failure",
-    "question": "How does a negative production externality create market failure?",
-    "answer": "Marginal social cost exceeds marginal private cost. Producers ignore external costs, so market output exceeds socially efficient output, assuming no other distortion. The excess output creates a deadweight welfare loss."
-  },
-  {
-    "id": "failure-3",
-    "topic": "market-failure",
-    "question": "What are the two characteristics of a pure public good?",
-    "answer": "Non-rivalry: one person’s consumption does not reduce availability to others.\nNon-excludability: it is not feasible to prevent non-payers from consuming the good."
-  },
-  {
-    "id": "failure-4",
-    "topic": "market-failure",
-    "question": "Why does non-excludability create a free-rider problem?",
-    "answer": "People can benefit without paying. This weakens the incentive to reveal willingness to pay and makes it difficult for private producers to collect enough revenue."
-  },
-  {
     "id": "indicators-1",
     "topic": "economic-indicators",
     "question": "What is the difference between nominal GDP and real GDP?",
@@ -147,13 +123,13 @@
     "id": "failure-5",
     "topic": "market-failure",
     "question": "What do non-rivalry, non-excludability, and non-rejectability mean?",
-    "answer": "- **Non-rivalry**\n   - **The consumption of the good by one person does not result in less of the good remaining for other consumers.**\n- **Non-excludability**\n   - **It is impossible or prohibitively costly to exclude non-payers from consuming the good once it is produced.**\n- **Non-rejectability**\n   - **Consumers cannot refuse the consumption of the good once it is produced.**"
+    "answer": "- Non-rivalry\n   - The consumption of the good by one person does not result in less of the good remaining for other consumers.\n- Non-excludability\n   - It is impossible or prohibitively costly to exclude non-payers from consuming the good once it is produced.\n- Non-rejectability\n   - Consumers cannot refuse the consumption of the good once it is produced."
   },
   {
     "id": "failure-6",
     "topic": "market-failure",
     "question": "How does non-excludability of street lighting lead to complete market failure?",
-    "answer": "**Non-excludability → non-payers cannot be excluded from enjoying street lighting → free-rider problem → consumers conceal their willingness to pay and wait for others to pay → no effective expression of demand → suppliers cannot charge a meaningful market price or earn sufficient revenue → no incentive for private provision → little or no provision → complete market failure**"
+    "answer": "Non-excludability → non-payers cannot be excluded from enjoying street lighting → free-rider problem → consumers conceal their willingness to pay and wait for others to pay → no effective expression of demand → suppliers cannot charge a meaningful market price or earn sufficient revenue → no incentive for private provision → little or no provision → complete market failure"
   },
   {
     "id": "failure-7",
@@ -165,13 +141,13 @@
     "id": "failure-8",
     "topic": "market-failure",
     "question": "How do positive externalities from R&D lead to market failure?",
-    "answer": "**R&D is a production activity that generates positive externalities** → producers consider their **private benefits** and **private costs** → they would ignore the **external benefits to third parties** → **marginal external benefit (MEB)** → **MSB > MPB** → **MPC = MSC** → producers produce **Qp** units of R&D, where **MPB = MPC** → social optimal level of production is **Qs** units, where **MSB = MSC** → **Qp < Qs** → **underproduction of R&D** → **MSB > MSC** → **total social benefits** exceed the **total social costs** → **deadweight loss** → **market failure** → **allocative inefficient** → **social welfare is not maximised**"
+    "answer": "R&D is a production activity that generates positive externalities → producers consider their private benefits and private costs → they would ignore the external benefits to third parties → marginal external benefit (MEB) → MSB > MPB → MPC = MSC → producers produce Qp units of R&D, where MPB = MPC → social optimal level of production is Qs units, where MSB = MSC → Qp < Qs → underproduction of R&D → MSB > MSC → total social benefits exceed the total social costs → deadweight loss → market failure → allocative inefficient → social welfare is not maximised"
   },
   {
     "id": "failure-9",
     "topic": "market-failure",
     "question": "How can imperfect information cause underconsumption of medical screenings?",
-    "answer": "**imperfect information** → consumers under-estimate their actual **marginal private benefit** (MPBactual) of going for medical screenings → **marginal private benefit** (MPBperceived) that is lower than MPBactual → perceived private optimal output is at 0Qp, where MPBperceived = **MPC** → actual **marginal private benefit** (MPBactual) is higher than their perceived **marginal private benefit** (MPBperceived) → with perfect information, private optimum consumption will be at 0Qa → consumer has underconsumed health screenings → quantity of medical screening consumed by the consumer is sub-optimal → does not maximises his/her welfare → market failure"
+    "answer": "imperfect information → consumers under-estimate their actual marginal private benefit (MPBactual) of going for medical screenings → marginal private benefit (MPBperceived) that is lower than MPBactual → perceived private optimal output is at 0Qp, where MPBperceived = MPC → actual marginal private benefit (MPBactual) is higher than their perceived marginal private benefit (MPBperceived) → with perfect information, private optimum consumption will be at 0Qa → consumer has underconsumed health screenings → quantity of medical screening consumed by the consumer is sub-optimal → does not maximises his/her welfare → market failure"
   },
   {
     "id": "failure-10",
@@ -201,19 +177,19 @@
     "id": "failure-14",
     "topic": "market-failure",
     "question": "How can supplier-induced demand lead to overconsumption and deadweight loss?",
-    "answer": "A profit-motivated doctor may use their superior knowledge to influence their patients' demand in their own self-interest. This is known as supplier-induced demand.\n\ndoctor may prescribe expensive treatments or less efficacious drugs → exaggerating the benefits of certain treatments and drugs → $MPB_{perceived}$ higher than $MPB_{actual}$ → consumers consume up to $Q_p$, where $MPB_{perceived}=MPC_{actual}$ → assuming no externalities, $MSB_{actual}=MPB_{actual}$ and $MSC_{actual}=MPC_{actual}$ → socially optimal output is $Q_s$, where $MSB_{actual}=MSC_{actual}$ → $Q_p>Q_s$ → good is overconsumed → additional costs to society exceed the additional benefits to society → deadweight loss"
+    "answer": "A profit-motivated doctor may use their superior knowledge to influence their patients' demand in their own self-interest. This is known as supplier-induced demand.\n\ndoctor may prescribe expensive treatments or less efficacious drugs → exaggerating the benefits of certain treatments and drugs → MPBperceived higher than MPBactual → consumers consume up to Qp, where MPBperceived=MPCactual → assuming no externalities, MSBactual=MPBactual and MSCactual=MPCactual → socially optimal output is Qs, where MSBactual=MSCactual → Qp>Qs → good is overconsumed → additional costs to society exceed the additional benefits to society → deadweight loss"
   },
   {
     "id": "indicators-5",
     "topic": "economic-indicators",
     "question": "How can imperfect information about worker productivity lead to real-wage unemployment?",
-    "answer": "firms have imperfect information about worker productivity → incentive for workers to shirk → the more difficult and costly it is for managers to monitor workers, the less likely workers are to be caught shirking → firms pay workers a higher wage to raise the marginal cost of shirking → workers will lose a better-paid job if they are caught and dismissed → wage kept at $w_1$, above the mkt-clearing wage $w_e$ → quantity of labour supplied $Q_S$ exceeds quantity of labour demanded $Q_D$ → surplus of labour, $Q_S-Q_D$ → unemployment → **real-wage unemployment**"
+    "answer": "firms have imperfect information about worker productivity → incentive for workers to shirk → the more difficult and costly it is for managers to monitor workers, the less likely workers are to be caught shirking → firms pay workers a higher wage to raise the marginal cost of shirking → workers will lose a better-paid job if they are caught and dismissed → wage kept at w1, above the mkt-clearing wage we → quantity of labour supplied QS exceeds quantity of labour demanded QD → surplus of labour, QS-QD → unemployment → real-wage unemployment"
   },
   {
     "id": "indicators-6",
     "topic": "economic-indicators",
     "question": "How does imperfect information in the labour market lead to frictional unemployment?",
-    "answer": "workers are not fully aware of the types of jobs available, while employers are not fully informed about the types of labour available → people who are willing and able to work at the prevailing wage rate and are actively searching for jobs but do not currently have jobs → job-search and matching process takes time → **frictional unemployment**"
+    "answer": "workers are not fully aware of the types of jobs available, while employers are not fully informed about the types of labour available → people who are willing and able to work at the prevailing wage rate and are actively searching for jobs but do not currently have jobs → job-search and matching process takes time → frictional unemployment"
   }
 ]
 
