@@ -1,4 +1,0 @@
----
-title: Flashcards
-view: flashcards
----
