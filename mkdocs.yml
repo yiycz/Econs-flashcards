@@ -30,31 +30,35 @@ nav:
   - Flashcards: index.md
 extra:
   topics:
-    - id: price-mechanism
+   - id: price-mechanism
       title: Price mechanism
       group: Microeconomics
       description: Demand, supply, equilibrium, and the role of prices.
     - id: elasticity
       title: Elasticity
       group: Microeconomics
-      description: Responsiveness, total revenue, and market adjustment.
-    - id: market-failure
-      title: Market failure
+      description: PED, XED, YED, PES, and their applications.
+    - id: microeconomic-policies
+      title: Microeconomic policies
       group: Microeconomics
-      description: Externalities, public goods, and allocative efficiency.
+      description: Taxes, subsidies, price controls, quotas, and responses to market failure.
     - id: economic-indicators
       title: Economic indicators
       group: Macroeconomics
-      description: GDP, inflation, unemployment, and living standards.
+      description: GDP, GNI, living standards, and alternative indicators.
     - id: aggregate-demand-supply
       title: Aggregate demand and supply
       group: Macroeconomics
-      description: National output, the price level, and spare capacity.
-    - id: policy-choices
-      title: Macroeconomics Policy
+      description: Output, productive capacity, and multiplier analysis.
+    - id: macroeconomic-goals
+      title: Macroeconomic goals and issues
       group: Macroeconomics
-      description: Fiscal, monetary, and supply-side policy.
-    - id: firms-market-structure
-      title: Firms and decisions
-      group: Microeconomics
-      description: Firm objectives, economies of scale, market power, barriers to entry, efficiency, pricing strategies, and collusion.
+      description: Growth, inflation, external balances, capital flows, and unemployment.
+    - id: policy-choices
+      title: Policy choices
+      group: Macroeconomics
+      description: Fiscal, monetary, exchange-rate, and supply-side policies.
+    - id: globalisation
+      title: Globalisation
+      group: International economics
+      description: Comparative advantage, trade, protectionism, and economic cooperation.pricing strategies, and collusion.
