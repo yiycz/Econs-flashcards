@@ -1,6 +1,3 @@
-# Economics Flashcards JSON
-
-```json
 [
   {
     "id": "price-1",
@@ -219,4 +216,4 @@
     "answer": "workers are not fully aware of the types of jobs available, while employers are not fully informed about the types of labour available → people who are willing and able to work at the prevailing wage rate and are actively searching for jobs but do not currently have jobs → job-search and matching process takes time → **frictional unemployment**"
   }
 ]
-```
+
