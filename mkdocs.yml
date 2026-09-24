@@ -54,3 +54,7 @@ extra:
       title: Policy choices
       group: Macroeconomics
       description: Fiscal, monetary, and supply-side policy.
+    - id: firms-market-structure
+      title: Firms and market structure
+      group: Microeconomics
+      description: Firm objectives, economies of scale, market power, barriers to entry, efficiency, pricing strategies, and collusion.
