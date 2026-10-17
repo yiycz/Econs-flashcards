@@ -1,849 +1,141 @@
 [
   {
-    "id": "firms-market-structure-1",
-    "topic": "firms-market-structure",
-    "question": "Why can a separation of ownership and management arise as firms grow?",
-    "answer": "entrepreneurs and employers have to employ others to carry out specialised tasks → frequently hire consultants to give them advice or engage the services of specialist firms → they are seen as \"agents\" of their employers → as firms grow in size, there may be a separation of ownership and management → ownership is usually in the hands of shareholders, while day-to-day operations are controlled by directors and managers"
-  },
-  {
-    "id": "firms-market-structure-2",
-    "topic": "firms-market-structure",
-    "question": "How can management pursue sales-revenue maximisation instead of profit maximisation?",
-    "answer": "management salaries may be linked to the value of a firm's sales → firm may accept a lower price and produce above the profit-maximising output to increase market share → raise output beyond MC = MR until MR = 0 → extra sales beyond MR = 0 will not increase revenue → revenue is already maximised"
-  },
-  {
-    "id": "firms-market-structure-3",
-    "topic": "firms-market-structure",
-    "question": "Why might firms engage in profit-satisficing behaviour?",
-    "answer": "shareholders are divorced from the control of the firm → shareholders are keen on profits, while management is concerned with growth → interests of shareholders and management may be in conflict → profit-satisficing behaviour may be negotiated → firms seek to make a reasonable level of profit, sufficient to satisfy shareholders or meet a target set for management → feature of firms that have enjoyed a high market share over long periods → complacency"
-  },
-  {
-    "id": "firms-market-structure-4",
-    "topic": "firms-market-structure",
-    "question": "Why may firms seek growth and greater market dominance?",
-    "answer": "At AC = AR, the firm just makes normal profit → in industries where there are substantial IEOS to be reaped, MES is large → firms need to be large to keep their UCOP down → charge lower prices → undercut their competitors → further increase their market share → while still enjoying larger profits → firms grow to gain market dominance or market share in their industries → market power increases its bargaining power over consumers → allowing it to raise the prices of its products → faces a more price-inelastic demand curve"
-  },
-  {
-    "id": "firms-market-structure-5",
-    "topic": "firms-market-structure",
-    "question": "What are internal economies of scale, and what are their main sources?",
-    "answer": "cost savings arising from the increase in scale of production of the firm\n\nSpecialization → assigning workers to specific roles → daily repetition → accumulate more skills and knowledge → increase their productivity → increasing output per worker → reducing unit costs\n\nIndivisibilities of factor i/p → large firms have resources to support R&D into better products and cheaper production techniques → large scale of production → spreads R&D costs over a large output\n\nPurchase in bulk → large firms have a bargaining advantage → preferential treatment by suppliers → bulk buying of raw materials → obtain goods at lower costs and on better terms → lower unit costs\n\nFinancial → larger firms can obtain bank loans at lower interest rates than smaller firms → perceived to be more financially stable → unlikely to default on their loans"
-  },
-  {
-    "id": "firms-market-structure-6",
-    "topic": "firms-market-structure",
-    "question": "What are internal diseconomies of scale, and how can managerial IDOS arise?",
-    "answer": "A situation in which a firm experiences rising average costs as it increases its scale of production\n\nManagerial IDOS → large firms are bogged down by rules and regulations → excessive red tape → slows down decision-making → decreases efficiency → increase in average costs\n\nManagerial IDOS → large firms are hard to manage → coordinating work among different departments requires more supervision → increase in average costs"
-  },
-  {
-    "id": "firms-market-structure-7",
-    "topic": "firms-market-structure",
-    "question": "What are external economies of scale, and what are their main sources?",
-    "answer": "The reduction in unit costs arising from industry expansion\n\nEconomies of concentration → firms concentrate within a geographical area → benefit from a larger pool of skilled labour and improvements in infrastructure → cost of development can be shared among more firms as the industry expands\n\nEconomies of information → trade associations / central research centres provide common information services through journals and newsletters"
-  },
-  {
-    "id": "firms-market-structure-8",
-    "topic": "firms-market-structure",
-    "question": "What are external diseconomies of scale, and how can they arise?",
-    "answer": "A rise in firms' UCOP due to industry growth\n\nOver-concentration → over-utilisation of common infrastructure → excessive strain on the infrastructure → decrease productivity → increasing production costs\n\nHigher input prices → industry expands → demand for FOPs rises → higher input prices → especially if the supply of FOPs is price inelastic"
-  },
-  {
-    "id": "firms-market-structure-9",
-    "topic": "firms-market-structure",
-    "question": "What is market power?",
-    "answer": "Market power refers to the ability of a seller to exert significant influence over the quantity of a good or service traded or the price at which it is sold."
-  },
-  {
-    "id": "firms-market-structure-10",
-    "topic": "firms-market-structure",
-    "question": "What is a barrier to entry (BTE)?",
-    "answer": "BTE is defined as anything that prevents or impedes the entry of new firms into the industry and thereby limits the degree of competition faced by existing firms."
-  },
-  {
-    "id": "firms-market-structure-11",
-    "topic": "firms-market-structure",
-    "question": "How can high start-up costs and natural monopoly create barriers to entry?",
-    "answer": "Very high start-up costs → spreading high costs over a large output lowers average costs → firm needs to operate at a very large scale of production to reap IEOS → MES occurs at high levels of output → established large firm producing at Qi can reap IEOS and satisfy the entire market demand at a lower average cost per unit, Ci → potential new firms begin operations on a smaller scale, producing at Qn → incur a higher UCOP, Cn → unable to charge a price low enough to compete against the incumbents\n\nNatural monopoly → small market in which one firm can satisfy the entire market demand → LRAC falls as output expands over a wide range → a second firm would result in losses for both firms → assuming each has half of the market demand, DDm shifts to DDs → AR < LRAC at every output level → only one firm can earn supernormal profits because AR > LRAC"
-  },
-  {
-    "id": "firms-market-structure-12",
-    "topic": "firms-market-structure",
-    "question": "How can network effects create barriers to entry?",
-    "answer": "Network effects → value of a good or service increases as more and more people use the good or service → value individuals derive from the use of the good by other users → bandwagon effect → increase in the use of a good or service by more people → attracts more users → positive feedback loop\n\nExisting firms tend to have an extensive network with many users → makes it more valuable to current and new customers → creating consumer loyalty → makes it difficult for new entrants to draw customers away from incumbent firms\n\nOne type of technology dominates → very hard for a new firm to enter the market with a different technology → especially if it is not compatible with the existing technology → would not be compatible with the documents used by most people → would not gain a critical mass of users"
-  },
-  {
-    "id": "firms-market-structure-13",
-    "topic": "firms-market-structure",
-    "question": "Why does the Singapore telco market have significant barriers to entry?",
-    "answer": "The telco market is characterised by a few dominant firms → in Singapore, M1/Simba, StarHub and Singtel dominate\n\nStructural → firms need expensive technology and network-supporting infrastructure → must be installed across the country\n\nStatutory → limited number of government-issued telco licences"
-  },
-  {
-    "id": "firms-market-structure-14",
-    "topic": "firms-market-structure",
-    "question": "What is the Market Concentration Ratio (MCR)?",
-    "answer": "Market Concentration Ratio (MCR): The size of firms relative to the whole industry assists in determining the market structure."
-  },
-  {
-    "id": "firms-market-structure-15",
-    "topic": "firms-market-structure",
-    "question": "Why can prices remain rigid in an oligopoly?",
-    "answer": "Market prices remain quite stable over a long period of time → firms are aware of the high cost of entering a price war → avoid cutting prices → because of the stiff competition, firms are not willing to raise prices → may lose their customers to a cheaper firm → price rigidity → prices are stable without firms deliberately fixing prices"
-  },
-  {
-    "id": "firms-market-structure-16",
-    "topic": "firms-market-structure",
-    "question": "What characteristics of the hawker food market suggest monopolistic competition?",
-    "answer": "The hawker food market is characterised by many sellers → many hawker stalls across Singapore → each having little market share\n\nProduct is differentiated → variety of cuisines sold"
-  },
-  {
-    "id": "firms-market-structure-17",
-    "topic": "firms-market-structure",
-    "question": "What is allocative efficiency, and why do price setters fail to achieve it?",
-    "answer": "Allocative efficiency → current combination of goods produced and sold gives the maximum satisfaction for each consumer at the current level of income → P = MC → value consumers place on the good is exactly equal to the opportunity cost incurred by society\n\nHigher markup of P over MC → larger allocative inefficiency\n\nPrice setters → do not achieve allocative efficiency"
-  },
-  {
-    "id": "firms-market-structure-18",
-    "topic": "firms-market-structure",
-    "question": "What are the benefits of firms being technologically progressive?",
-    "answer": "Firms are technologically progressive in meeting the changing needs and wants of consumers over time → raises consumer welfare\n\nFor the macroeconomy → improves the competitiveness of the economy → expansion of the economy's productive capacity → economic and sustainable growth"
-  },
-  {
-    "id": "firms-market-structure-19",
-    "topic": "firms-market-structure",
-    "question": "What is productive efficiency, and how can X-inefficiency arise?",
-    "answer": "Productive efficiency → output is produced using the least costly combination of inputs, given the current level of technology\n\nSociety's perspective → at MES → firm fully enjoys the internal economies of scale while avoiding the onset of diseconomies of scale → productive efficiency is achieved\n\nFirm's perspective → LRAC maps out the lowest average cost of producing any given level of output in the long run → firm chooses the appropriate size for producing that level of output → firm produces on the LRAC → incurring the lowest possible cost of producing its chosen level of output → productive efficiency is achieved\n\nFirm operates at a point above the LRAC → firm is described as x-inefficient\n\nStrong BTE → firms could afford to be X-inefficient → allowing their average cost to drift above their LRAC → can charge a price high enough while earning supernormal profits"
-  },
-  {
-    "id": "firms-market-structure-20",
-    "topic": "firms-market-structure",
-    "question": "How does limit pricing deter potential entrants?",
-    "answer": "Limited pricing → prevents new firms from entering the market rather than forcing existing firms out → charging a price of P2, which is lower than the profit-maximising price of P1 → creates an artificial barrier to entry → increases its sales volume from Q1 to Q2 → sacrifices some short-term profits → short-run departure from profit maximisation can prevent entry → lowers entrants' expected profits from entry → potential entrants may decide that the risks of entering the industry are too high as they may make a sizable loss"
-  },
-  {
-    "id": "firms-market-structure-21",
-    "topic": "firms-market-structure",
-    "question": "How does predatory pricing reduce competition and increase market power?",
-    "answer": "Charging a very low price → force competitors to leave the market → predator should expect the losses made in the current period to be offset by future gains → higher market power and profitability arising from less competition in the industry → P1 and Q1 are the profit-maximising price and output levels → P2 and Q2 are the predatory price and output levels → firm makes a loss of C2P2DE at P2 → might force one or more competitors to leave the market if the competitors cannot match the price reduction over the long run → existing firms have been driven out and the entry of new firms has been deterred → remaining incumbent firms can raise prices to profit-maximising levels → higher market power and demand they will enjoy"
-  },
-  {
-    "id": "firms-market-structure-22",
-    "topic": "firms-market-structure",
-    "question": "What conditions are necessary for price discrimination?",
-    "answer": "Firms have to be price setters \n\nPED must differ → different individuals must have different demand curves → profit-maximising firm will charge a lower price where demand is more price elastic\n\nFirm must be able to separate the markets at little or no cost → prevent resale between different markets"
-  },
-  {
-    "id": "firms-market-structure-23",
-    "topic": "firms-market-structure",
-    "question": "When should a firm continue production or shut down in the short run and long run?",
-    "answer": "Short run → firm cannot avoid fixed costs even if it chooses to shut down → can avoid variable costs when it ceases production → if total revenue earned is sufficient to at least cover the variable costs, the firm should continue production → if TR > TVC → revenue earned covers all of TVC and goes towards covering part of TFC → minimises the loss → firm loses only part of its total fixed costs\n\nIf the firm cannot fully cover AVC → it cannot cover any part of AFC → total loss comprises the entire fixed costs and part of the total variable costs → if the firm shuts down → can avoid variable costs altogether → limit its loss to just total fixed costs → rational for firms to shut down and pause production in the short run if TR < TVC\n\nLong run → firms must make at least normal profits to stay in the industry → otherwise, it is better to leave the industry altogether → all FOPs are variable in the long run → better to earn nothing than to incur losses → in line with producers' profit-maximising objectives"
-  },
-  {
-    "id": "firms-market-structure-24",
-    "topic": "firms-market-structure",
-    "question": "What conditions make a cartel easier to sustain?",
-    "answer": "Clear market leader → easier to enforce cartel quotas → has the capacity to increase production quickly and significantly → push prices down → punish cheaters\n\nMarket is concentrated → fewer sellers → more difficult for each firm to cheat and produce more than the pre-agreed quota → easier for other members to find out who cheated\n\nProduct has to be quite homogeneous, and firms' costs must be similar → if products are highly differentiated → each producer will be able to justify setting a different price from its rivals → very difficult to agree on a common price"
-  },
-  {
-    "id": "firms-market-structure-25",
-    "topic": "firms-market-structure",
-    "question": "How does formal, explicit collusion affect price and output?",
-    "answer": "Formal, explicit collusion → oligopoly establishes a virtual monopoly → firms cooperate to jointly fix prices and output → price (Pc) and output (Qc) are determined at the market level by the forces of demand and supply → market supply curve in a perfectly competitive market is given by the MC curve → in the case of a pure monopoly, the demand curve faced by the firm is just the market demand → monopolist produces up to its profit-maximising level Qm, where MC = MR and MC cuts MR from below → charges a price of PM, the maximum price that the market is willing and able to pay for this output → firms collude → act as if they were a monopoly → restrict output and maximise their combined profits → price moves closer to Pm and output towards Qm."
-  },
-  {
-    "id": "firms-market-structure-26",
-    "topic": "firms-market-structure",
-    "question": "How does marginal-cost pricing affect a monopoly's price, output, and profits?",
-    "answer": "Monopolist → charge a price equal to MC → produce at the allocatively efficient level of output → reduction in price and a higher output level compared with the monopolist's own profit-maximising position\n\nNatural monopoly → MC pricing strategy → produce at output Q1 → charge a price of P1 → P(AR) = MC\n\nArtificial monopoly → MC pricing policy → produce at output Q1 → charge a price of P1 → P = MC → AR lies above LRAC → firm continues to make supernormal profits → lower than the maximum possible"
-  },
-  {
-    "id": "firms-market-structure-27",
-    "topic": "firms-market-structure",
-    "question": "How can competition law reduce monopoly power and allocative inefficiency?",
-    "answer": "government puts in place laws → prohibit anti-competitive practices and break up monopolies into smaller independent units → inject greater competition → bring prices down and increase output\n\nfirms collude → act as if they were a monopoly → restrict output and maximise their combined profits → prices move closer to Pm and output towards Qm → competition law in place to prohibit such collusion → firms would act more competitively → price and output in the industry move closer to price Pc and output Qc, determined by market forces → output increases from Qm towards the allocatively efficient output Qc, where P = MC"
-  },
-  {
-    "id": "firms-market-structure-28",
-    "topic": "firms-market-structure",
-    "question": "How can nationalization reduce allocative inefficiency?",
-    "answer": "Nationalization → acquisition of private companies by the public sector → nationalised industries are part of government production and provide private goods for sale in the marketplace → operate in the public interest → may choose to produce a larger output and charge a price closer to that in a competitive market → reduces the extent of allocative inefficiency → firm charges a price at the competitive level, where P = MC"
-  },
-  {
-    "id": "firms-market-structure-29",
-    "topic": "firms-market-structure",
-    "question": "How can market liberalisation increase competition?",
-    "answer": "Market liberalisation → introduces greater competition by reducing government restrictions → Australia's TPG Telecom was granted a licence → mobile plan prices have fallen ever since"
-  },
-  {
-    "id": "notion-econs-01-001",
+    "id": "notion-econs-01-001-1",
     "topic": "price-mechanism",
-    "question": "How do demand and quantity demanded differ?",
-    "answer": "Demand is defined as the quantity of a good or service that a consumer is both w/a to buy at each possible price during a given period of time, ceteris paribus.\n\nQuantity demanded is defined as the amount of g&s that a consumer is both w/a to buy at a given price over a period of time."
+    "question": "What is demand?",
+    "answer": "Demand is defined as the quantity of a good or service that a consumer is both w/a to buy at each possible price during a given period of time, ceteris paribus."
+  },
+  {
+    "id": "notion-econs-01-001-2",
+    "topic": "price-mechanism",
+    "question": "What is quantity demanded?",
+    "answer": "Quantity demanded is defined as the amount of g&s that a consumer is both w/a to buy at a given price over a period of time."
   },
   {
     "id": "notion-econs-01-002",
     "topic": "price-mechanism",
-    "question": "What is the law of demand, and how do income and substitution effects explain it?",
-    "answer": "quantity demanded of a good is inversely related to its price, ceteris paribus.\n\nIncome effect: → Price of a good ↓ → consumers' purchasing power has ↑ → Q_d↑\n\nSubstitution effect: → Price of a good ↓ → it becomes relatively cheaper than other g&s in the market → Consumers seeking to maximise their utility with their given Y will switch towards this good → Q_d↑"
+    "question": "What is the law of demand?",
+    "answer": "quantity demanded of a good is inversely related to its price, ceteris paribus."
   },
   {
     "id": "notion-econs-01-003",
     "topic": "price-mechanism",
-    "question": "What is the law of diminishing marginal utility, and how does it explain the demand curve?",
-    "answer": "as more and more units of a good are consumed per period of time → the additional satisfaction or utility derived from the consumption of each successive unit will decrease → maximum price, or reservation price, that buyers are w/a to pay for an additional unit of the good → slope downwards from left to right"
-  },
-  {
-    "id": "notion-econs-01-004",
-    "topic": "price-mechanism",
-    "question": "How do expectations, government intervention, tastes and income affect demand?",
-    "answer": "anticipate that P↑ → current dd for the good will likely ↑ → avoid paying a higher price in the future\n\nTaste and preference shifts → Fashion → Advertising → Government intervention → Change in seasons\n\nAssuming normal goods, Y↑ raises consumers' purchasing power and ability to buy g&s, so dd ↑"
+    "question": "What is the law of diminishing marginal utility?",
+    "answer": "as more and more units of a good are consumed per period of time → the additional satisfaction or utility derived from the consumption of each successive unit will decrease"
   },
   {
     "id": "notion-econs-01-005",
     "topic": "price-mechanism",
-    "question": "What are substitutes, and how do their prices affect demand for each other?",
-    "answer": "Substitutes are a pair of goods considered by consumers to be alternatives to each other → If the px of good A increases, the demand for good B increases\n\nThe stronger the relationship between two substitutes or complements → the larger the impact of a change in the px of one good on the demand for the other"
+    "question": "What are substitutes?",
+    "answer": "Substitutes are a pair of goods considered by consumers to be alternatives to each other"
   },
   {
     "id": "notion-econs-01-006",
     "topic": "price-mechanism",
-    "question": "What are complements, and how do their prices affect demand for each other?",
-    "answer": "Complementary goods are a pair of goods consumed together to satisfy the same want → cars and petrol → If the px of good A increases, the demand for good B decreases"
+    "question": "What are complements?",
+    "answer": "Complementary goods are a pair of goods consumed together to satisfy the same want"
   },
   {
     "id": "notion-econs-01-007",
     "topic": "price-mechanism",
-    "question": "What is derived demand, and how do demographics affect demand?",
-    "answer": "Derived demand occurs when the demand for one good arises as a result of the demand for another → demand for steel stems from the demand for final products such as cars\n\nPopulation size increases → demand increases\n\nIf the elderly population increases, demand for old folks' homes increases"
+    "question": "What is derived demand?",
+    "answer": "Derived demand occurs when the demand for one good arises as a result of the demand for another"
   },
   {
-    "id": "notion-econs-01-008",
+    "id": "notion-econs-01-008-1",
     "topic": "price-mechanism",
-    "question": "How do supply and quantity supplied differ?",
-    "answer": "Supply is defined as the quantity of a good or service that a producer is both w/a to sell at each possible price during a given period of time, ceteris paribus.\n\nQuantity supplied is the amount of a good that a producer is both w/a to sell at a given price during a given period of time, ceteris paribus."
+    "question": "What is supply?",
+    "answer": "Supply is defined as the quantity of a good or service that a producer is both w/a to sell at each possible price during a given period of time, ceteris paribus."
+  },
+  {
+    "id": "notion-econs-01-008-2",
+    "topic": "price-mechanism",
+    "question": "What is quantity supplied?",
+    "answer": "Quantity supplied is the amount of a good that a producer is both w/a to sell at a given price during a given period of time, ceteris paribus."
   },
   {
     "id": "notion-econs-01-009",
     "topic": "price-mechanism",
-    "question": "What is the law of supply, and how do diminishing marginal returns explain it?",
-    "answer": "direct relationship between price and quantity supplied, ceteris paribus\n\nhire ↑ workers → number of machines is fixed → each worker will have ↓ machines to work with → Each additional worker will contribute successively ↓ amounts to total o/p → cost of producing an additional unit of o/p ↑ → supply curve → slope upwards from left to right"
-  },
-  {
-    "id": "notion-econs-01-010",
-    "topic": "price-mechanism",
-    "question": "What are the determinants of supply?",
-    "answer": "price of a good is expected to ↑ → build up their stocks to sell at a higher price in the future → current ss will ↓\n\nJoint supply is the production of goods that are derived from a single product → beef and leather\n\nCompetitive supply → goods compete for resources, and producing more of one means producing less of the other\n\nPx of factor i/ps ↑ → MC↑ relative to MR → producers will ↓ SS to avoid the ML\n\nState of technology ↑ → productivity ↑ → MCOP↓ relative to MR → producers are incentivised to ↑ SS to capture additional MP\n\nNumber of producers increases → supply increases\n\nStorms, floods, droughts, and poor harvests → Supply of agricultural goods falls"
-  },
-  {
-    "id": "notion-econs-01-011",
-    "topic": "price-mechanism",
-    "question": "How does the market adjustment process eliminate a surplus?",
-    "answer": "Surplus → firms cut prices → Quantity demanded rises → Units of o/p that can only be produced at higher MC become unprofitable → Profit-maximising firms cut back o/p to avoid the ML → quantity demanded exactly balances quantity supplied and the surplus is eliminated"
-  },
-  {
-    "id": "notion-econs-01-012",
-    "topic": "price-mechanism",
-    "question": "How does the market adjustment process eliminate a shortage?",
-    "answer": "Shortage → buyers bid up prices as they compete for the good → Quantity demanded falls → Units of o/p that can only be produced at higher MC become profitable → Profit-maximising firms increase o/p to capture additional MP → quantity demanded exactly balances quantity supplied and the shortage is eliminated"
+    "question": "What is the law of supply?",
+    "answer": "direct relationship between price and quantity supplied, ceteris paribus"
   },
   {
     "id": "notion-econs-01-013",
     "topic": "elasticity",
-    "question": "What is PED, how is it calculated, and how are its values interpreted?",
-    "answer": "PED is a measure of the degree of responsiveness of the Q_dd for a good to a change in the price of the good itself, ceteris paribus\n\nPED=(%Δ Q_dd) / (%Δ P)\n\nIf |PED|>1, demand is price elastic\n\nIf |PED|<1, demand is price inelastic\n\nIf |PED|=1, demand is unit price elastic\n\nIf |PED|=0, demand is perfectly price inelastic\n\nIf |PED|→∞, demand is perfectly price elastic"
-  },
-  {
-    "id": "notion-econs-01-014",
-    "topic": "elasticity",
-    "question": "What determines PED?",
-    "answer": "Availability of substitutes ↑, and closeness of substitutes ↑ → demand becomes more price elastic\n\nNecessities → Consumers cannot forgo the purchase easily or switch to alternatives → demand tends to be less price elastic\n\nDegree of addiction ↑ → demand becomes less price elastic\n\nProportion of income spent ↑ → demand becomes more price elastic\n\nTime period in which a consumer makes a purchasing decision ↑ → demand becomes more price elastic"
+    "question": "What is PED, how is it calculated?",
+    "answer": "PED is a measure of the degree of responsiveness of the Q_dd for a good to a change in the price of the good itself, ceteris paribus PED=(%Δ Q_dd) / (%Δ P)"
   },
   {
     "id": "notion-econs-01-015",
     "topic": "elasticity",
-    "question": "What is XED, and what do its sign and magnitude show?",
-    "answer": "XED is a measure of the responsiveness of the demand for one good to a change in the price of another good, ceteris paribus\n\nXED=(%Δ Q_dd,A) / (%Δ P_B)\n\nIf XED>0, A and B are substitutes\n\nIf XED=0, A and B are unrelated goods\n\nIf XED<0, A and B are complementary goods\n\nshows how closely related the two goods are"
+    "question": "What is XED?",
+    "answer": "XED is a measure of the responsiveness of the demand for one good to a change in the price of another good, ceteris paribus XED=(%Δ Q_dd,A) / (%Δ P_B)"
   },
   {
     "id": "notion-econs-01-016",
     "topic": "elasticity",
-    "question": "What is YED, and how does it identify a normal good?",
-    "answer": "YED is a measure of the responsiveness of demand to a change in income, ceteris paribus\n\nYED=(%Δ Q_dd) / (%Δ Y)\n\nIf YED>0, the good is a normal good → demand changes in the same direction as the change in income"
+    "question": "What is YED?",
+    "answer": "YED is a measure of the responsiveness of demand to a change in income, ceteris paribus YED=(%Δ Q_dd) / (%Δ Y)"
   },
   {
     "id": "notion-econs-01-017",
     "topic": "elasticity",
     "question": "What characterises an income-inelastic necessity?",
-    "answer": "Necessity: 0<YED<1 — Income Inelastic\n\nA change in income produces a less than proportionate change in dd in the same direction\n\nessential for survival, and consumers cannot easily forgo the purchase"
+    "answer": "Necessity: 0<YED<1 — Income Inelastic"
   },
   {
-    "id": "notion-econs-01-018",
+    "id": "notion-econs-01-018-1",
     "topic": "elasticity",
-    "question": "What characterises a luxury and an inferior good?",
-    "answer": "Luxury: YED>1 — Income Elastic\n\nconsumed only after expenditure on necessities has been accounted for → A change in income produces a more than proportionate change in dd\n\nIf YED<0, the good is an inferior good → demand changes in the opposite direction to the change in income"
+    "question": "What is a luxury good?",
+    "answer": "Luxury: YED>1 — Income Elastic"
+  },
+  {
+    "id": "notion-econs-01-018-2",
+    "topic": "elasticity",
+    "question": "What is an inferior good?",
+    "answer": "If YED<0, the good is an inferior good → demand changes in the opposite direction to the change in income"
   },
   {
     "id": "notion-econs-01-019",
     "topic": "elasticity",
-    "question": "What is PES, how is it calculated, and how are its values interpreted?",
-    "answer": "PES is a measure of the responsiveness of the Q_ss of a good to a change in its price, ceteris paribus\n\nPES=(%Δ Q_ss) / (%Δ P)\n\nIf PES>1, supply is price elastic\n\nIf 0<PES<1, supply is price inelastic\n\nIf PES=1, supply is unit price elastic\n\nIf PES=0, supply is perfectly price inelastic\n\nIf PES→∞, supply is perfectly price elastic"
-  },
-  {
-    "id": "notion-econs-01-020",
-    "topic": "elasticity",
-    "question": "What determines PES?",
-    "answer": "in the long run, firms have time to modify machinery to step up production, shift goods, or vary production → supply becomes more price elastic\n\nAvailability of stocks ↑ → supply becomes more price elastic\n\nfirm is operating near full capacity → supply becomes less price elastic\n\nmobility of fops is measured by geographical and occupational mobility"
-  },
-  {
-    "id": "notion-econs-01-021",
-    "topic": "elasticity",
-    "question": "Which elasticities can be used in market analysis?",
-    "answer": "XED / YED / PED / PES"
-  },
-  {
-    "id": "notion-econs-01-022",
-    "topic": "elasticity",
-    "question": "How does the magnitude of an increase in demand affect equilibrium?",
-    "answer": "larger the ↑ in demand → larger the resultant shortage at the original price level → prices need to be increased by a larger magnitude → induce a sufficiently large ↓ Q_dd and ↑ Q_ss → market clears and a new equilibrium is established → ↑ in equilibrium quantity is also more significant"
-  },
-  {
-    "id": "notion-econs-01-023",
-    "topic": "elasticity",
-    "question": "How does the magnitude of a decrease in supply affect equilibrium?",
-    "answer": "larger the ↓ in supply → larger the resultant shortage at the original price level → prices need to be increased by a larger magnitude → induce a sufficiently large ↓ Q_dd and ↑ Q_ss → market clears and a new equilibrium is established → ↓ in equilibrium quantity is also more significant"
-  },
-  {
-    "id": "notion-econs-01-024",
-    "topic": "elasticity",
-    "question": "How does PED affect the market response to a decrease in supply?",
-    "answer": "decrease in supply → shortage exists at the original price → less price elastic the demand → less responsive Q_dd is to price changes → Prices need to ↑ by a larger extent → induce a sufficiently large ↓ Q_dd → overall ↓ in quantity exchanged is less significant"
-  },
-  {
-    "id": "notion-econs-01-025",
-    "topic": "elasticity",
-    "question": "How does PES affect the market response to an increase in demand?",
-    "answer": "increase in demand → shortage exists at the original price → less price elastic the supply → less responsive Q_ss is to price changes → Prices need to ↑ by a larger extent → induce a sufficiently large ↑ Q_ss → overall ↑ in quantity exchanged is less significant"
-  },
-  {
-    "id": "notion-econs-01-026",
-    "topic": "elasticity",
-    "question": "How does a price rise affect expenditure when demand is price elastic?",
-    "answer": "price elastic → a change in price leads to a more than proportionate change in its Q_dd in the opposite direction → price increase → ↓ in consumer expenditure due to the ↓ in the number of units bought is greater than the ↑ in consumer expenditure due to the ↑ in spending per unit → net ↓ in consumer expenditure"
-  },
-  {
-    "id": "notion-econs-01-027",
-    "topic": "elasticity",
-    "question": "How does a price rise affect expenditure when demand is price inelastic?",
-    "answer": "price inelastic → a change in price leads to a less than proportionate change in its Q_dd in the opposite direction → price increase → ↓ in consumer expenditure due to the ↓ in the number of units bought is less than the ↑ in consumer expenditure due to the ↑ in spending per unit → net ↑ in consumer expenditure"
-  },
-  {
-    "id": "notion-econs-01-028",
-    "topic": "price-mechanism",
-    "question": "How does the signalling function of prices work?",
-    "answer": "Prices communicate information to decision-makers\n\nT&P change in favour of asparagus → demand curve rightwards from D_0 to D_1 → shortage → Consumers will bid up the price of asparagus as they compete for the good → rising price of asparagus signals to producers that a shortage of the good exists"
-  },
-  {
-    "id": "notion-econs-01-029",
-    "topic": "price-mechanism",
-    "question": "How does the rationing function of prices work?",
-    "answer": "price mechanism rations out the good produced according to consumers' w/a to pay → Consumers who are unwilling or unable to pay the higher price will drop out of the market → reducing Q_dd → Q_ss exactly balances Q_dd and the shortage is eliminated"
-  },
-  {
-    "id": "notion-econs-01-030",
-    "topic": "price-mechanism",
-    "question": "How does the incentive function move resources between industries?",
-    "answer": "px of asparagus ↑ → MB of growing asparagus ↑ relative to MC → incentivised to ↑ o/p to capture MP → bid for fops such as farmhands and fertilisers → factor prices ↑ → producers of other vegetables, such as cabbages, cut back production to avoid ML → supply of cabbage will ↓ as resources are bid away by asparagus producers"
-  },
-  {
-    "id": "notion-econs-02-001",
-    "topic": "microeconomic-policies",
-    "question": "What price and welfare changes are shown in the indirect-tax diagram?",
-    "answer": "Tax raises consumer price to P₁ and lowers producer price to P₂ → Tax revenue is C + D; deadweight loss is A + B"
-  },
-  {
-    "id": "notion-econs-02-002",
-    "topic": "microeconomic-policies",
-    "question": "How does an indirect tax affect government revenue, consumer expenditure and producer revenue?",
-    "answer": "Government tax revenue: Area C+D → tax per unit of output × units of output\n\nConsumer expenditure: increases or decreases → depending on the price elasticity of demand (PED)\n\nProducer revenue: decreases → regardless of PED"
-  },
-  {
-    "id": "notion-econs-02-003",
-    "topic": "microeconomic-policies",
-    "question": "How does an indirect tax affect consumer surplus, producer surplus and allocative efficiency?",
-    "answer": "They pay a higher price per unit → reducing consumer surplus by Area D\n\nThey enjoy fewer units → reducing consumer surplus by Area B\n\nThey retain less of the price of the good for each unit sold → reducing producer surplus by Area C\n\nThey sell fewer units → reducing producer surplus by Area A\n\ngain in tax revenue of Area C+D\n\nArea A+B is the deadweight loss"
-  },
-  {
-    "id": "notion-econs-02-004",
-    "topic": "microeconomic-policies",
-    "question": "How can an indirect tax affect equity?",
-    "answer": "indirect tax can be regressive → take a larger percentage of income from a low-income person than from a high-income person → taxes on necessities, on which lower-income households spend a larger proportion of their income"
-  },
-  {
-    "id": "notion-econs-02-005",
-    "topic": "microeconomic-policies",
-    "question": "How can an indirect tax create a black market?",
-    "answer": "high indirect tax on cigarettes → Smokers will find ways to satisfy their addiction → Smugglers have an incentive to import cigarettes from countries where there is no tax or a lower tax → undercut legal sellers, and earn profits → black market also undermines the effectiveness of the tax as a policy to discourage smoking"
-  },
-  {
-    "id": "notion-econs-02-006",
-    "topic": "microeconomic-policies",
-    "question": "How does PED affect the impact of an indirect tax?",
-    "answer": "demand is more price elastic → consumer expenditure decreases by more → overall decrease in quantity exchanged is larger → government generates less tax revenue"
-  },
-  {
-    "id": "notion-econs-02-007",
-    "topic": "microeconomic-policies",
-    "question": "What are the purposes and diagram outcomes of a subsidy?",
-    "answer": "Encourage the production or consumption of a particular good\n\nMake a good more affordable for the poor\n\nConsumers pay P₁ and producers receive P₂ → All eight lettered regions make up government spending; E + F is the deadweight loss"
-  },
-  {
-    "id": "notion-econs-02-008",
-    "topic": "microeconomic-policies",
-    "question": "How does a subsidy affect consumer expenditure, producer revenue and government spending?",
-    "answer": "Consumer expenditure changes from OP_0uQ_0 to OP_1yQ_1\n\nProducer revenue changes from OP_0uQ_0 to OP_2wQ_1\n\nGovernment spending: Area B+C+D+E+F+G+H+I"
-  },
-  {
-    "id": "notion-econs-02-009",
-    "topic": "microeconomic-policies",
-    "question": "How does a subsidy affect welfare and allocative efficiency?",
-    "answer": "They pay a lower price per unit → increasing consumer surplus by Area I+H\n\nThey enjoy additional units → increasing consumer surplus by Area G\n\nThey receive a higher price for each unit sold → increasing producer surplus by Area B+C\n\nThey sell more units → increasing producer surplus by Area D\n\ngovernment is worse off because of its spending → Area E+F is the deadweight loss incurred"
-  },
-  {
-    "id": "notion-econs-02-010",
-    "topic": "microeconomic-policies",
-    "question": "How can a subsidy affect equity?",
-    "answer": "high-income households are more likely to own and drive cars → Lowering the price of petrol can produce a greater increase in the purchasing power of high-income households than that of low-income households → worsening equity"
-  },
-  {
-    "id": "notion-econs-02-011",
-    "topic": "microeconomic-policies",
-    "question": "How can subsidies encourage black markets?",
-    "answer": "purchasing the good at a subsidised price domestically and selling it at a higher price in another country → incentive to smuggle them abroad → black markets therefore undermines the effectiveness of subsidies in keeping necessities affordable and available to local consumers"
-  },
-  {
-    "id": "notion-econs-02-012",
-    "topic": "microeconomic-policies",
-    "question": "How does PED affect the impact of an indirect subsidy?",
-    "answer": "demand is more price elastic → consumer expenditure increases by more → overall increase in quantity exchanged is larger\n\ndemand is more price inelastic → subsidy is more effective in reducing the price consumers pay"
-  },
-  {
-    "id": "notion-econs-02-013",
-    "topic": "microeconomic-policies",
-    "question": "What subsidy example is given in the notes?",
-    "answer": "Corporate Income Tax Rebate → government grants temporary tax rebates to businesses → Firms pay less tax, reducing their overall costs without receiving a direct cash payment"
+    "question": "What is PES, how is it calculated?",
+    "answer": "PES is a measure of the responsiveness of the Q_ss of a good to a change in its price, ceteris paribus PES=(%Δ Q_ss) / (%Δ P)"
   },
   {
     "id": "notion-econs-02-014",
     "topic": "microeconomic-policies",
-    "question": "What is a price ceiling, and how does it affect market quantity?",
-    "answer": "price ceiling is the maximum legal price allowed by the government → holding the price below the market-clearing level → increase quantity demanded from Q_e to Q_d\n\nunits of output that can be produced only at a higher marginal cost (MC) are no longer profitable → reduce quantity supplied from Q_e to Q_s → persistent shortage of Q_d-Q_s"
-  },
-  {
-    "id": "notion-econs-02-015",
-    "topic": "microeconomic-policies",
-    "question": "What example of a price ceiling is given?",
-    "answer": "New York City has had forms of rent control since the 1940s → government limits how much landlords can charge or increase rent for eligible apartments"
-  },
-  {
-    "id": "notion-econs-02-016",
-    "topic": "microeconomic-policies",
-    "question": "How are producer revenue and consumer expenditure calculated under a price ceiling?",
-    "answer": "Producer revenue and consumer expenditure: P_c× Q_s"
-  },
-  {
-    "id": "notion-econs-02-017",
-    "topic": "microeconomic-policies",
-    "question": "How does a price ceiling affect consumer surplus, producer surplus and welfare?",
-    "answer": "forced to charge a lower price for each unit sold → reducing producer surplus by Area E\n\nThey sell fewer units → reducing producer surplus by Area D\n\neffect on consumer surplus is uncertain → pay less for each unit of the good → increasing consumer surplus by Area E\n\nHave fewer units to enjoy → forfeit consumer surplus of Area C\n\nArea C+D is the deadweight loss"
-  },
-  {
-    "id": "notion-econs-02-018",
-    "topic": "microeconomic-policies",
-    "question": "What unintended consequences can follow a price ceiling?",
-    "answer": "persistent shortage creates an opportunity to earn profits by selling goods illegally at a higher price in the black market → undermining the policy objective of the price ceiling → sufficiently large price differential can still create an incentive for sellers to take the risk"
-  },
-  {
-    "id": "notion-econs-02-019",
-    "topic": "microeconomic-policies",
-    "question": "How can a price ceiling improve equity?",
-    "answer": "Rent controls keep housing costs below market rates → Lower-income households can continue living in areas that would otherwise become unaffordable → reduces housing inequality and helps prevent displacement"
-  },
-  {
-    "id": "notion-econs-02-020",
-    "topic": "microeconomic-policies",
-    "question": "How do PED and PES affect the outcomes of a price ceiling?",
-    "answer": "More price-inelastic demand and more price-inelastic supply produce a smaller shortage\n\nConsumer expenditure decreases by more when demand is more price elastic"
+    "question": "What is a price ceiling?",
+    "answer": "price ceiling is the maximum legal price allowed by the government"
   },
   {
     "id": "notion-econs-02-021",
     "topic": "microeconomic-policies",
-    "question": "What is a price floor, and how does it affect market quantity?",
-    "answer": "price floor is the minimum legal price allowed by the government → holding the price above the market-clearing level → decrease quantity demanded from Q_e to Q_d\n\nUnits of output that can be produced only at a higher marginal cost are now profitable → increase quantity supplied from Q_e to Q_s → persistent surplus of Q_s-Q_d"
-  },
-  {
-    "id": "notion-econs-02-022",
-    "topic": "microeconomic-policies",
-    "question": "How does a price floor affect expenditure and revenue when the government buys the surplus?",
-    "answer": "Consumer expenditure changes → from P_eQ_e to P_FQ_d\n\nProducer revenue changes → from P_eQ_e to P_FQ_s, if the government buys the surplus\n\nBuy up the surplus of the good and store it to build a buffer stock → Government spending → P_F(Q_s-Q_d)"
-  },
-  {
-    "id": "notion-econs-02-023",
-    "topic": "microeconomic-policies",
-    "question": "How does a supported price floor affect consumers and producers?",
-    "answer": "pay a higher price for each unit purchased → reducing consumer surplus by Area B\n\npurchase fewer units → reducing consumer surplus by Area C\n\nreceive a higher price for each unit sold → increasing producer surplus by Area B+C+J\n\nsell more units → increasing producer surplus by Area K"
-  },
-  {
-    "id": "notion-econs-02-024",
-    "topic": "microeconomic-policies",
-    "question": "What examples of price floors are given?",
-    "answer": "Minimum wage legislation\n\nEuropean Union — Common Agricultural Policy (CAP) → guaranteed minimum prices for agricultural products such as wheat, milk, and butter → Farmers were protected from volatile market prices and could earn a stable income → prevented many small farmers from falling into poverty"
-  },
-  {
-    "id": "notion-econs-02-025",
-    "topic": "microeconomic-policies",
-    "question": "How can illegal exchanges undermine a price floor?",
-    "answer": "Employers may hire workers at wages below the mandated minimum → undermines the effectiveness of minimum-wage legislation in raising the wages of low-wage workers → government must conduct checks and impose severe penalties → raise the marginal cost of non-compliance relative to its marginal benefit"
-  },
-  {
-    "id": "notion-econs-02-026",
-    "topic": "microeconomic-policies",
-    "question": "How does PED affect the outcomes of a price floor?",
-    "answer": "demand is more price elastic → reduction in quantity purchased and the surplus are larger\n\ndemand is price elastic → consumer expenditure decreases"
-  },
-  {
-    "id": "notion-econs-02-027",
-    "topic": "microeconomic-policies",
-    "question": "How can a price floor affect equity?",
-    "answer": "price floor redistributes income towards farmers → generally have lower and more unstable incomes than consumers → promoting greater income equity"
+    "question": "What is a price floor?",
+    "answer": "price floor is the minimum legal price allowed by the government"
   },
   {
     "id": "notion-econs-02-028",
     "topic": "microeconomic-policies",
-    "question": "What is an output quota, and how does it affect price and quantity?",
-    "answer": "quota is a limit imposed by the government on the quantity of a good that can be sold during a period of time → quota directly reduces supply to the amount desired by the government → Quantity exchanged falls from Q_1 to Q_2, while price rises from P_1 to P_2"
-  },
-  {
-    "id": "notion-econs-02-029",
-    "topic": "microeconomic-policies",
-    "question": "How does an output quota affect consumer expenditure and producer revenue?",
-    "answer": "Consumer expenditure and producer revenue change from OP_1e_1Q_1 to OP_2e_2Q_2 → Whether they increase or decrease depends on PED"
-  },
-  {
-    "id": "notion-econs-02-030",
-    "topic": "microeconomic-policies",
-    "question": "How does an output quota affect surplus and allocative efficiency?",
-    "answer": "pay a higher price per unit → reducing consumer surplus by Area B\n\npurchase fewer units → reducing consumer surplus by Area C\n\neffect on producers is uncertain → Receive more for each unit of the good sold → increasing producer surplus by Area B\n\nNo longer produce units of output from Q_2 to Q_1 → reducing producer surplus by Area E\n\ndeadweight loss of Area C+E"
-  },
-  {
-    "id": "notion-econs-02-031",
-    "topic": "microeconomic-policies",
-    "question": "How can a quota on necessities affect equity?",
-    "answer": "quota on necessities → Cause the price to increase → Low-income households may be unable to afford these necessities → worsens equity"
-  },
-  {
-    "id": "notion-econs-02-032",
-    "topic": "microeconomic-policies",
-    "question": "How can black markets undermine an output quota?",
-    "answer": "legal restriction on output raises the market price and creates a persistent shortage → Sellers have an incentive to supply extra units illegally at a high black-market price → undermines the quota and requires costly monitoring and enforcement"
-  },
-  {
-    "id": "notion-econs-02-033",
-    "topic": "microeconomic-policies",
-    "question": "What quota example is given in the notes?",
-    "answer": "Fishing quotas → European Commission sets Total Allowable Catches (TACs) → corrects the negative externality arising from the over-exploitation of common resources"
-  },
-  {
-    "id": "notion-econs-02-034",
-    "topic": "microeconomic-policies",
-    "question": "How does PED affect the outcomes of an output quota?",
-    "answer": "Price-elastic demand produces a smaller price increase\n\nPrice-inelastic demand produces a larger price increase\n\ndemand is price elastic → consumer expenditure and producer revenue decrease"
-  },
-  {
-    "id": "notion-econs-02-035",
-    "topic": "microeconomic-policies",
-    "question": "How does direct government provision address the public-good problem?",
-    "answer": "By imposing taxes on its citizens → provides an amount equivalent to the socially optimal level, where MSB=MSC → last unit produced adds as much to society's benefit as it does to society's cost → Society's welfare is therefore maximised at Q_s"
-  },
-  {
-    "id": "notion-econs-02-036",
-    "topic": "microeconomic-policies",
-    "question": "What information problem limits direct government provision?",
-    "answer": "lack of price signals → Those who want the goods are not prepared to reveal their true preferences through the price mechanism → difficult to determine the optimal level of provision accurately → Providing too little or too much will still fail to maximise society's welfare"
-  },
-  {
-    "id": "notion-econs-02-037",
-    "topic": "microeconomic-policies",
-    "question": "What is an example of direct government provision?",
-    "answer": "National defence → government directly provides military and defence services"
-  },
-  {
-    "id": "notion-econs-02-038",
-    "topic": "microeconomic-policies",
-    "question": "How does an indirect subsidy correct positive externalities?",
-    "answer": "indirect specific subsidy equivalent to the marginal external benefit (MEB) generated at the socially optimal level of output → benefit that was initially external to the firm is internalised → subsidy reduces the firm's marginal private cost (MPC) → private optimum level of output increases from Q_p → to Q_s, where MPC_1=MPB and MSB=MSC → aligns the firm's private optimum with the socially optimal output"
-  },
-  {
-    "id": "notion-econs-02-039",
-    "topic": "microeconomic-policies",
-    "question": "What limits an indirect subsidy for positive externalities?",
-    "answer": "Lack of information\n\nOpportunity cost due to budget constraints\n\nBreeds inefficiency → reduces providers' incentive to find the lowest-cost method of production"
-  },
-  {
-    "id": "notion-econs-02-040",
-    "topic": "microeconomic-policies",
-    "question": "What examples accompany the notes on subsidies for positive externalities?",
-    "answer": "Corporate Income Tax Rebate → Firms pay less tax, reducing their overall costs without receiving a direct cash payment\n\nSubsidies for adult vaccination → Ministry of Health provides means-tested subsidies for adult vaccines"
-  },
-  {
-    "id": "notion-econs-02-041",
-    "topic": "microeconomic-policies",
-    "question": "How does an indirect tax correct negative externalities?",
-    "answer": "indirect specific tax equivalent to the marginal external cost (MEC) generated at the socially optimal level of output → cost that was initially external to the firm is internalised → increases the firm's marginal cost → private optimum level of output decreases from Q_p → to Q_s, where MPC_1=MPB and MSB=MSC → realigns the firm's MPC with MSC → firm cuts production to the socially optimal level"
-  },
-  {
-    "id": "notion-econs-02-042",
-    "topic": "microeconomic-policies",
-    "question": "What is the shortened explanation of a tax correcting negative externalities?",
-    "answer": "indirect specific tax equivalent to the MEC generated at the socially optimal level of output → cost initially external to the firm is internalised and becomes part of the firm's private costs → tax raises the firm's marginal cost → private optimum level of output decreases from Q_p → to Q_s, where MPC_1=MPB and MSB=MSC → firm cuts production to the socially optimal level"
-  },
-  {
-    "id": "notion-econs-02-043",
-    "topic": "microeconomic-policies",
-    "question": "What information and implementation problems limit corrective taxes?",
-    "answer": "government overestimates MEC → marginal private cost shifts from MPC_0 to MPC_2 → private equilibrium output falls to Q_2 → market moves from overproduction of Q_sQ_p units to underproduction of Q_2Q_s units → Allocative inefficiency worsens if the deadweight loss from underproduction exceeds the initial deadweight loss from overproduction\n\nDifferent firms generate different amounts of externalities → administratively difficult and impractical to measure these differences"
-  },
-  {
-    "id": "notion-econs-02-044",
-    "topic": "microeconomic-policies",
-    "question": "What examples of corrective indirect taxes are given?",
-    "answer": "Carbon tax → Singapore imposes a carbon tax on large emitters → Firms face higher production costs → passed on to consumers through higher electricity or product prices\n\nSin tax → indirect tax on sugar-sweetened beverages (SSBs), tobacco, and alcohol"
-  },
-  {
-    "id": "notion-econs-02-045",
-    "topic": "microeconomic-policies",
-    "question": "How can direct or free provision affect consumption and welfare?",
-    "answer": "government provides the good free of charge → private optimum output increases from Q_p → to Q_1 → market shifts from under-consumption to over-consumption → additional benefits to society that are exceeded by the additional costs to society → deadweight loss of Area cde → If Area abc< Area cde, the policy produces a greater welfare loss and results in government failure"
-  },
-  {
-    "id": "notion-econs-02-046",
-    "topic": "microeconomic-policies",
-    "question": "What limits direct and joint provision?",
-    "answer": "lack of competition reduces its incentive to minimise costs and offer the best standard of service\n\nStrain on the government budget → lower NMSOL"
-  },
-  {
-    "id": "notion-econs-02-047",
-    "topic": "microeconomic-policies",
-    "question": "What is an example of joint provision?",
-    "answer": "Transport → Transport services are run by the private sector → government owns much of the infrastructure and subsidises operations"
-  },
-  {
-    "id": "notion-econs-02-048",
-    "topic": "microeconomic-policies",
-    "question": "How can compulsory consumption correct underconsumption?",
-    "answer": "government makes consumption of the merit good compulsory up to the socially optimal level, Q_s → Consumers are legally required to consume the good → private optimum level of consumption increases from Q_p → to Q_s, where MSB=MSC → correcting the under-consumption caused by market failure"
-  },
-  {
-    "id": "notion-econs-02-049",
-    "topic": "microeconomic-policies",
-    "question": "What example of compulsory consumption is given?",
-    "answer": "Singapore: Immunisation against measles is compulsory by law for children"
-  },
-  {
-    "id": "notion-econs-02-050",
-    "topic": "microeconomic-policies",
-    "question": "What enforcement costs limit compulsory consumption?",
-    "answer": "government must monitor compliance and enforce penalties → requires inspectors, administrative staff, and legal enforcement → increasing public expenditure"
-  },
-  {
-    "id": "notion-econs-02-051",
-    "topic": "microeconomic-policies",
-    "question": "How do regulatory standards correct negative externalities?",
-    "answer": "government imposes an emission or production standard that limits firms' output or emissions to the socially optimal level, Q_s → Firms are legally required to comply with the standard → private optimum level of output decreases from Q_p → to Q_s, where MSC=MSB → firms cut production to the socially optimal level"
-  },
-  {
-    "id": "notion-econs-02-052",
-    "topic": "microeconomic-policies",
-    "question": "What limits regulatory standards?",
-    "answer": "effective monitoring and enforcement, vigilant policing, and severe penalties → High compliance and administrative costs may outweigh the social benefits\n\nLegal regulation may not be able to account for complex differences among firms"
-  },
-  {
-    "id": "notion-econs-02-053",
-    "topic": "microeconomic-policies",
-    "question": "What consumption and production regulations are given as examples?",
-    "answer": "government prohibits smoking in air-conditioned areas, playgrounds, and food outlets → minimises second-hand smoke affecting third parties and reduces MEC\n\ngovernment requires producers by law to install emission-reduction devices to reduce pollution"
-  },
-  {
-    "id": "notion-econs-02-054",
-    "topic": "microeconomic-policies",
-    "question": "How do tradable emission permits work?",
-    "answer": "government sets a cap on total emissions → limited number of tradable emission permits → Firms are legally required to hold sufficient permits → limited in supply and tradable → acquire a market price → additional private cost of production → increasing the firm's effective MPC → internalising part of the external cost → private optimum output therefore falls from Q_p → towards Q_s, where MSC=MSB → decreasing the deadweight welfare loss and improving allocative efficiency"
-  },
-  {
-    "id": "notion-econs-02-055",
-    "topic": "microeconomic-policies",
-    "question": "What limitations of tradable permits are identified?",
-    "answer": "Larger firms usually have more financial resources → easier for them to purchase extra permits → reduce their motivation to invest in pollution-reducing measures → increase market concentration → smaller firms struggle with the financial strain of buying permits"
-  },
-  {
-    "id": "notion-econs-02-056",
-    "topic": "microeconomic-policies",
-    "question": "How does the European Union Emissions Trading System operate in the notes?",
-    "answer": "cap is set on the total amount of specified greenhouse gases → cap is reduced over time so that total emissions fall → Operators must obtain emission allowances, which they can trade with one another"
-  },
-  {
-    "id": "notion-econs-02-057",
-    "topic": "microeconomic-policies",
-    "question": "How does the Vehicle Quota System work, and what limitation is identified?",
-    "answer": "Controls the vehicle population in Singapore to manage congestion → Land Transport Authority determines the number of new vehicles allowed to be registered → corresponding number of Certificates of Entitlement (COEs) → market determines the price of a COE\n\nhigher COE cost may cause people to rationalise the large sunk cost paid for the COE and drive more frequently"
-  },
-  {
-    "id": "notion-econs-02-058",
-    "topic": "microeconomic-policies",
-    "question": "When does a ban improve or reduce welfare?",
-    "answer": "MSC exceeds MSB at every positive level of output → additional social cost exceeds the additional social benefit for every unit → ban to reduce output and consumption to zero, the socially optimal level\n\ntotal ban reduces quantity to zero, causing under-consumption of OQ_s → welfare loss is represented by Area cef → compare the deadweight loss before and after the ban"
-  },
-  {
-    "id": "notion-econs-02-059",
-    "topic": "microeconomic-policies",
-    "question": "What example of a ban is given?",
-    "answer": "Vape ban in Singapore"
-  },
-  {
-    "id": "notion-econs-02-060",
-    "topic": "microeconomic-policies",
-    "question": "What are the limitations of a ban?",
-    "answer": "ban is costly to enforce → enforcement costs may outweigh the social benefits\n\nban reduces welfare if it creates a greater welfare loss than the original market failure"
-  },
-  {
-    "id": "notion-econs-02-061",
-    "topic": "microeconomic-policies",
-    "question": "What does the moral-suasion diagram show, and is it included in the syllabus?",
-    "answer": "Successful moral suasion raises effective MPB towards MSB → Consumption rises from Qₚ towards Qₛ\n\nNot included in the syllabus, but useful to know"
+    "question": "What is an output quota?",
+    "answer": "quota is a limit imposed by the government on the quantity of a good that can be sold during a period of time"
   },
   {
     "id": "notion-econs-02-062",
     "topic": "microeconomic-policies",
     "question": "What is moral suasion?",
-    "answer": "change people's attitudes and behaviour by urging them to “do the right thing” through appeals to their civic and ethical responsibilities → Nudges people towards certain behaviour as pro-social → takes time for mindsets to change"
-  },
-  {
-    "id": "notion-econs-02-063",
-    "topic": "microeconomic-policies",
-    "question": "How does moral suasion address a positive externality?",
-    "answer": "campaigns and public appeals → develop a greater sense of social responsibility and internalise the marginal external benefit (MEB) → effective MPB increases towards MSB → private optimum level of consumption increases from Q_p → towards Q_s, where MSB=MSC → reducing under-consumption and deadweight welfare loss"
-  },
-  {
-    "id": "notion-econs-02-064",
-    "topic": "microeconomic-policies",
-    "question": "How is voluntary blood donation used to illustrate moral suasion?",
-    "answer": "Singapore Red Cross, working with the Health Sciences Authority (HSA) → encourages voluntary blood donation → “Give Blood. Save Lives.”\n\nPatients receive blood needed for surgeries, accidents, cancer treatment, and other purposes\n\nDonors may gain self-fulfilment or self-satisfaction"
-  },
-  {
-    "id": "notion-econs-02-065",
-    "topic": "microeconomic-policies",
-    "question": "What limits the effectiveness of moral suasion?",
-    "answer": "Mindset change takes time → lifestyle changes have yet to take root in many segments of the community\n\nBehavioural changes impose costs on individuals → deter them from making the changes"
-  },
-  {
-    "id": "notion-econs-02-066",
-    "topic": "microeconomic-policies",
-    "question": "How does public education correct an information gap?",
-    "answer": "providing accurate, comprehensive, and timely information → reduce MPB_perceived → shifting it closer to MPB_actual → moving the private equilibrium output from Q_p towards the socially optimal level Q_s"
-  },
-  {
-    "id": "notion-econs-02-067",
-    "topic": "microeconomic-policies",
-    "question": "How can compulsory information disclosure address information failure?",
-    "answer": "Prohibit falsehoods and disinformation\n\nMandate information disclosure → Nutri-Grade beverages must display the required nutrition-grade information\n\nRetailers are banned from advertising D-grade drinks on all media platforms"
-  },
-  {
-    "id": "notion-econs-02-068",
-    "topic": "microeconomic-policies",
-    "question": "How does monitoring address moral hazard?",
-    "answer": "uninformed party obtains information about the other party's actions after a transaction → insurance company may refuse to pay a claim if the insured person engaged in a dangerous act"
-  },
-  {
-    "id": "notion-econs-02-069",
-    "topic": "microeconomic-policies",
-    "question": "How does screening address asymmetric information?",
-    "answer": "less-informed party makes it mandatory for the better-informed party to provide useful information → Insurance companies can require clients to undergo medical examinations before accepting coverage"
-  },
-  {
-    "id": "notion-econs-02-070",
-    "topic": "microeconomic-policies",
-    "question": "How does the Lemon Law example address asymmetric information?",
-    "answer": "right to request a repair, replacement, price reduction, or rescission of contract → goods that do not conform to the contract or are of unsatisfactory quality or performance → reduces sellers' incentive to conceal defects and sell defective goods at a higher price"
-  },
-  {
-    "id": "notion-econs-02-071",
-    "topic": "microeconomic-policies",
-    "question": "What limitations affect compulsory information provision?",
-    "answer": "Strain on the government budget\n\nLack of compliance"
-  },
-  {
-    "id": "notion-econs-02-072",
-    "topic": "microeconomic-policies",
-    "question": "How does continuing education and training improve occupational mobility?",
-    "answer": "SkillsFuture Singapore works with educational institutions and training partners → develop industry-relevant training → improves workers' occupational mobility → move into industries where labour is in greater demand"
-  },
-  {
-    "id": "notion-econs-02-073",
-    "topic": "microeconomic-policies",
-    "question": "How can education reform address the needs of the economy?",
-    "answer": "Revamp and orient the education system towards the needs of the economy → Integrate artificial intelligence into the education system → everyone can develop and use artificial-intelligence skills"
-  },
-  {
-    "id": "notion-econs-02-074",
-    "topic": "microeconomic-policies",
-    "question": "How can financial assistance improve geographical mobility?",
-    "answer": "Provide financial assistance to individuals who are willing to relocate to find employment → reduces geographical immobility of labour → helps lower structural unemployment"
+    "answer": "change people's attitudes and behaviour by urging them to “do the right thing” through appeals to their civic and ethical responsibilities"
   },
   {
     "id": "notion-econs-03-001",
     "topic": "economic-indicators",
-    "question": "What is the definition of GDP in the notes?",
-    "answer": "GDP → total value of all final g&s newly produced within the geographical boundary of a country in a given year before allowance for appreciation"
-  },
-  {
-    "id": "notion-econs-03-002",
-    "topic": "economic-indicators",
-    "question": "Why should GDP be measured in real terms when assessing MSOL?",
-    "answer": "increase is due to large to rising price of final g&s produced rather than an increase in volume → Insufficient to measure MSOL"
-  },
-  {
-    "id": "notion-econs-03-003",
-    "topic": "economic-indicators",
-    "question": "Why should real GDP be considered in per-capita terms?",
-    "answer": "population growth rate surpasses the rate of real GDP growth → Individuals may have access to few g&s → Decline in MSOL"
-  },
-  {
-    "id": "notion-econs-03-004",
-    "topic": "economic-indicators",
-    "question": "How does the section headed NMSOL link GDP to living standards?",
-    "answer": "An increase in GDP → more g&s are produced per head → more needs and wants to be satisfied → a higher level of utility can be derived\n\nReal terms → higher P.P → greater ability to enjoy G&S → higher MSOL"
-  },
-  {
-    "id": "notion-econs-03-005",
-    "topic": "economic-indicators",
-    "question": "Why does income distribution limit GDP as a measure of living standards?",
-    "answer": "income is inequitable distributed → smaller minority reap greatest benefits of increase in national income while majority still remains poor → income disparity worsens with higher growth rate → standard of living improve only for certain groups of people, not all"
-  },
-  {
-    "id": "notion-econs-03-006",
-    "topic": "economic-indicators",
-    "question": "Why does GDP fail to assess non-material living standards fully?",
-    "answer": "increased production of goods resulting in higher pollution levels → Decline in quality of living → Decline in NMSOL\n\nPalm oil and paper products have resulted in forest fire contributing to poor air quality → Increased respiratory illnesses & negative effects on well-bring"
-  },
-  {
-    "id": "notion-econs-03-007",
-    "topic": "economic-indicators",
-    "question": "Why do different currencies complicate GDP comparisons?",
-    "answer": "Every country measures its GDP in their respective currencies → no common basis for comparison\n\nFluctuations of market exchange rates → value of GDP would fluctuate → make this comparison meaningless\n\nGDP difference does not reflect in differences in cost of living between countries and therefore purchasing power of each currency"
+    "question": "What is gross domestic product (GDP)?",
+    "answer": "GDP → total value of all final g&s newly produced within the geographical boundary of a country in a given year before allowance for depreciation"
   },
   {
     "id": "notion-econs-03-008",
     "topic": "economic-indicators",
-    "question": "What is PPP, and what difficulty arises when constructing it?",
-    "answer": "e/r that would allow a given amt of money in one country to buy the same amt of goods in another country after exchanging it into the currency of the other country\n\nPPP info is not easily available → specially constructed / derived from painstaking research"
+    "question": "What is PPP?",
+    "answer": "e/r that would allow a given amt of money in one country to buy the same amt of goods in another country after exchanging it into the currency of the other country"
   },
   {
     "id": "notion-econs-03-009",
@@ -852,27 +144,15 @@
     "answer": "Gross National Income is the sum of gross factor incomes → arising from the involvement in production processes or ownership of assets → receivable by residents units"
   },
   {
-    "id": "notion-econs-03-010",
-    "topic": "economic-indicators",
-    "question": "How are GDP and GNI related?",
-    "answer": "GNI = GDP + net primary income from aboard"
-  },
-  {
-    "id": "notion-econs-03-011",
-    "topic": "economic-indicators",
-    "question": "What do the notes state about the Gini coefficient?",
-    "answer": "1 in Gini Coefficient represents maximal inequality\n\nShanghai's Gini coefficient fell from 2010 to 2020"
-  },
-  {
     "id": "notion-econs-03-012",
     "topic": "economic-indicators",
-    "question": "What does HDI measure, and which components does it include?",
-    "answer": "A composite indicator to broaden measure of SOL beyond NI → key dimensions of human development\n\nGNI per capita (PPP)\n\nLife expectancy at birth\n\nEducation attainment (years of schooling and expected year of schooling)\n\n1 Means maximal developed"
+    "question": "What is the Human Development Index (HDI)?",
+    "answer": "A composite indicator to broaden measure of SOL beyond NI → key dimensions of human development"
   },
   {
     "id": "notion-econs-03-013",
     "topic": "economic-indicators",
-    "question": "What is Net Economic Welfare in the notes?",
+    "question": "What is Net Economic Welfare?",
     "answer": "A composite indicator to better indicator of SOL → Adds to GNP such as leisure and non-market activities"
   },
   {
@@ -882,22 +162,22 @@
     "answer": "EQI (environmental quality index) → Measure cumulative air, water, land and built environment data locally or regionally"
   },
   {
-    "id": "notion-econs-04-001",
+    "id": "notion-econs-04-001-1",
     "topic": "macroeconomic-goals",
-    "question": "What are the different types of economic slowdown?",
-    "answer": "Low growth → growth rate hovering around zero\n\nA falling growth rate → Real GDP continues to increase, but at a decreasing rate\n\nnegative growth → Real GDP falls → technical recession is commonly defined as negative real GDP growth for two consecutive quarters"
+    "question": "What is low economic growth?",
+    "answer": "Low growth → growth rate hovering around zero"
   },
   {
-    "id": "notion-econs-04-002",
+    "id": "notion-econs-04-001-2",
     "topic": "macroeconomic-goals",
-    "question": "How do cyclical disturbances and structural changes differ?",
-    "answer": "cyclical disturbance tends to dissipate → economy returning towards its previous level over a few years\n\nstructural change in the economy is permanent or very long-lived"
+    "question": "What is a falling economic growth rate?",
+    "answer": "A falling growth rate → Real GDP continues to increase, but at a decreasing rate"
   },
   {
-    "id": "notion-econs-04-004",
+    "id": "notion-econs-04-001-3",
     "topic": "macroeconomic-goals",
-    "question": "What structural factors can depress long-run growth?",
-    "answer": "Demographic factors → an ageing population\n\nMarket inefficiencies → trade associations and labour unions may lobby the government for protection from competition\n\nBudgetary problems → the government is heavily indebted"
+    "question": "What is negative economic growth?",
+    "answer": "negative growth → Real GDP falls → technical recession is commonly defined as negative real GDP growth for two consecutive quarters"
   },
   {
     "id": "notion-econs-04-005",
@@ -906,262 +186,82 @@
     "answer": "Actual growth is an increase in real national output over a period of time, usually one year"
   },
   {
-    "id": "notion-econs-04-006",
-    "topic": "aggregate-demand-supply",
-    "question": "How does an increase in AD generate actual growth through the multiplier, and what affects its size?",
-    "answer": "initially operating with spare capacity → Aggregate demand rises → draw down their inventories → unplanned disinvestment signals firms to increase output → demand more factor inputs, including labour, and pay more factor income → income-induced consumption, C_d, rises → another increase in aggregate demand → multiplier effect → increase in income-induced consumption becomes smaller because of leakages in the form of savings, taxes and imports → new equilibrium level of national income is attained when Δ J = Δ W\n\nMPW=1-MPCd → k=1/MPW → With a low MPW → less leakages out of the economy in each round and more is spent on domestically produced goods and services → overall increase in national output will be larger"
-  },
-  {
-    "id": "notion-econs-04-007",
-    "topic": "aggregate-demand-supply",
-    "question": "How can an increase in AS generate actual growth?",
-    "answer": "fall in the unit cost of production (UCOP) → supply the same output at lower prices → downward or rightward shift of aggregate supply → larger profit margins → increase output by putting previously unemployed resources to use → real national income from Y_0 to Y_1 → price level falls"
-  },
-  {
     "id": "notion-econs-04-008",
     "topic": "macroeconomic-goals",
-    "question": "What is potential growth, and how is it represented on a PPC?",
-    "answer": "Potential growth is an increase in the rate at which the economy could produce, assuming that all resources are fully and efficiently employed → increase in the economy's productive capacity → outward shift of the production possibility curve from PPC_0 to PPC_1"
-  },
-  {
-    "id": "notion-econs-04-009",
-    "topic": "macroeconomic-goals",
-    "question": "What produces sustained non-inflationary growth?",
-    "answer": "expansion in productive capacity together with an increase in aggregate demand → sustained, non-inflationary growth"
+    "question": "What is potential growth?",
+    "answer": "Potential growth is an increase in the rate at which the economy could produce, assuming that all resources are fully and efficiently employed"
   },
   {
     "id": "notion-econs-04-010",
     "topic": "macroeconomic-goals",
-    "question": "What is sustainable growth, and how can cleaner-energy investment support it?",
-    "answer": "rate of sustained growth that can be achieved without causing significant economic problems for future generations\n\nSingapore's investment in solar energy → Investment spending raises aggregate demand in the short run → actual growth\n\ngreater supply of renewable energy can lower firms' average costs and UCOP → shifting aggregate supply rightwards and increasing productive capacity → Lower carbon emissions and pollution help to protect the environment → preserving long-run productive capacity"
+    "question": "What is sustainable growth?",
+    "answer": "rate of sustained growth that can be achieved without causing significant economic problems for future generations"
   },
   {
     "id": "notion-econs-04-011",
     "topic": "macroeconomic-goals",
-    "question": "What is inclusive growth, and what policies and trade-offs are discussed?",
-    "answer": "broad-based across economic sectors and creates productive employment opportunities for the majority of the country's population without worsening income inequality\n\nprogrammes such as SkillsFuture → Workers in different sectors → can reskill → move into higher-value jobs in a changing economy → reduces inequality arising from technological change → increases human capital and labour productivity → shifting aggregate supply rightwards and supporting potential growth"
+    "question": "What is inclusive growth?",
+    "answer": "broad-based across economic sectors and creates productive employment opportunities for the majority of the country's population without worsening income inequality"
   },
   {
-    "id": "notion-econs-04-012",
+    "id": "notion-econs-04-020-1",
     "topic": "macroeconomic-goals",
-    "question": "How can growth improve living standards, and how should living standards be compared?",
-    "answer": "rate of economic growth exceeds population growth → real income per capita and purchasing power rise → greater willingness and ability to consume goods and services → more wants are satisfied and greater utility is derived → material standard of living rises\n\nGDP per capita adjusted for PPP → purchasing power of the citizens\n\nHDI → comparison of both the m and non-m SOL between economies → does not account for issues like political, social and economic freedom"
+    "question": "What is inflation?",
+    "answer": "Inflation is a sustained increase in the general price level (GPL) of an economy"
   },
   {
-    "id": "notion-econs-04-013",
+    "id": "notion-econs-04-020-2",
     "topic": "macroeconomic-goals",
-    "question": "How can economic growth support income redistribution?",
-    "answer": "increase in real national income → government can collect more tax revenue → more income can be redistributed to lower-income families through transfer payments or subsidies → lower-income families can consume more essential goods and services"
+    "question": "What is core inflation?",
+    "answer": "Core inflation → generalised and persistent price changes driven by underlying demand conditions → excludes selected components whose prices are especially volatile or strongly affected by temporary supply-side factors"
   },
   {
-    "id": "notion-econs-04-014",
+    "id": "notion-econs-04-020-3",
     "topic": "macroeconomic-goals",
-    "question": "How can a positive economic outlook encourage continued growth?",
-    "answer": "sustained positive economic outlook raises the expected rate of return on investment relative to the cost of borrowing → net expected rate of return on investment rises → investment and aggregate demand increase"
+    "question": "What is deflation?",
+    "answer": "Deflation is a sustained decrease in the GPL of goods and services"
   },
   {
-    "id": "notion-econs-04-015",
+    "id": "notion-econs-04-020-4",
     "topic": "macroeconomic-goals",
-    "question": "Why can investment require a trade-off with current consumption?",
-    "answer": "investment diverts resources from producing consumer goods → reduces current consumption → forgo some present utility → lower current standard of living\n\ninvestment adds to the capital stock → increases the economy's productive capacity → higher rate of economic growth in the future → permits a higher level of consumer-goods production in the future"
+    "question": "What is disinflation?",
+    "answer": "Disinflation is a decrease in the rate of inflation → GPL continues to rise, but at a slower rate"
   },
   {
-    "id": "notion-econs-04-017",
+    "id": "notion-econs-04-020-5",
     "topic": "macroeconomic-goals",
-    "question": "How can economic growth cause environmental degradation?",
-    "answer": "Increased economic activity generates pollution → external costs are imposed on third parties → poor health and lower productivity → lower quality of life → non-material standard of living worsens\n\nDepletion of non-renewable factors of production → fewer factors of production remain for future generations → future growth and future standards of living are undermined"
+    "question": "What is stagflation?",
+    "answer": "Stagflation → high unemployment, rapid inflation and a depressed level of real output"
   },
   {
-    "id": "notion-econs-04-018",
+    "id": "notion-econs-04-020-6",
     "topic": "macroeconomic-goals",
-    "question": "How can growth worsen the trade balance?",
-    "answer": "increase in national income, Y, raises purchasing power → demand for imports, M, rises → import expenditure rises → balance of trade may move into deficit"
-  },
-  {
-    "id": "notion-econs-04-019",
-    "topic": "macroeconomic-goals",
-    "question": "How should the priority given to price stability be evaluated?",
-    "answer": "price stability is often the pre-requisite for achieving other macro goals like low unemployment and sustainable and inclusive EC growth\n\nduring a recession → maintaining a strong currency, where imports become cheaper → make Singapore’s exports more expensive and less competitive when global demand is already weak → slow down economic growth and worsen unemployment → right focus depends on the current economic conditions"
-  },
-  {
-    "id": "notion-econs-04-020",
-    "topic": "macroeconomic-goals",
-    "question": "What are inflation, core inflation, deflation, disinflation, stagflation and the CPI?",
-    "answer": "Inflation is a sustained increase in the general price level (GPL) of an economy\n\nCore inflation → generalised and persistent price changes driven by underlying demand conditions → excludes selected components whose prices are especially volatile or strongly affected by temporary supply-side factors\n\nDeflation is a sustained decrease in the GPL of goods and services\n\nDisinflation is a decrease in the rate of inflation → GPL continues to rise, but at a slower rate\n\nStagflation → high unemployment, rapid inflation and a depressed level of real output\n\nConsumer Price Index (CPI) is a weighted average of prices of a specified basket of consumption goods and services commonly purchased by residential households → base year is assigned a value of 100"
-  },
-  {
-    "id": "notion-econs-04-021",
-    "topic": "macroeconomic-goals",
-    "question": "How do the notes classify different degrees of inflation?",
-    "answer": "Mild inflation: not more than 3% per annum\n\nModerate inflation: less than 10% per annum\n\nGalloping inflation: more than 10% but less than 1000% per annum\n\nHyperinflation: above 1000% per annum"
-  },
-  {
-    "id": "notion-econs-04-022",
-    "topic": "macroeconomic-goals",
-    "question": "How does demand-pull inflation arise near full employment?",
-    "answer": "increase in AD results in unplanned disinvestment → draw down their inventories → signals firms to increase output → demand more factor inputs, including labour → Greater competition for factors of production bids up factor prices → Higher UCOP → higher prices for final goods and services\n\neconomy approaches full employment → shortage can no longer be met by a comparable increase in production → larger increase in the GPL"
-  },
-  {
-    "id": "notion-econs-04-023",
-    "topic": "macroeconomic-goals",
-    "question": "How does cost-push inflation arise and affect output?",
-    "answer": "increase in UCOP that is independent of AD → supply the same output only at higher prices → Aggregate supply shifts upwards or leftwards → higher cost is passed on to consumers → GPL rises while real national output falls further below the full-employment level"
-  },
-  {
-    "id": "notion-econs-04-024",
-    "topic": "macroeconomic-goals",
-    "question": "How does imported inflation arise?",
-    "answer": "Depreciation of the country's currency → domestic-currency price of imported goods rises\n\nrestriction in the supply of oil pushes up its global price → raising the cost of an essential factor input\n\nincrease in oil prices raises UCOP → oil is used as a source of energy for transport and to power machinery"
+    "question": "What is the Consumer Price Index (CPI)?",
+    "answer": "Consumer Price Index (CPI) is a weighted average of prices of a specified basket of consumption goods and services commonly purchased by residential households → base year is assigned a value of 100"
   },
   {
     "id": "notion-econs-04-025",
     "topic": "macroeconomic-goals",
     "question": "What is a negative supply shock?",
-    "answer": "sudden and unexpected decrease in the supply of a major commodity or essential factor of production → raises UCOP across many industries"
-  },
-  {
-    "id": "notion-econs-04-026",
-    "topic": "macroeconomic-goals",
-    "question": "When can wage increases cause wage-push inflation?",
-    "answer": "wages rise faster than labour productivity → UCOP rises\n\nsuccessful wage demands by trade unions\n\nminimum-wage legislation"
-  },
-  {
-    "id": "notion-econs-04-027",
-    "topic": "macroeconomic-goals",
-    "question": "How does tax-push inflation arise?",
-    "answer": "increase in indirect taxes or production taxes raises firms' UCOP → aggregate supply shifts upwards or leftwards → GPL rises while real national output falls"
-  },
-  {
-    "id": "notion-econs-04-028",
-    "topic": "macroeconomic-goals",
-    "question": "How does profit-push inflation arise in the notes?",
-    "answer": "Firms with market power may restrict output to raise prices and maximise profits\n\nanticipate further price increases and stockpile goods → creating an additional shortage → further increase in the GPL"
-  },
-  {
-    "id": "notion-econs-04-029",
-    "topic": "macroeconomic-goals",
-    "question": "How can a wage-price spiral develop, and what evaluation is given?",
-    "answer": "Trade unions successfully negotiate higher wages → workers receive higher income → income-induced consumption rises → AD rises\n\nincrease in wages exceeds any increase in productivity → UCOP rises → firms pass part of the higher cost on to consumers → increase in prices reduces the purchasing power → workers may again demand higher nominal wages → another round of price increases begins"
-  },
-  {
-    "id": "notion-econs-04-030",
-    "topic": "macroeconomic-goals",
-    "question": "How does inflation redistribute income, and how can its impact be mitigated?",
-    "answer": "Fixed-income earners experience a fall in purchasing power and real income → fixed nominal income buys fewer goods and services → standard of living falls\n\nVariable-income earners → stronger bargaining power to negotiate wage increases\n\ninflation rate exceeds the nominal interest rate → real interest rate becomes negative → amount repaid by debtors has less purchasing power → debtors gain while creditors lose\n\nAssurance Package and GST vouchers → transfers income back to vulnerable households"
+    "answer": "sudden and unexpected decrease in the supply of a major commodity or essential factor of production"
   },
   {
     "id": "notion-econs-04-031",
     "topic": "macroeconomic-goals",
     "question": "What are shoe-leather costs?",
-    "answer": "inflation rate exceeds the nominal interest rate → return on bank deposits is insufficient to compensate for the loss of purchasing power → hold less cash and withdraw money more frequently → opportunity costs of the time and inconvenience involved"
+    "answer": "opportunity costs of the time and inconvenience involved in withdrawing money more frequently during inflation"
   },
   {
     "id": "notion-econs-04-032",
     "topic": "macroeconomic-goals",
     "question": "What are menu costs?",
-    "answer": "Menu Costs → costs firms incur when informing consumers of price increases → printing and labour costs when changing price tags, menus and catalogues"
-  },
-  {
-    "id": "notion-econs-04-033",
-    "topic": "macroeconomic-goals",
-    "question": "How can inflation reduce investment through uncertainty and weaker confidence?",
-    "answer": "difficult to predict future streams of revenue and costs → greater difficulty estimating the expected rate of return on investment → increasing investment risk → I ↓ → AD ↓ → national output falls and unemployment rises → multiplier effect\n\nI ↓ → capital accumulation falls → increase in productive capacity is limited in the long run → future economic growth and improvements in the standard of living are limited"
-  },
-  {
-    "id": "notion-econs-04-034",
-    "topic": "macroeconomic-goals",
-    "question": "How can inflation cause allocative inefficiency?",
-    "answer": "unsure whether a high price reflects the scarcity of a particular resource or economy-wide inflation → market participants to make mistakes → inefficient allocation of resources → prices cannot perform their signalling function effectively"
-  },
-  {
-    "id": "notion-econs-04-035",
-    "topic": "macroeconomic-goals",
-    "question": "How can relatively high inflation worsen the trade balance?",
-    "answer": "inflation rate rises relative to that of its trading partners → exports become less price-competitive → assuming | PED_X | > 1 → more than proportionate decrease in the quantity demanded → export revenue, X, falls\n\nSingapore's goods and imports are substitutes → switch towards imports → demand for imports from Korea rises → import expenditure, M, rises"
-  },
-  {
-    "id": "notion-econs-04-036",
-    "topic": "macroeconomic-goals",
-    "question": "How can inflation put downward pressure on the exchange rate?",
-    "answer": "X ↓ and capital inflows ↓ → demand for the domestic currency falls\n\nM ↑ → supply of the domestic currency rises → surplus of the currency → freely floating exchange-rate system → currency depreciates"
-  },
-  {
-    "id": "notion-econs-04-037",
-    "topic": "macroeconomic-goals",
-    "question": "How can inflation affect foreign investment?",
-    "answer": "inflation rate is high and volatile → uncertainty rises → foreign firms become less willing to invest → capital inflows fall"
+    "answer": "Menu Costs → costs firms incur when informing consumers of price increases"
   },
   {
     "id": "notion-econs-04-038",
     "topic": "macroeconomic-goals",
-    "question": "What is hot money, and how can expected depreciation trigger capital flight?",
-    "answer": "Hot money refers to funds that move quickly and regularly between international markets\n\ninvestors anticipate a fall in the exchange rate → move their funds to countries with more stable monetary conditions → avoid exchange-rate losses → short-term capital outflows rise"
-  },
-  {
-    "id": "notion-econs-04-039",
-    "topic": "macroeconomic-goals",
-    "question": "How does inflation undermine money as a store of value?",
-    "answer": "Inflation undermines money's usefulness as a store of value → money should retain its purchasing power over time → Households may instead switch to assets such as real estate"
-  },
-  {
-    "id": "notion-econs-04-040",
-    "topic": "macroeconomic-goals",
-    "question": "How does inflation undermine money as a medium of exchange?",
-    "answer": "Changes in the value of money create confusion about the value of commodities → People may lose confidence in the currency → turn to alternatives such as foreign currencies or commodities"
-  },
-  {
-    "id": "notion-econs-04-041",
-    "topic": "macroeconomic-goals",
-    "question": "Why is inflation concerning for a trade-reliant economy such as Singapore?",
-    "answer": "Inflation may cause a loss of price competitiveness → ability to accumulate foreign reserves may fall → fewer reserves with which to stabilise its exchange rate → stable exchange rate supports investment and trade → employment falls because factor demand is derived from demand for output → aggregate demand falls as exports decrease"
-  },
-  {
-    "id": "notion-econs-04-042",
-    "topic": "macroeconomic-goals",
-    "question": "How can inflation affect the real value of CPF savings?",
-    "answer": "inflation rate exceeds the nominal interest rate → real value of household savings in the Central Provident Fund (CPF) is eroded → ability to finance housing and healthcare during retirement is undermined"
-  },
-  {
-    "id": "notion-econs-04-043",
-    "topic": "macroeconomic-goals",
-    "question": "How can a fall in AD cause deflation?",
-    "answer": "unplanned accumulation of inventories signals firms to decrease output → reduce their demand for factors of production, including labour → output falls and income-induced consumption decreases → another fall in AD → reverse multiplier process → real national income contracts\n\nfactor prices fall → firms' UCOP falls → firms pass part of the cost savings on to consumers → prices of final goods and services fall"
-  },
-  {
-    "id": "notion-econs-04-044",
-    "topic": "macroeconomic-goals",
-    "question": "How can an increase in AS cause deflation?",
-    "answer": "reduction in firms' UCOP → increases their profit margins → increase output and hire more factors of production → Aggregate supply shifts downwards or rightwards → real national income rises → pass part of the cost savings on to consumers → lowering the prices of final goods and services"
-  },
-  {
-    "id": "notion-econs-04-045",
-    "topic": "macroeconomic-goals",
-    "question": "How does deflation redistribute income?",
-    "answer": "Fixed-income earners experience an increase in purchasing power and real income → fixed nominal income buys more goods and services → standard of living rises\n\nbusiness owners may experience lower nominal profits when selling prices fall\n\ninflation rate is negative → real interest rate is higher than the nominal interest rate → amount debtors repay has greater purchasing power → debtors lose while creditors gain"
-  },
-  {
-    "id": "notion-econs-04-046",
-    "topic": "macroeconomic-goals",
-    "question": "How can a deflationary spiral develop?",
-    "answer": "Consumers expect prices to continue falling → postpone spending while waiting for lower prices → consumption falls while savings rise\n\nexpected rate of return falls below the cost of borrowing → firms reduce investment → decreases in C and I cause AD to fall → reverse multiplier process → real national income contracts, unemployment rises and the GPL continues to fall"
-  },
-  {
-    "id": "notion-econs-04-047",
-    "topic": "macroeconomic-goals",
-    "question": "Why can deflation undermine monetary-policy effectiveness?",
-    "answer": "nominal interest rates are already near their effective lower bound → expansionary monetary policy may be rendered ineffective\n\nhouseholds and firms remain unwilling to borrow and spend\n\nreal interest rate remains positive during deflation → borrowing remains costly in real terms → discouraging consumption and investment"
-  },
-  {
-    "id": "notion-econs-04-048",
-    "topic": "macroeconomic-goals",
-    "question": "How can lower relative prices improve the trade balance?",
-    "answer": "inflation rate falls relative to that of its trading partners → exports become more price-competitive → assuming | PED_X | > 1 → more than proportionate increase in the quantity demanded → export revenue, X, rises\n\nconsumers to switch towards domestic goods → demand for imports from Korea falls → import expenditure, M, falls"
-  },
-  {
-    "id": "notion-econs-04-049",
-    "topic": "macroeconomic-goals",
-    "question": "How can improved external receipts put appreciation pressure on a currency?",
-    "answer": "X ↑ and capital inflows ↑ → demand for the domestic currency rises\n\nM ↓ → supply of the domestic currency falls → shortage of the domestic currency → freely floating exchange-rate system → currency appreciates"
+    "question": "What is hot money?",
+    "answer": "Hot money refers to funds that move quickly and regularly between international markets"
   },
   {
     "id": "notion-econs-04-050",
@@ -1170,16 +270,28 @@
     "answer": "balance of payments (BOP) → statement that summarises the economic transactions between residents of an economy and non-residents over a specified period"
   },
   {
-    "id": "notion-econs-04-051",
+    "id": "notion-econs-04-051-3",
     "topic": "macroeconomic-goals",
-    "question": "What are the components and balances of the current account?",
-    "answer": "Balance-of-trade surplus: X > M\n\nBalance-of-trade deficit: X < M\n\nprimary income balance records net income from abroad, including investment income and the compensation of employees\n\nsecondary income balance records government and non-government transfers\n\ncurrent-account surplus → total value of receipts exceeds the total value of payments → net inflow of foreign currency\n\ncurrent-account deficit → total value of payments exceeds the total value of receipts → net outflow of foreign currency"
+    "question": "What is the primary income balance?",
+    "answer": "primary income balance records net income from abroad, including investment income and the compensation of employees"
   },
   {
-    "id": "notion-econs-04-052",
+    "id": "notion-econs-04-051-4",
     "topic": "macroeconomic-goals",
-    "question": "What types of flows are included in the capital and financial account notes?",
-    "answer": "Short-term capital flows → hot money → volatile and easily reversible\n\nLong-term capital flows → assets with a maturity of more than one year\n\nDirect investment → owns at least 10% of the ordinary shares or voting power\n\nIndirect or portfolio investment → investor has less influence than in a direct-investment relationship → trading of securities in financial markets"
+    "question": "What is the secondary income balance?",
+    "answer": "secondary income balance records government and non-government transfers"
+  },
+  {
+    "id": "notion-econs-04-051-5",
+    "topic": "macroeconomic-goals",
+    "question": "What is a current-account surplus?",
+    "answer": "current-account surplus → total value of receipts exceeds the total value of payments → net inflow of foreign currency"
+  },
+  {
+    "id": "notion-econs-04-051-6",
+    "topic": "macroeconomic-goals",
+    "question": "What is a current-account deficit?",
+    "answer": "current-account deficit → total value of payments exceeds the total value of receipts → net outflow of foreign currency"
   },
   {
     "id": "notion-econs-04-053",
@@ -1188,166 +300,16 @@
     "answer": "revenue received from exporting goods and services is less than expenditure on imported goods and services: X < M"
   },
   {
-    "id": "notion-econs-04-054",
-    "topic": "macroeconomic-goals",
-    "question": "How can relative inflation cause a trade deficit?",
-    "answer": "prices of goods and services produced in Singapore rise in both absolute and relative terms → exports become more expensive than Korea's goods → assuming | PED_X | > 1 → more than proportionate decrease in the quantity demanded → export revenue, X, falls\n\nSingapore's and Korea's goods are substitutes → households switch to Korean goods → import expenditure, M, rises → balance of trade moves into deficit if initially X - M = 0"
-  },
-  {
-    "id": "notion-econs-04-055",
-    "topic": "macroeconomic-goals",
-    "question": "How can appreciation worsen the trade balance?",
-    "answer": "currency appreciates → price of its exports rises in foreign-currency terms → price of imports falls in domestic-currency terms → quantity demanded of the country's exports falls while the quantity demanded of imports rises → Marshall–Lerner condition → export revenue to fall relative to import expenditure → balance of trade may move into deficit"
-  },
-  {
-    "id": "notion-econs-04-056",
-    "topic": "macroeconomic-goals",
-    "question": "How can relative interest rates and capital flows worsen the trade balance?",
-    "answer": "interest rate rises relative to foreign interest rates → return from holding its financial assets rises relative to the return from foreign assets → demand for its currency rises while its supply falls → currency appreciates → exports become more expensive and imports become cheaper → X may fall while M rises → worsening the balance of trade"
-  },
-  {
-    "id": "notion-econs-04-057",
-    "topic": "macroeconomic-goals",
-    "question": "How can low-cost competitors and lost comparative advantage cause a trade deficit?",
-    "answer": "emergence of low-cost competitors raises the relative price of the country's exports → larger the fall in demand for its exports → X falls\n\nlower-priced imports → quantity demanded of imports to rise → If demand for imports is price-elastic → import expenditure, M, rises → balance of trade may move into deficit"
-  },
-  {
-    "id": "notion-econs-04-058",
-    "topic": "macroeconomic-goals",
-    "question": "How can a trading partner's falling income cause a trade deficit?",
-    "answer": "country B's income falls → willingness and ability of its households to consume falls → demand for country A's exports decreases → country A experiences a fall in X → balance of trade to move into deficit"
-  },
-  {
-    "id": "notion-econs-04-059",
-    "topic": "macroeconomic-goals",
-    "question": "How can changing tastes and preferences worsen the trade balance?",
-    "answer": "shift in tastes and preferences away from domestically produced exports or towards imported goods → reduces X or raises M → worsening the balance of trade"
-  },
-  {
-    "id": "notion-econs-04-061",
-    "topic": "macroeconomic-goals",
-    "question": "What currency pressure is identified under the consequences of a trade deficit?",
-    "answer": "balance-of-trade deficit creates a net outflow of the country's currency → excess supply of the currency arises in the foreign exchange market"
-  },
-  {
-    "id": "notion-econs-04-062",
-    "topic": "macroeconomic-goals",
-    "question": "How can a persistent deficit affect a fixed exchange rate and foreign reserves?",
-    "answer": "central bank can buy the excess supply of its currency using foreign reserves → removing downward pressure on the exchange rate\n\npersistent and large deficit → eventually run out of reserves → Market forces will then prevail and the currency will depreciate"
-  },
-  {
-    "id": "notion-econs-04-063",
-    "topic": "macroeconomic-goals",
-    "question": "How may a floating exchange rate adjust to a deficit, and when might a currency crisis occur?",
-    "answer": "country's currency depreciates → price of its exports falls in foreign-currency terms while the price of imports rises in domestic-currency terms → quantity demanded of exports rises while the quantity demanded of imports falls → Marshall–Lerner condition → export revenue to rise relative to import expenditure → balance-of-trade deficit is corrected\n\ncountries with large reserves → sustain forex interventions, deterring speculation"
-  },
-  {
-    "id": "notion-econs-04-064",
-    "topic": "macroeconomic-goals",
-    "question": "How can a trade deficit and depreciation affect inflationary pressure?",
-    "answer": "currency depreciation can create inflationary pressure through imported inflation\n\nreduction in demand-pull inflation may be offset by imported cost-push inflation → persistent BOT deficit puts downward pressure on the exchange rate → rely heavily on imported raw materials and energy → depreciation would raise the domestic price level"
-  },
-  {
-    "id": "notion-econs-04-065",
-    "topic": "macroeconomic-goals",
-    "question": "How does depreciation affect foreign-currency debt?",
-    "answer": "Exchange-rate depreciation increases the debt burden → loans denominated in foreign currency now cost more to repay in domestic-currency terms"
-  },
-  {
-    "id": "notion-econs-04-066",
-    "topic": "macroeconomic-goals",
-    "question": "How should the living-standard effects of a trade deficit be evaluated?",
-    "answer": "Intertemporal trade allows consumption to be smoothed over time through a trade deficit → stable consumption and standards of living\n\nstructural loss of global competitiveness → fundamental macroeconomic issues that require policy intervention\n\nimportation of productive capital goods and advanced technology → expands AS → future export-led growth → eventually reverse the deficit"
-  },
-  {
-    "id": "notion-econs-04-067",
-    "topic": "macroeconomic-goals",
-    "question": "How can financing an external deficit affect future living standards?",
-    "answer": "no surplus elsewhere in the current account to offset the balance-of-trade deficit → current account will be in deficit → financed through external borrowing → foreigners gain a greater claim on the country's assets and resources → interest, profits and dividends that must be paid abroad in the future → households receive less factor income in the future → future standard of living falls"
-  },
-  {
-    "id": "notion-econs-04-068",
-    "topic": "macroeconomic-goals",
-    "question": "How can a deteriorating trade balance reduce investment?",
-    "answer": "Income falls → demand for goods and services falls → firms hire fewer workers and decrease production → revenue and profits fall → aggregate demand and investor confidence fall → firms undertake less investment"
-  },
-  {
     "id": "notion-econs-04-069",
     "topic": "macroeconomic-goals",
     "question": "What is a balance-of-trade surplus?",
     "answer": "revenue received from exporting goods and services exceeds expenditure on imported goods and services: X > M"
   },
   {
-    "id": "notion-econs-04-070",
-    "topic": "macroeconomic-goals",
-    "question": "How can lower relative interest rates improve the trade balance?",
-    "answer": "interest rate falls relative to foreign interest rates → return from holding its financial assets falls → demand for its currency falls while its supply rises → currency depreciates → exports become cheaper and imports become more expensive → X may rise while M falls → improving the balance of trade"
-  },
-  {
-    "id": "notion-econs-04-071",
-    "topic": "macroeconomic-goals",
-    "question": "How can depreciation improve the trade balance?",
-    "answer": "currency depreciates → price of its exports falls in foreign-currency terms while the price of imports rises in domestic-currency terms → quantity demanded of exports rises while the quantity demanded of imports falls → Marshall–Lerner condition → export revenue to rise relative to import expenditure → balance of trade improves and may move into surplus"
-  },
-  {
-    "id": "notion-econs-04-072",
-    "topic": "macroeconomic-goals",
-    "question": "How can relative income growth improve the trade balance?",
-    "answer": "Faster income growth among trading partners → willingness and ability to buy the country's exports → X rises\n\ndomestic income grows more slowly → demand for imports grows less rapidly → M rises more slowly or falls → balance of trade improves"
-  },
-  {
-    "id": "notion-econs-04-073",
-    "topic": "macroeconomic-goals",
-    "question": "How can tastes and preferences improve the trade balance?",
-    "answer": "shift in tastes and preferences towards the country's exports or away from imported goods → raises X or lowers M → improving the balance of trade"
-  },
-  {
-    "id": "notion-econs-04-074",
-    "topic": "macroeconomic-goals",
-    "question": "How can foreign trade liberalisation improve the trade balance?",
-    "answer": "foreign governments reduce tariffs, quotas or other restrictions on the country's exports → demand for its exports rises → X rises → balance of trade improves"
-  },
-  {
-    "id": "notion-econs-04-075",
-    "topic": "macroeconomic-goals",
-    "question": "How can a trade surplus raise employment and national income?",
-    "answer": "increase in X will lead to a significant increase in AD → significant increase in AD and NY, employment and hence material SOL"
-  },
-  {
-    "id": "notion-econs-04-076",
-    "topic": "macroeconomic-goals",
-    "question": "How can a trade surplus affect the exchange rate?",
-    "answer": "balance-of-trade surplus creates a net inflow of foreign currency and stronger demand for the domestic currency → shortage of the domestic currency → freely floating exchange-rate system → currency appreciates"
-  },
-  {
-    "id": "notion-econs-04-077",
-    "topic": "macroeconomic-goals",
-    "question": "How can a trade surplus provoke retaliation?",
-    "answer": "one country's balance-of-trade surplus is mirrored by another country's deficit → deficit countries may impose import controls such as quotas or tariffs → volume of trade falls → gains in efficiency arising from specialisation and the division of labour according to comparative advantage are limited"
-  },
-  {
-    "id": "notion-econs-04-078",
-    "topic": "macroeconomic-goals",
-    "question": "How can a trade surplus affect current living standards?",
-    "answer": "resources being diverted from domestic consumption towards exports → fewer goods and services are available for current consumption → fewer wants and needs are satisfied and less utility is derived → current material standard of living may fall\n\noperating near full capacity (Yf) → demand-pull inflation → cost of living → rises faster than nominal wages → real income actually falls"
-  },
-  {
-    "id": "notion-econs-04-079",
-    "topic": "macroeconomic-goals",
-    "question": "How can a trade surplus, exchange-rate intervention and reserves affect confidence?",
-    "answer": "net inflow of foreign currency → central bank may enter the foreign exchange market → selling domestic currency and buying foreign currency → foreign reserves increase → business confidence may improve and future standards of living may be protected"
-  },
-  {
-    "id": "notion-econs-04-080",
-    "topic": "macroeconomic-goals",
-    "question": "Why should international financial investment be distinguished from investment in AD?",
-    "answer": "investments should not be confused with I in aggregate demand\n\nAD = C + I + G + (X - M) → I has the specific meaning of expenditure on fixed capital formation and changes in inventories"
-  },
-  {
     "id": "notion-econs-04-081",
     "topic": "macroeconomic-goals",
-    "question": "What is direct investment, and what example is given?",
-    "answer": "Investment in real or tangible assets, such as setting up a business abroad → foreign multinational corporation builds a production plant in Singapore"
+    "question": "What is direct investment?",
+    "answer": "Investment in real or tangible assets, such as setting up a business abroad"
   },
   {
     "id": "notion-econs-04-082",
@@ -1356,130 +318,58 @@
     "answer": "purchase of company shares or government bonds without obtaining a controlling interest"
   },
   {
-    "id": "notion-econs-04-083",
+    "id": "notion-econs-04-090-1",
     "topic": "macroeconomic-goals",
-    "question": "What is included under other investment or hot money?",
-    "answer": "Cash deposits and loans held with commercial banks"
+    "question": "What is the labour force?",
+    "answer": "labour force → people of at least the minimum legal working age who are willing and able to work at the prevailing wage rate"
   },
   {
-    "id": "notion-econs-04-084",
+    "id": "notion-econs-04-090-2",
     "topic": "macroeconomic-goals",
-    "question": "How do relative interest rates affect international capital flows?",
-    "answer": "return from holding a country's financial assets falls relative to the return from assets in other countries → investors reduce their holdings → move their funds in search of the highest expected rate of return → capital inflows fall while capital outflows rise"
+    "question": "What is the unemployment rate?",
+    "answer": "unemployment rate → percentage of the labour force who are without jobs but are available for work, willing to work and actively seeking work"
   },
   {
-    "id": "notion-econs-04-085",
+    "id": "notion-econs-04-090-3",
     "topic": "macroeconomic-goals",
-    "question": "How do expected exchange-rate changes affect international capital flows?",
-    "answer": "expect the country's currency to depreciate → assets denominated in that currency are expected to lose value → sell their assets and convert their currency holdings into other currencies → avoid exchange-rate losses → capital inflows fall while capital outflows rise"
+    "question": "What is full employment?",
+    "answer": "Full employment → non-zero but low rate of unemployment compatible with price stability"
   },
   {
-    "id": "notion-econs-04-086",
+    "id": "notion-econs-04-090-4",
     "topic": "macroeconomic-goals",
-    "question": "How can infrastructure and offshoring affect direct-investment flows?",
-    "answer": "Governments of emerging economies allocate substantial funds to improve infrastructure → transport and telecommunications become more efficient → multinational corporations are attracted to these economies → direct investment flows towards the emerging economies"
+    "question": "What is underemployment?",
+    "answer": "Underemployment → labour is underutilised"
   },
   {
-    "id": "notion-econs-04-087",
+    "id": "notion-econs-04-090-5",
     "topic": "macroeconomic-goals",
-    "question": "How can capital inflows benefit consumers and producers?",
-    "answer": "Capital inflows can finance a current-account or balance-of-trade deficit → maintain current consumption and production\n\nincrease the availability of loanable funds\n\nshort-term hot-money inflows are volatile and easily reversible"
-  },
-  {
-    "id": "notion-econs-04-088",
-    "topic": "macroeconomic-goals",
-    "question": "How can long-term capital inflows increase investment and output?",
-    "answer": "Long-term FDI inflows and net borrowing in the financial account → technology is transferred and more job opportunities are created → both aggregate demand and aggregate supply increase"
-  },
-  {
-    "id": "notion-econs-04-089",
-    "topic": "macroeconomic-goals",
-    "question": "How can outward capital flows affect future living standards?",
-    "answer": "Outward investment may come at the expense of investment within the home country → future ability to produce goods and services may be limited → future material standard of living may be lower\n\nresidents acquire greater holdings of foreign assets → assuming a positive rate of return → profits, interest and dividends earned on those assets improve the country's primary-income balance and gross national income → residents can consume more goods and services → material standard of living rises"
-  },
-  {
-    "id": "notion-econs-04-090",
-    "topic": "macroeconomic-goals",
-    "question": "How are the labour force, unemployment, full employment, underemployment and discouraged workers defined?",
-    "answer": "labour force → people of at least the minimum legal working age who are willing and able to work at the prevailing wage rate\n\nunemployment rate → percentage of the labour force who are without jobs but are available for work, willing to work and actively seeking work\n\nFull employment → non-zero but low rate of unemployment compatible with price stability\n\nUnderemployment → labour is underutilised\n\nDiscouraged workers → stopped actively seeking employment → excluded from official unemployment statistics → official unemployment rate may underestimate actual unemployment"
-  },
-  {
-    "id": "notion-econs-04-091",
-    "topic": "macroeconomic-goals",
-    "question": "How does frictional unemployment arise?",
-    "answer": "people leave their jobs and remain unemployed for a period while looking for new work → Imperfect information in the labour market → workers and employers need time to find suitable matches"
-  },
-  {
-    "id": "notion-econs-04-092",
-    "topic": "macroeconomic-goals",
-    "question": "How does demand-deficient unemployment arise?",
-    "answer": "demand for labour is derived from the demand for goods and services\n\nGlobal Financial Crisis and the COVID-19 pandemic → reduced Singapore's exports and investment → tourism, banking and financial services"
+    "question": "What is a discouraged worker?",
+    "answer": "Discouraged workers → stopped actively seeking employment"
   },
   {
     "id": "notion-econs-04-093",
     "topic": "macroeconomic-goals",
     "question": "What is structural unemployment?",
-    "answer": "structure of the economy changes → mismatch between the skills or locations of unemployed workers and those required by available jobs → Employment expands in some industries or regions and contracts in others"
+    "answer": "structure of the economy changes → mismatch between the skills or locations of unemployed workers and those required by available jobs"
   },
   {
     "id": "notion-econs-04-094",
     "topic": "macroeconomic-goals",
-    "question": "What is occupational immobility, and how can it affect capital and labour?",
-    "answer": "factors of production cannot move easily between different industries and uses\n\nCapital → converting a nuclear power station to another use is difficult → radioactive waste and complex, specialised equipment\n\nLabour → Workers' skills may not match the skills required for available jobs"
+    "question": "What is occupational immobility?",
+    "answer": "factors of production cannot move easily between different industries and uses"
   },
   {
     "id": "notion-econs-04-095",
     "topic": "macroeconomic-goals",
     "question": "What is geographical immobility?",
-    "answer": "lack of willingness or ability of factors of production to move between or within countries → social ties, family commitments, housing constraints or the high cost of relocation"
-  },
-  {
-    "id": "notion-econs-04-096",
-    "topic": "macroeconomic-goals",
-    "question": "How can globalisation create structural unemployment?",
-    "answer": "restructure their economies to develop knowledge- and capital-intensive industries → Displaced workers may not possess the skills required by growing industries → occupational immobility\n\nFirms may also relocate production to other countries → Workers who lose their jobs may be unable or unwilling to move because of family ties or the high cost of relocation → geographical immobility"
-  },
-  {
-    "id": "notion-econs-04-097",
-    "topic": "macroeconomic-goals",
-    "question": "How can technological change create structural unemployment?",
-    "answer": "Technological change creates new occupations → making other occupations obsolete → new jobs require substantially different skills → displaced workers may struggle to become re-employed → mismatch develops between the skills required by new jobs and those possessed by jobseekers → Structural unemployment therefore rises"
-  },
-  {
-    "id": "notion-econs-04-098",
-    "topic": "macroeconomic-goals",
-    "question": "How does the pandemic automation example illustrate structural unemployment?",
-    "answer": "border closures and safe-distancing measures created labour shortages → Firms adopted automation and digitalisation → industrial-grade dishwashers and robot servers → made some existing skills obsolete → Lower-skilled workers, such as dishwashers, faced a mismatch between their skills and those required in industries with growing labour demand → increasing structural unemployment through occupational immobility"
+    "answer": "lack of willingness or ability of factors of production to move between or within countries"
   },
   {
     "id": "notion-econs-04-099",
     "topic": "macroeconomic-goals",
     "question": "What is seasonal unemployment?",
-    "answer": "predictable seasonal fluctuations in demand → workers are temporarily out of work\n\nretailers may hire temporary workers during the peak Christmas-shopping period → lay them off after demand falls in January"
-  },
-  {
-    "id": "notion-econs-04-100",
-    "topic": "macroeconomic-goals",
-    "question": "Why does high unemployment cause forgone output and lower welfare?",
-    "answer": "high unemployment → point B inside its PPC rather than at point A on the PPC → factors of production are underutilised and the economy forgoes output → opportunity cost to society and a loss of economic welfare → fewer wants and needs can be satisfied → less utility is derived and society's standard of living is lower"
-  },
-  {
-    "id": "notion-econs-04-101",
-    "topic": "macroeconomic-goals",
-    "question": "How can unemployment reduce investment and potential growth?",
-    "answer": "High and prolonged unemployment → household income and purchasing power fall → firms' revenue falls → firms lose profits → expected rate of return on investment falls relative to the cost of borrowing → I ↓"
-  },
-  {
-    "id": "notion-econs-04-102",
-    "topic": "macroeconomic-goals",
-    "question": "How can prolonged unemployment cause skills erosion and hysteresis?",
-    "answer": "prolonged recession → proportion of people who become long-term unemployed rises steadily → work skills deteriorate and workers miss on-the-job training → skills become obsolete → hysteresis → some workers leave the labour market permanently → economy's PPF shifts inwards and productivity falls"
-  },
-  {
-    "id": "notion-econs-04-103",
-    "topic": "macroeconomic-goals",
-    "question": "How does high unemployment worsen the government's budget position?",
-    "answer": "More workers are unemployed and lose income → personal income-tax and indirect-tax revenue fall → tax revenue, T, falls\n\nspend more on transfer payments for unemployed workers → government expenditure rises\n\nweaker budget position → fewer resources to allocate to social development → non-material standard of living may fall"
+    "answer": "predictable seasonal fluctuations in demand → workers are temporarily out of work retailers may hire temporary workers during the peak Christmas-shopping period"
   },
   {
     "id": "notion-econs-05-001",
@@ -1488,16 +378,16 @@
     "answer": "Fiscal policy involves changes in the level of government spending and tax rates to influence the economy"
   },
   {
-    "id": "notion-econs-05-002",
+    "id": "notion-econs-05-002-1",
     "topic": "policy-choices",
-    "question": "What are the sources of government revenue?",
-    "answer": "Direct taxes are taxes on income or wealth → personal income tax (PIT) and corporate income tax (CIT)\n\nIndirect taxes are taxes on expenditure or the production of goods and services\n\nNon-tax revenue → Fees and charges → Investment income → Sale of assets"
+    "question": "What is a direct tax?",
+    "answer": "Direct taxes are taxes on income or wealth"
   },
   {
-    "id": "notion-econs-05-003",
+    "id": "notion-econs-05-002-2",
     "topic": "policy-choices",
-    "question": "How do operating and development expenditure differ?",
-    "answer": "Operating expenditure → day-to-day government spending → recurrent in nature\n\nDevelopment expenditure → expenditure for economic and social development"
+    "question": "What is an indirect tax?",
+    "answer": "Indirect taxes are taxes on expenditure or the production of goods and services"
   },
   {
     "id": "notion-econs-05-004",
@@ -1506,316 +396,28 @@
     "answer": "deliberate changes in government spending or tax rates based on the government's judgement → response to changes in macroeconomic conditions"
   },
   {
-    "id": "notion-econs-05-005",
-    "topic": "policy-choices",
-    "question": "How do government purchases, transfers and taxes differ in their effects on AD?",
-    "answer": "increase in government spending on final goods and services increases AD directly\n\nincrease in transfer payments or a decrease in taxes increases AD indirectly through consumption or investment"
-  },
-  {
-    "id": "notion-econs-05-006",
-    "topic": "policy-choices",
-    "question": "How do personal and corporate taxation affect AD and AS in the notes?",
-    "answer": "Decrease in PIT → higher disposable income → higher domestic consumption, C_d → increase in AD\n\nDecrease in CIT → higher expected rate of return on investment or higher post-tax revenue → increase in investment, I → increase in AD\n\nIncrease in PIT → workers may leave the country or work fewer hours as the opportunity cost of leisure falls → fall in AS\n\nIncrease in CIT → higher unit cost of production (UCOP) → fall in AS"
-  },
-  {
-    "id": "notion-econs-05-007",
-    "topic": "policy-choices",
-    "question": "How does multiplier size limit expansionary fiscal policy?",
-    "answer": "marginal propensity to save (MPS) is high → compulsory CPF savings\n\nmarginal propensity to import (MPM) is high → Singapore lacks natural resources and relies heavily on imports\n\nmultiplier, k, is relatively small → larger increase in G is needed to achieve the desired increase in RNI → increasing the funds required, the opportunity cost of government spending, and the risk of public debt"
-  },
-  {
-    "id": "notion-econs-05-008",
-    "topic": "policy-choices",
-    "question": "What time lags affect expansionary fiscal policy?",
-    "answer": "Recognition lag → time to recognise that a macroeconomic problem exists → economic data must be collected and analysed\n\nImplementation lag → time to change the course of fiscal policy\n\nImpact lag → multiplier process takes time before the full effect is felt"
-  },
-  {
-    "id": "notion-econs-05-009",
-    "topic": "policy-choices",
-    "question": "What goals may conflict with expansionary fiscal policy?",
-    "answer": "Expansionary fiscal policy may conflict with price stability and a favourable balance of trade (BOT) position"
-  },
-  {
-    "id": "notion-econs-05-010",
-    "topic": "policy-choices",
-    "question": "How can imperfect information limit expansionary fiscal policy?",
-    "answer": "Imperfect information → government to choose an inappropriate policy size or timing"
-  },
-  {
-    "id": "notion-econs-05-011",
-    "topic": "policy-choices",
-    "question": "How can expansionary fiscal policy transfer welfare between generations?",
-    "answer": "Expansionary fiscal policy worsens the government's budget position → budget balance to enter a deficit → financed using accumulated fiscal reserves or borrowing → fewer reserves to spend, or future tax revenue must be diverted to repay the debt and interest → Fewer resources → available for future social and developmental needs"
-  },
-  {
-    "id": "notion-econs-05-012",
-    "topic": "policy-choices",
-    "question": "How can crowding out reduce fiscal-policy effectiveness?",
-    "answer": "government may borrow to finance increased expenditure → direct competition with the private sector for the limited pool of loanable funds → increase in demand for loanable funds → raises the interest rate, i → higher cost of borrowing relative to the expected rate of return on investment → crowds out private investment → I will fall\n\nhigher opportunity cost, in terms of interest income forgone → C will fall\n\nrise in the domestic interest rate relative to foreign interest rates → raises the relative yield on domestic assets → increasing demand for and reducing the supply of SGD → appreciate and eroding export competitiveness"
-  },
-  {
-    "id": "notion-econs-05-013",
-    "topic": "policy-choices",
-    "question": "How can excessive public debt cause macroeconomic instability?",
-    "answer": "Excessive public debt → investors become concerned about the financial risk → increase in capital outflow and decrease in capital inflow → increases the supply of and reduces demand for the country's currency → sudden and substantial depreciation of the exchange rate"
-  },
-  {
-    "id": "notion-econs-05-014",
-    "topic": "policy-choices",
-    "question": "Why do the shares of AD components matter for expansionary fiscal policy?",
-    "answer": "policy is more effective when the component directly affected by the policy forms a large share of aggregate demand\n\ntransfer payments to households → whether consumption accounts for a large proportion of total GDP"
-  },
-  {
-    "id": "notion-econs-05-015",
-    "topic": "policy-choices",
-    "question": "How does contractionary fiscal policy work?",
-    "answer": "economy is overheating because AD is rising faster than productive capacity → increase in direct taxes or a decrease in government spending → reduces AD → Real national income and the general price level fall"
-  },
-  {
-    "id": "notion-econs-05-016",
-    "topic": "policy-choices",
-    "question": "How does multiplier size affect contractionary fiscal policy?",
-    "answer": "high MPS and MPM make the multiplier, k, relatively small → larger decrease in G or increase in T → required to achieve the desired fall in RNI"
-  },
-  {
-    "id": "notion-econs-05-017",
-    "topic": "policy-choices",
-    "question": "What time lags affect contractionary fiscal policy?",
-    "answer": "Recognition lag → time to recognise that a macroeconomic problem exists\n\nImplementation lag → time to change the course of fiscal policy\n\nImpact lag → time for the reverse multiplier process to produce its full effect"
-  },
-  {
-    "id": "notion-econs-05-018",
-    "topic": "policy-choices",
-    "question": "How can imperfect information affect fiscal contraction?",
-    "answer": "Imperfect information → contract demand by too much or too little"
-  },
-  {
-    "id": "notion-econs-05-019",
-    "topic": "policy-choices",
-    "question": "What macroeconomic trade-offs can fiscal contraction create?",
-    "answer": "Contractionary fiscal policy may improve price stability but worsen economic growth and employment"
-  },
-  {
-    "id": "notion-econs-05-020",
-    "topic": "policy-choices",
-    "question": "Why do the shares of AD components matter for contractionary fiscal policy?",
-    "answer": "policy is more effective when the component affected forms a large share of aggregate demand"
-  },
-  {
-    "id": "notion-econs-05-021",
-    "topic": "policy-choices",
-    "question": "Why can contractionary fiscal policy be politically unpopular?",
-    "answer": "Citizens generally dislike paying higher taxes → oppose reductions in transfer payments that they are accustomed to receiving"
-  },
-  {
-    "id": "notion-econs-05-022",
-    "topic": "policy-choices",
-    "question": "How can contractionary fiscal policy correct a trade deficit?",
-    "answer": "Expenditure-reducing effect → multiplied fall in national income through the reverse multiplier → Lower purchasing power reduces import expenditure → BOT position improves\n\nExpenditure-switching effect through deflation → fall in AD reduces the general price level → making exports relatively cheaper to foreign consumers → If demand for exports is price elastic → more than proportionate increase in the quantity demanded for exports → Export revenue increases → improving the BOT position"
-  },
-  {
-    "id": "notion-econs-05-023",
-    "topic": "policy-choices",
-    "question": "What characteristics, examples and evaluation of Singapore's fiscal policy are given?",
-    "answer": "strong supply-side bias → not merely increase AD but also seeks to expand AS\n\nWorkfare Income Supplement and Silver Support → Support household incomes and consumption while pursuing inclusive growth\n\nEnterprise Sustainability Programme → support local companies in transforming their production methods towards cleaner and more efficient energy use\n\nlow confidence → cannot stimulate I and C"
-  },
-  {
     "id": "notion-econs-05-024",
     "topic": "policy-choices",
     "question": "What is monetary policy?",
     "answer": "Monetary policy → deliberate management of a country's interest rate or exchange rate → influence the level of economic activity through AD"
   },
   {
-    "id": "notion-econs-05-025",
-    "topic": "policy-choices",
-    "question": "How does expansionary interest-rate policy affect spending, exchange rates and the trade balance?",
-    "answer": "fall in the interest rate, i → lowers the cost of borrowing → greater incentive to borrow to finance spending → lower opportunity cost, in terms of interest income forgone → net expected rate of return on investment rises → Consumption, C, and investment, I, increase → AD to rise\n\nyield on holding domestic assets falls relative to the yield from foreign assets → Hot-money inflows decrease while hot-money outflows increase → Demand for the domestic currency falls while its supply rises → domestic currency depreciates → Export prices in foreign currency fall, while import prices in domestic currency rise → Marshall-Lerner condition holds → Export revenue rises relative to import expenditure → improving the BOT position"
-  },
-  {
-    "id": "notion-econs-05-026",
-    "topic": "policy-choices",
-    "question": "How does quantitative easing work, and what limits it?",
-    "answer": "central bank makes large-scale purchases of financial assets → increases liquidity and the money supply → lowers longer-term interest rates and bond yields → ↑ C, ↑ I → ↑ AD → ↑ Y\n\nFirms and households may remain unwilling to spend if the economic outlook is weak\n\nCommercial banks may hold the additional reserves instead of lending\n\nAsset prices → may rise → possibly creating asset-price bubbles"
-  },
-  {
-    "id": "notion-econs-05-027",
-    "topic": "policy-choices",
-    "question": "How does the economic outlook limit expansionary interest-rate policy?",
-    "answer": "Businesses may be uncertain about future profit streams → Despite the greater incentive to invest → may not do so if business confidence is weak"
-  },
-  {
-    "id": "notion-econs-05-028",
-    "topic": "policy-choices",
-    "question": "How does the interest elasticity of C and I affect expansionary monetary policy?",
-    "answer": "households and firms rely primarily on their own funds → interest-rate changes have little effect on consumption and investment\n\nFirms funded mainly by foreign direct investment (FDI) → may not borrow from local banks → fall in the interest rate may do little to encourage C and I"
-  },
-  {
-    "id": "notion-econs-05-029",
-    "topic": "policy-choices",
-    "question": "Why do the shares of AD components matter for interest-rate stimulus?",
-    "answer": "more effective when interest-sensitive consumption and investment form a larger share of aggregate demand"
-  },
-  {
-    "id": "notion-econs-05-030",
-    "topic": "policy-choices",
-    "question": "How does multiplier size affect expansionary interest-rate policy?",
-    "answer": "high MPS and MPM make the multiplier relatively small → larger initial increase in C or I is needed to achieve the desired increase in RNI → Only a small proportion of additional income is channelled back into the circular flow"
-  },
-  {
-    "id": "notion-econs-05-031",
-    "topic": "policy-choices",
-    "question": "What goals may conflict with expansionary interest-rate policy?",
-    "answer": "Expansionary interest-rate policy may conflict with price stability and a favourable BOT position"
-  },
-  {
-    "id": "notion-econs-05-032",
-    "topic": "policy-choices",
-    "question": "How can imperfect information affect interest-rate policy?",
-    "answer": "Imperfect information → central bank to choose an inappropriate policy size or timing"
-  },
-  {
     "id": "notion-econs-05-033",
     "topic": "policy-choices",
-    "question": "What is a liquidity trap, and how are negative interest rates discussed?",
-    "answer": "interest rate is already very low → increase in the money supply may have little or no effect on the interest rate\n\nnominal interest rate reaches zero → little room for a further conventional interest-rate cut\n\nNegative interest rates discourage commercial banks from placing deposits with the central bank → encourage lending to households and firms → may increase C and I → effectiveness of negative interest rates is inconclusive"
-  },
-  {
-    "id": "notion-econs-05-034",
-    "topic": "policy-choices",
-    "question": "How does contractionary interest-rate policy work?",
-    "answer": "higher interest rate reduces interest-sensitive consumption and investment → AD to fall"
-  },
-  {
-    "id": "notion-econs-05-035",
-    "topic": "policy-choices",
-    "question": "Why may optimism weaken contractionary interest-rate policy?",
-    "answer": "optimistic about future profits → revise their expected rate of return on investment upwards → higher interest rate raises borrowing costs → net expected rate of return on investment not to fall\n\nHouseholds may also be confident about employment and income → may not postpone or reduce spending"
-  },
-  {
-    "id": "notion-econs-05-038",
-    "topic": "policy-choices",
-    "question": "What goals may conflict with contractionary interest-rate policy?",
-    "answer": "Actual economic growth\n\nA favourable BOT position\n\nFull employment"
-  },
-  {
-    "id": "notion-econs-05-040",
-    "topic": "policy-choices",
-    "question": "How does exchange-rate intervention work?",
-    "answer": "To cause a depreciation → central bank sells domestic currency in the foreign-exchange market in exchange for foreign currency\n\nTo cause an appreciation → central bank buys domestic currency using its foreign-exchange reserves"
-  },
-  {
-    "id": "notion-econs-05-041",
-    "topic": "policy-choices",
-    "question": "How does managed depreciation stimulate demand?",
-    "answer": "price of exports in foreign currency falls → price of imports in domestic currency rises → demand for exports and imports is sufficiently price elastic → quantity demanded for exports rises and the quantity demanded for imports falls → Net exports, (X-M), and therefore AD, increase\n\nHouseholds switch away from more expensive imports towards domestically produced goods and services → domestic consumption, C_d, increases"
-  },
-  {
-    "id": "notion-econs-05-042",
-    "topic": "policy-choices",
-    "question": "Why does trade reliance affect the effectiveness of managed depreciation?",
-    "answer": "small, open economies that rely heavily on trade → influencing the exchange rate affects net exports → one of their largest aggregate-demand components → policy is relatively effective"
-  },
-  {
-    "id": "notion-econs-05-043",
-    "topic": "policy-choices",
-    "question": "What trade-offs can managed depreciation create?",
-    "answer": "More expensive imported final goods and factor inputs → imported inflation and cost-push inflation\n\ndomestic-currency value of investors' assets may fall in foreign-currency terms → capital flight → Higher capital outflow and lower capital inflow reduce demand for and increase the supply of the currency → further depreciation → another round of capital outflows"
-  },
-  {
-    "id": "notion-econs-05-045",
-    "topic": "policy-choices",
-    "question": "How can imperfect information affect managed depreciation?",
-    "answer": "Imperfect information → inappropriate degree of depreciation"
-  },
-  {
-    "id": "notion-econs-05-046",
-    "topic": "policy-choices",
-    "question": "How can retaliation limit managed depreciation?",
-    "answer": "managed depreciation may invite retaliatory action from trading partners → competitive devaluations → policy less effective in stimulating exports and actual growth"
-  },
-  {
-    "id": "notion-econs-05-047",
-    "topic": "policy-choices",
-    "question": "How does managed appreciation reduce imported production costs?",
-    "answer": "appreciation makes imports cheaper in domestic-currency terms and exports more expensive in foreign-currency terms → Cheaper imported factor inputs reduce firms' UCOP → shifting AS from AS_0 to AS_1 → pass part of the cost savings to consumers through lower prices"
-  },
-  {
-    "id": "notion-econs-05-048",
-    "topic": "policy-choices",
-    "question": "When are the effects of managed appreciation stronger?",
-    "answer": "effect is stronger when imports and exports form large shares of aggregate demand and production costs"
-  },
-  {
-    "id": "notion-econs-05-049",
-    "topic": "policy-choices",
-    "question": "What trade-offs can managed appreciation create, and how does import content matter?",
-    "answer": "managed appreciation may worsen the BOT position → exports become more expensive while imports become cheaper\n\nexports have high import content → appreciation reduces the domestic-currency cost of imported inputs → lower production costs → partially offset the initial loss of competitiveness → net increase in export prices is therefore smaller"
-  },
-  {
-    "id": "notion-econs-05-051",
-    "topic": "policy-choices",
-    "question": "How can imperfect information affect managed appreciation?",
-    "answer": "Imperfect information → inappropriate degree of appreciation"
-  },
-  {
-    "id": "notion-econs-05-052",
-    "topic": "policy-choices",
-    "question": "What are the expenditure-reducing and expenditure-switching effects, and the J-curve evaluation?",
-    "answer": "Expenditure-reducing effect → contractionary monetary policy reduces AD, national income and import expenditure → improving a BOT deficit\n\nExpenditure-switching effect → fall in the domestic general price level improves export competitiveness → switch from imports to domestically produced goods and services\n\nDemand is likely to be price inelastic in the short run → Marshall-Lerner condition may not hold initially → depreciation may therefore worsen the trade deficit before improving it → J-curve effect"
+    "question": "What is a liquidity trap?",
+    "answer": "interest rate is already very low → increase in the money supply may have little or no effect on the interest rate"
   },
   {
     "id": "notion-econs-05-053",
     "topic": "policy-choices",
     "question": "What is the monetary-policy trilemma?",
-    "answer": "cannot simultaneously achieve all three\n\nA stable exchange rate\n\nFree international capital mobility\n\nAn independent interest-rate policy for domestic macroeconomic goals"
-  },
-  {
-    "id": "notion-econs-05-054",
-    "topic": "policy-choices",
-    "question": "Why do the notes favour exchange-rate policy over interest-rate policy for Singapore?",
-    "answer": "Monetary Authority of Singapore manages the Singapore dollar nominal effective exchange rate (S$NEER)\n\nhigh import content of domestic expenditure → susceptible to imported inflation → exchange rate is a direct tool for managing rising import prices\n\nMNCs dominate investment spending → I is less responsive to i/r changes\n\nCompulsory savings make consumption relatively interest inelastic → limits the effectiveness of an interest-rate-centred expansionary monetary policy\n\nfinancial capital is allowed to flow in and out freely → managed float foreign exchange rate system → lose control of her domestic money supply and interest rate"
+    "answer": "cannot simultaneously achieve all three A stable exchange rate Free international capital mobility An independent interest-rate policy for domestic macroeconomic goals"
   },
   {
     "id": "notion-econs-05-055",
     "topic": "policy-choices",
     "question": "What are supply-side policies?",
     "answer": "increase the quantity or quality of factors of production, improve factor mobility, reduce production costs, or increase market efficiency → expanding AS"
-  },
-  {
-    "id": "notion-econs-05-056",
-    "topic": "policy-choices",
-    "question": "How can wage subsidies reduce UCOP and increase output?",
-    "answer": "Jobs Support Scheme provided temporary wage support → subsidy reduces firms' UCOP → higher profits → increase output by employing previously unemployed resources → cost savings is passed on to consumers through lower prices → RNI increases"
-  },
-  {
-    "id": "notion-econs-05-057",
-    "topic": "policy-choices",
-    "question": "How can the quantity and quality of labour expand AS, and what limits the policies?",
-    "answer": "SkillsFuture Singapore → Improves workers' skills and human capital → raising labour productivity → expansion of productive capacity → If AD continues to increase → use the newly created capacity to expand output → sustained, non-inflationary growth\n\nlarger supply of labour lowers factor prices → UCOP falls → reducing cost-push inflation\n\nHigher productivity means more output is produced per unit of input → UCOP falls"
-  },
-  {
-    "id": "notion-econs-05-058",
-    "topic": "policy-choices",
-    "question": "How can greater factor mobility support growth and reduce unemployment?",
-    "answer": "Reduce occupational immobility of labour through retraining and skills upgrading\n\nReduce geographical immobility of labour by providing financial assistance to workers who relocate\n\nIncreased labour mobility → ↓ Structural unemployment → ↑ Labour employed → ↑ Productive capacity → ↑ AS\n\nmeasures take time to take effect → In the short run, faster growth may worsen inequality → In the long run, if reskilling is effective → reducing inequality"
-  },
-  {
-    "id": "notion-econs-05-059",
-    "topic": "policy-choices",
-    "question": "How can privatisation and deregulation improve market efficiency?",
-    "answer": "Privatisation → Transfer a state-owned monopoly to private ownership → strengthening the profit motive\n\nDeregulation → Lower barriers to entry → pressure on incumbent firms to raise productivity and innovate → reduce allocative inefficiency and X-inefficiency → lower prices, better quality, and a wider variety of goods\n\nstructural unemployment if privatised firms streamline operations and retrench workers"
-  },
-  {
-    "id": "notion-econs-05-060",
-    "topic": "policy-choices",
-    "question": "How can supply-side policies improve the trade balance?",
-    "answer": "Lower UCOP allows firms to reduce prices → Domestic goods become relatively cheaper → consumers switch away from imports towards domestically produced goods and services → Demand for imports and import expenditure fall\n\nExport competitiveness improves → demand for exports is price elastic → more than proportionate rise in the quantity demanded for exports → trade deficit narrows or the trade surplus improves"
-  },
-  {
-    "id": "notion-econs-05-061",
-    "topic": "policy-choices",
-    "question": "What are the main limitations of supply-side policies?",
-    "answer": "Speed → long time to affect productivity and productive capacity\n\nReceptiveness → whether workers and firms respond to the incentives and opportunities provided\n\nCosts → Training, subsidies and infrastructure programmes may impose a substantial fiscal cost"
   },
   {
     "id": "notion-econs-06-001",
@@ -1826,194 +428,14 @@
   {
     "id": "notion-econs-06-002",
     "topic": "globalisation",
-    "question": "What does comparative-advantage theory state, and what are its assumptions?",
-    "answer": "countries specialise in the products in which they have a comparative advantage → trade can be mutually beneficial to all countries\n\nAssumptions → Perfect competition → Perfect mobility of resources within each country → Imperfect mobility of resources between countries → No transport costs → No trade restrictions"
-  },
-  {
-    "id": "notion-econs-06-003",
-    "topic": "globalisation",
-    "question": "How does the UK and CPTPP example illustrate gains from comparative advantage?",
-    "answer": "relative abundance of highly skilled labour → United Kingdom may have a comparative advantage in producing knowledge-intensive goods and services → specialise in these goods and import goods and services in which it does not have a comparative advantage → mutually beneficial terms of trade → consume beyond what it can produce domestically → CPC → outside its production possibility curve → increased availability of goods and services for consumption → rise in the material standard of living"
-  },
-  {
-    "id": "notion-econs-06-004",
-    "topic": "globalisation",
-    "question": "What are the sources of comparative advantage?",
-    "answer": "Differences in factor endowments\n\nDifferences in natural resources\n\nDifferences in human resources\n\nDifferences in the quantity and quality of capital stock"
-  },
-  {
-    "id": "notion-econs-06-005",
-    "topic": "globalisation",
-    "question": "How can changing factor endowments alter comparative advantage?",
-    "answer": "quality of labour can increase through education and training → relative abundance of skilled labour rises → opportunity cost of producing knowledge-intensive goods falls → Singapore can therefore gain new comparative advantages\n\nopportunity cost of producing one unit of electronics may be two units of garments → After the change in factor endowments → fall to 0.5 units of garments"
-  },
-  {
-    "id": "notion-econs-06-006",
-    "topic": "globalisation",
-    "question": "How can technological advancement change comparative advantage?",
-    "answer": "Singapore's semiconductor industry received a major boost through foreign direct investment (FDI) → resource-saving, cutting-edge technology for semiconductor fabrication → smaller, more energy-efficient and higher-performance microchips → fewer raw materials and less energy per unit of output → opportunity cost of producing semiconductors therefore falls"
-  },
-  {
-    "id": "notion-econs-06-007",
-    "topic": "globalisation",
-    "question": "What limits the gains from specialisation according to comparative advantage?",
-    "answer": "Transport costs → raise the cost of production (COP), reduce relative efficiency and may offset the gains from trade\n\nSpecialisation reduces production in goods in which a country has a comparative disadvantage → retrenchment and unemployment → displaced factors are occupationally or geographically immobile"
-  },
-  {
-    "id": "notion-econs-06-008",
-    "topic": "globalisation",
-    "question": "How does technological innovation drive globalisation?",
-    "answer": "expansion of global logistics providers → producers to ship directly to consumers around the world\n\nAdvances in internet technology and the development of 5G networks → remote work and transnational operations → different stages of the production process to be carried out in different parts of the world"
-  },
-  {
-    "id": "notion-econs-06-009",
-    "topic": "globalisation",
-    "question": "How do internal government policies drive globalisation?",
-    "answer": "Governments lower barriers to trade and relax capital controls → greater international trade and capital flows\n\nLin-gang Special Area in China relaxed some capital controls → reducing restrictions on the movement of funds such as wages and income"
-  },
-  {
-    "id": "notion-econs-06-010",
-    "topic": "globalisation",
-    "question": "How do external economic policies drive globalisation?",
-    "answer": "Countries enter free trade agreements and other forms of economic cooperation"
+    "question": "What does comparative-advantage theory state?",
+    "answer": "countries specialise in the products in which they have a comparative advantage → trade can be mutually beneficial to all countries"
   },
   {
     "id": "notion-econs-06-011",
     "topic": "globalisation",
-    "question": "What are global value chains, and how does the iPhone example illustrate them?",
-    "answer": "Global value chains (GVCs) divide the production process → different stages can be carried out in different countries\n\nApple's iPhone → research and development (R&D) and product design → United States\n\nComponents → South Korea, Taiwan and Japan\n\nFinal assembly → China and India\n\nlocate each stage of production in a country with a comparative advantage → lowering costs and improving productive efficiency"
-  },
-  {
-    "id": "notion-econs-06-012",
-    "topic": "globalisation",
-    "question": "How can trade expand consumption possibilities?",
-    "answer": "Specialisation and trade → access combinations of goods and services beyond the country's domestic PPC"
-  },
-  {
-    "id": "notion-econs-06-013",
-    "topic": "globalisation",
-    "question": "How can globalisation benefit consumers through competition?",
-    "answer": "Greater openness increases competition in domestic markets → stronger incentive to undertake R&D and process innovation → Unit costs of production fall → cost savings may be passed on to consumers through lower prices → Dynamic efficiency improves"
-  },
-  {
-    "id": "notion-econs-06-014",
-    "topic": "globalisation",
-    "question": "How can access to foreign markets lower consumer prices through IEOS?",
-    "answer": "Greater access to foreign markets increases demand for firms' goods → expand their scale of production and reap internal economies of scale (IEOS) → Unit costs of production fall → lower prices to consumers"
-  },
-  {
-    "id": "notion-econs-06-015",
-    "topic": "globalisation",
-    "question": "How can globalisation create new revenue and profit opportunities for firms?",
-    "answer": "removal of barriers to trade → access to new markets and a larger consumer base → increase in demand for their goods → raise output to capture the additional marginal profit → If total revenue increases by more than total cost → higher profits\n\nRising incomes increase demand for normal goods → positive income elasticity of demand (YED)"
-  },
-  {
-    "id": "notion-econs-06-016",
-    "topic": "globalisation",
-    "question": "How can access to foreign markets help firms reap IEOS?",
-    "answer": "access to a larger consumer base → Demand for firms' goods rises → increase their scale of production → Reap IEOS → unit costs of production fall from C_0 to C_1 → pass some of these cost savings to consumers through lower prices\n\nProductive efficiency requires production at the lowest attainable average cost for the given output"
-  },
-  {
-    "id": "notion-econs-06-017",
-    "topic": "globalisation",
-    "question": "How can MNC entry reduce domestic firms' market power?",
-    "answer": "influx of multinational corporations (MNCs) increases the intensity of competition → larger and better resourced → lower unit costs from economies of scale → product differentiation, innovation, advertising and branding → consumers to switch towards the products of MNCs → demand for each domestic firm's product falls and becomes more price elastic → lower market power"
-  },
-  {
-    "id": "notion-econs-06-018",
-    "topic": "globalisation",
-    "question": "How can operating internationally help firms diversify risk?",
-    "answer": "Firms operating in several countries → diversify the risk of failure across different markets → downturn in one market may be offset by growth in another market"
-  },
-  {
-    "id": "notion-econs-06-019",
-    "topic": "globalisation",
-    "question": "How do external demand shocks affect firms' profits?",
-    "answer": "foreign market experiences a recession → consumers in that market suffer a loss of income → reduce their demand for goods and services → more income-elastic the demand for an exported good, the larger the fall in demand → revenue falls → Assuming total revenue falls by more than total cost → profit falls"
-  },
-  {
-    "id": "notion-econs-06-020",
-    "topic": "globalisation",
-    "question": "How do external supply shocks and imported inflation affect firms?",
-    "answer": "foreign suppliers experience inflation → higher production costs → cannot find alternative sources and cannot raise productivity in the short run → unit cost of production (UCOP), average cost (AC) and marginal cost (MC) rise → profit falls"
-  },
-  {
-    "id": "notion-econs-06-021",
-    "topic": "globalisation",
-    "question": "How can globalisation improve allocative efficiency?",
-    "answer": "Barriers to trade and investment fall → domestic markets more contestable → imports and foreign firms enter → Demand for each incumbent firm's product falls and becomes more price elastic → ability to charge a price substantially above MC is reduced → closer to the allocatively efficient condition P=MC"
-  },
-  {
-    "id": "notion-econs-06-022",
-    "topic": "globalisation",
-    "question": "How can access to foreign markets improve productive performance?",
-    "answer": "Greater access to foreign markets raises demand for firms' goods → increases their scale of production → reap IEOS → UCOP to fall\n\nproductive efficiency is achieved only if the firm produces at the lowest attainable average cost"
-  },
-  {
-    "id": "notion-econs-06-023",
-    "topic": "globalisation",
-    "question": "How can globalisation support macroeconomic goals?",
-    "answer": "Greater access to foreign markets increases export demand → exports, X, to rise\n\naccess to a larger world market raises potential profit → expected rate of return on investment rises relative to the cost of borrowing → increasing the net expected rate of return\n\nHigher X and I increase aggregate demand (AD) → actual economic growth in the short run\n\nInvestment and technology transfer may also increase aggregate supply (AS) → potential growth"
-  },
-  {
-    "id": "notion-econs-06-024",
-    "topic": "globalisation",
-    "question": "How can globalisation accelerate structural unemployment?",
-    "answer": "removal of trade barriers exposes domestic firms to foreign competition → switch to foreign suppliers offering lower prices or better quality → Domestic firms with higher unit costs may be unable to match the prices → demand for their goods declines → Inefficient industries shut down or relocate → Displaced workers may lack the relevant skills and occupational mobility → Structural unemployment therefore develops"
-  },
-  {
-    "id": "notion-econs-06-025",
-    "topic": "globalisation",
-    "question": "How can external demand shocks reduce AD?",
-    "answer": "foreign consumers lose income → demand for the country's exports falls → more income-elastic the exports, the larger the fall in demand → Export revenue, X, falls → shifting AD leftwards → Real national output and employment fall"
-  },
-  {
-    "id": "notion-econs-06-026",
-    "topic": "globalisation",
-    "question": "How can external supply shocks reduce AS, and what evaluation is given?",
-    "answer": "Inflation abroad raises the price of imported raw materials → domestic firms' UCOP → cannot find alternative suppliers or raise productivity in the short run → AS shifts upwards or leftwards → GPL → rises, causing cost-push inflation → real national output and employment fall\n\nCountries most vulnerable to external shocks may also gain the most during periods of world economic growth"
-  },
-  {
-    "id": "notion-econs-06-027",
-    "topic": "globalisation",
-    "question": "How can volatile short-term capital flows create macroeconomic instability?",
-    "answer": "integration of financial markets → enormous amounts of capital to move rapidly across borders → more vulnerable to instability\n\nsudden outflow of short-term capital → increases the supply of the country's currency → freely floating exchange-rate system → currency depreciates from E_0 to E_1"
-  },
-  {
-    "id": "notion-econs-06-028",
-    "topic": "globalisation",
-    "question": "How can globalisation generate negative externalities?",
-    "answer": "Increased trade and foreign investment may raise production → Greater production and transport may increase pollution → generating negative externalities"
-  },
-  {
-    "id": "notion-econs-06-029",
-    "topic": "globalisation",
-    "question": "How can globalisation improve dynamic efficiency?",
-    "answer": "Greater openness increases competition → stronger incentive to undertake R&D and process innovation → Unit costs fall → lower prices and better-quality products → Dynamic efficiency therefore improves"
-  },
-  {
-    "id": "notion-econs-06-030",
-    "topic": "globalisation",
-    "question": "How does brain drain affect productive capacity?",
-    "answer": "Highly educated individuals → opportunities limited in their home countries → choose to work or settle abroad → outflow of skilled labour reduces the quantity and quality of resources → Productive capacity falls → shifting AS from AS_0 to AS_1 → reducing full-employment output\n\nreceiving economy → increase in the quantity and quality of skilled labour → Productive capacity rises → potential growth"
-  },
-  {
-    "id": "notion-econs-06-031",
-    "topic": "globalisation",
-    "question": "How can globalisation affect highly skilled workers' wages?",
-    "answer": "comparative advantage in high-value-added goods and services → significant increase in demand for these goods and services → significant increase in derived demand for highly skilled labour → supply of highly skilled labour is price inelastic in the short run → specialised skills and lengthy training → large rise in wages"
-  },
-  {
-    "id": "notion-econs-06-032",
-    "topic": "globalisation",
-    "question": "How can globalisation affect low-skilled wages and inequality, and what offsets are discussed?",
-    "answer": "low-value-added activities to be relocated from advanced economies to developing economies → Demand for low-skilled labour in advanced economies falls\n\nsupply of low-skilled labour is relatively wage elastic → inflow of low-skilled foreign workers → Low-skilled wages therefore fall or grow more slowly\n\nrising high-skilled wages and stagnant or falling low-skilled wages → widens the income gap and raises the Gini coefficient\n\nredistribute the gains from globalisation through taxes, transfers, education and training"
-  },
-  {
-    "id": "notion-econs-06-033",
-    "topic": "globalisation",
-    "question": "How can MNCs and outsourcing affect employment in developing economies?",
-    "answer": "abundant supply of lower-wage labour → attracts MNCs to relocate labour-intensive production → lower costs and increase profit → outsource production processes → more employment opportunities → Demand for labour increases → shortage of labour develops → upward pressure on wages → equilibrium wage rises → employment rises"
+    "question": "What are global value chains?",
+    "answer": "Global value chains (GVCs) divide the production process → different stages can be carried out in different countries"
   },
   {
     "id": "notion-econs-06-034",
@@ -2022,119 +444,147 @@
     "answer": "protection of domestic industries from foreign competition in domestic markets → deliberate use of policies that restrict free trade between countries"
   },
   {
-    "id": "notion-econs-06-035",
-    "topic": "globalisation",
-    "question": "How does a tariff affect domestic production, consumption, imports and government revenue?",
-    "answer": "tariff on imported pharmaceuticals from Singapore → import-supply curve inclusive of the tariff shifts upwards → domestic price rises to P_w+t → Domestic production increases from Q_s to Q_s1 → Domestic consumption decreases from Q_d to Q_d1 → quantity of imports falls → Government tariff revenue equals t(Q_d1-Q_s1)\n\ndomestic demand is relatively price elastic → fall in domestic quantity demanded is larger → Imports fall by more\n\ndomestic supply is relatively price elastic → rise in domestic quantity supplied is larger → Imports fall by more"
-  },
-  {
-    "id": "notion-econs-06-036",
-    "topic": "globalisation",
-    "question": "How do import quotas work, and how do they compare with tariffs?",
-    "answer": "Import quotas guarantee a maximum quantity of imports → preferred when demand for imports is price inelastic\n\ndo not generate government revenue unless import licences are auctioned\n\nrestricting the quantity of imports → directly reduces total supply → raising the equilibrium price above the free-trade price"
-  },
-  {
-    "id": "notion-econs-06-037",
-    "topic": "globalisation",
-    "question": "How do domestic and export subsidies protect producers?",
-    "answer": "Domestic subsidies → lowers producers' marginal cost → shifts domestic supply from S_0 to S_1 → domestic production rises → imports fall\n\nExport subsidies → exports become more competitive in foreign markets → unfair trading practice → may invite retaliation"
-  },
-  {
-    "id": "notion-econs-06-038",
-    "topic": "globalisation",
-    "question": "How do exchange controls and import licensing restrict trade?",
-    "answer": "government control over the purchase and sale of foreign exchange → limits on the amount of foreign currency available → Restricting access to foreign exchange → limits the quantity or type of imports that residents can purchase\n\nImport licensing requires importers to obtain a licence before they can acquire foreign exchange or import goods"
-  },
-  {
     "id": "notion-econs-06-039",
     "topic": "globalisation",
-    "question": "What is an embargo, and how does it affect the domestic market?",
-    "answer": "embargo is a complete ban on trade in specified goods or services → consumers must rely on domestic supply → domestic price rises from the world price P_w to the autarky price P_e → domestic production rises and domestic consumption falls"
-  },
-  {
-    "id": "notion-econs-06-040",
-    "topic": "globalisation",
-    "question": "How can protectionism support infant industries?",
-    "answer": "infant industry → potential comparative advantage → Heavy initial costs → initial low level of output → Protectionism keeps out some foreign competition → larger share of the home market → expand their scale of production → exploit IEOS → protection is temporary and the industry eventually becomes internationally competitive → develop a new comparative advantage"
-  },
-  {
-    "id": "notion-econs-06-041",
-    "topic": "globalisation",
-    "question": "How can a tariff help correct a trade deficit?",
-    "answer": "tariff reduces the quantity of imports → Import expenditure, M, falls → reduces the size of the balance-of-trade (BOT) deficit\n\neffectiveness of the policy depends on the price elasticities of domestic demand and supply"
-  },
-  {
-    "id": "notion-econs-06-042",
-    "topic": "globalisation",
-    "question": "How can protectionism support employment during a recession?",
-    "answer": "tariff raises the price of imports → diverts demand towards domestically produced goods → Domestic firms increase output and hire more factors of production, including labour → Aggregate demand may rise → multiplier effect raises real national income\n\ndepends on the price elasticities of domestic demand and supply and whether trading partners retaliate"
-  },
-  {
-    "id": "notion-econs-06-043",
-    "topic": "globalisation",
-    "question": "How can protectionism support diversification and downstream industries?",
-    "answer": "diversify away from a narrow concentration on a small number of industries → Protection of infant industries may help develop new comparative advantages\n\nrestricting raw-material exports may lower the domestic price of an industrial input → incentive to establish downstream industries → raises domestic value added"
+    "question": "What is an embargo?",
+    "answer": "embargo is a complete ban on trade in specified goods or services"
   },
   {
     "id": "notion-econs-06-044",
     "topic": "globalisation",
-    "question": "What is dumping in the notes, and how can an anti-dumping tariff address it?",
-    "answer": "foreign producers sell goods at prices below their cost of production → drive domestic rivals out of the market and monopolise it → charge high monopoly prices to maximise profit → consumers enjoy lower prices in the short run → higher prices and less choice in the long run\n\nanti-dumping tariff can raise the import price → protect domestic producers while the dumping persists"
-  },
-  {
-    "id": "notion-econs-06-045",
-    "topic": "globalisation",
-    "question": "How can the beggar-thy-neighbour effect harm the country imposing protectionism?",
-    "answer": "restricts imports → trading partners' export revenue and national income to fall → less purchasing power to buy the first country's exports → Although imports, M, fall, exports, X, may also fall"
-  },
-  {
-    "id": "notion-econs-06-046",
-    "topic": "globalisation",
-    "question": "How can retaliation undermine protectionism?",
-    "answer": "Protectionism by one country → trade war involving tit-for-tat retaliation → Trading partners suffering lower export sales and employment → similar protectionist measures → Although M falls, X also falls → limiting any improvement in the BOT and reducing global trade"
-  },
-  {
-    "id": "notion-econs-06-047",
-    "topic": "globalisation",
-    "question": "How can protectionism cause inefficiency, and what evaluation of price advantages is given?",
-    "answer": "shielded from the discipline of the free market → less incentive to undertake R&D → reducing dynamic efficiency\n\nless inclined to maintain tight cost controls → X-inefficiency\n\nLong-term protection → preserve firms that do not have a genuine comparative advantage\n\nprice advantage is due to innovation by Chinese firms → tariffs on the grounds of unfair trade practices → loss of consumer welfare and societal welfare\n\nmainly due to subsidies → use of tariffs is justified to correct the artificial price advantage"
+    "question": "What is dumping?",
+    "answer": "foreign producers sell goods at prices below their cost of production"
   },
   {
     "id": "notion-econs-06-048",
     "topic": "globalisation",
-    "question": "What are free trade agreements, and which examples are given?",
-    "answer": "Free trade agreements (FTAs) are legally binding international treaties between two or more trading partners → promote trade by reducing barriers to trade in goods, services and investment\n\nChina–Singapore Free Trade Agreement and the ASEAN Free Trade Area"
-  },
-  {
-    "id": "notion-econs-06-049",
-    "topic": "globalisation",
-    "question": "How can economic cooperation benefit consumers and firms?",
-    "answer": "wider variety of goods and services → greater utility\n\nRemoving tariffs lowers prices and increases consumption\n\nFirms gain access to larger markets and more investment opportunities"
-  },
-  {
-    "id": "notion-econs-06-050",
-    "topic": "globalisation",
-    "question": "How can free trade agreements support macroeconomic goals?",
-    "answer": "Lower trade and investment barriers increase exports, X, and investment, I → Higher X and I raise AD → actual growth and employment\n\nInvestment may also transfer technology and increase productive capacity → potential growth"
+    "question": "What are free trade agreements?",
+    "answer": "Free trade agreements (FTAs) are legally binding international treaties between two or more trading partners → promote trade by reducing barriers to trade in goods, services and investment"
   },
   {
     "id": "notion-econs-06-051",
     "topic": "globalisation",
     "question": "What is trade creation?",
-    "answer": "Trade Creation → production to shift from higher-cost domestic producers to lower-cost producers within the preferential trading area → Greater specialisation according to comparative advantage → more efficient allocation of resources"
-  },
-  {
-    "id": "notion-econs-06-052",
-    "topic": "globalisation",
-    "question": "How can economic integration affect monopoly power?",
-    "answer": "larger integrated market may encourage mergers and acquisitions → increasing market concentration\n\nfacilitate oligopolistic collusion → keeping prices high for consumers\n\nentry by foreign firms can have the opposite effect → increasing competition"
+    "answer": "Trade Creation → production to shift from higher-cost domestic producers to lower-cost producers within the preferential trading area"
   },
   {
     "id": "notion-econs-06-053",
     "topic": "globalisation",
-    "question": "What is trade diversion, and what evaluation is given for FTAs?",
-    "answer": "Trade Diversion → imports to switch from a lower-cost non-member to a higher-cost member → FTA removes the tariff on the member but not the non-member → member price, P_M, becomes lower than P_N+t even though the member has a higher resource cost → Production is diverted from a more efficient non-member to a less efficient member → misallocation of global resources\n\nFTAs does not guarantee that that there will be an increase in exports and investments"
+    "question": "What is trade diversion?",
+    "answer": "Trade Diversion → imports to switch from a lower-cost non-member to a higher-cost member"
+  },
+  {
+    "id": "ad-as-1",
+    "topic": "aggregate-demand-supply",
+    "question": "What are the components of aggregate demand?",
+    "answer": "AD = C + I + G + (X − M): consumption, investment, government expenditure on goods and services, and net exports."
+  },
+  {
+    "id": "failure-10",
+    "topic": "market-failure",
+    "question": "What are externalities?",
+    "answer": "Externalities are spillover effects arising from the production or consumption of a good that affect third parties who are not directly involved in the mkt transaction."
+  },
+  {
+    "id": "failure-11",
+    "topic": "market-failure",
+    "question": "What is asymmetric information?",
+    "answer": "Asymmetric information refers to a situation in which one party has more information than another party about the characteristics of the goods or services for sale."
+  },
+  {
+    "id": "failure-12",
+    "topic": "market-failure",
+    "question": "What is adverse selection?",
+    "answer": "Adverse selection occurs when products of different qualities or risk levels are sold at a single price because buyers or sellers are insufficiently informed to determine their true quality or risk at the time of purchase."
+  },
+  {
+    "id": "failure-13",
+    "topic": "market-failure",
+    "question": "What is moral hazard?",
+    "answer": "Moral hazard refers to the tendency of an individual to change their behaviour when the costs of that behaviour will be borne partly or entirely by another party."
+  },
+  {
+    "id": "failure-14",
+    "topic": "market-failure",
+    "question": "What is supplier-induced demand?",
+    "answer": "A profit-motivated doctor may use their superior knowledge to influence their patients' demand in their own self-interest. This is known as supplier-induced demand."
+  },
+  {
+    "id": "failure-5-1",
+    "topic": "market-failure",
+    "question": "What is non-rivalry?",
+    "answer": "The consumption of the good by one person does not result in less of the good remaining for other consumers."
+  },
+  {
+    "id": "failure-5-2",
+    "topic": "market-failure",
+    "question": "What is non-excludability?",
+    "answer": "It is impossible or prohibitively costly to exclude non-payers from consuming the good once it is produced."
+  },
+  {
+    "id": "failure-5-3",
+    "topic": "market-failure",
+    "question": "What is non-rejectability?",
+    "answer": "Consumers cannot refuse the consumption of the good once it is produced."
+  },
+  {
+    "id": "firms-market-structure-10",
+    "topic": "firms-market-structure",
+    "question": "What is a barrier to entry (BTE)?",
+    "answer": "BTE is defined as anything that prevents or impedes the entry of new firms into the industry and thereby limits the degree of competition faced by existing firms."
+  },
+  {
+    "id": "firms-market-structure-14",
+    "topic": "firms-market-structure",
+    "question": "What is the Market Concentration Ratio (MCR)?",
+    "answer": "The combined market share of the largest firms in an industry, expressed as a percentage of total industry sales or output."
+  },
+  {
+    "id": "firms-market-structure-17",
+    "topic": "firms-market-structure",
+    "question": "What is allocative efficiency?",
+    "answer": "Allocative efficiency → current combination of goods produced and sold gives the maximum satisfaction for each consumer at the current level of income → P = MC → value consumers place on the good is exactly equal to the opportunity cost incurred by society"
+  },
+  {
+    "id": "firms-market-structure-19",
+    "topic": "firms-market-structure",
+    "question": "What is productive efficiency?",
+    "answer": "Productive efficiency → output is produced using the least costly combination of inputs, given the current level of technology"
+  },
+  {
+    "id": "firms-market-structure-5",
+    "topic": "firms-market-structure",
+    "question": "What are internal economies of scale?",
+    "answer": "cost savings arising from the increase in scale of production of the firm"
+  },
+  {
+    "id": "firms-market-structure-6",
+    "topic": "firms-market-structure",
+    "question": "What are internal diseconomies of scale?",
+    "answer": "A situation in which a firm experiences rising average costs as it increases its scale of production"
+  },
+  {
+    "id": "firms-market-structure-7",
+    "topic": "firms-market-structure",
+    "question": "What are external economies of scale?",
+    "answer": "The reduction in unit costs arising from industry expansion"
+  },
+  {
+    "id": "firms-market-structure-8",
+    "topic": "firms-market-structure",
+    "question": "What are external diseconomies of scale?",
+    "answer": "A rise in firms' UCOP due to industry growth"
+  },
+  {
+    "id": "firms-market-structure-9",
+    "topic": "firms-market-structure",
+    "question": "What is market power?",
+    "answer": "Market power refers to the ability of a seller to exert significant influence over the quantity of a good or service traded or the price at which it is sold."
+  },
+  {
+    "id": "indicators-1",
+    "topic": "economic-indicators",
+    "question": "What is the difference between nominal GDP and real GDP?",
+    "answer": "Nominal GDP uses current prices. Real GDP adjusts for changes in the general price level, so it better reflects changes in the volume of output."
   }
 ]
-
-
