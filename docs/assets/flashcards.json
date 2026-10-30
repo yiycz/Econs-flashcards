@@ -1,590 +1,543 @@
+
 [
   {
-    "id": "notion-econs-01-001-1",
+    "id": "notion-underlined-def-001",
     "topic": "price-mechanism",
-    "question": "What is demand?",
+    "question": "Demand",
     "answer": "Demand is defined as the quantity of a good or service that a consumer is both w/a to buy at each possible price during a given period of time, ceteris paribus."
   },
   {
-    "id": "notion-econs-01-001-2",
+    "id": "notion-underlined-def-002",
     "topic": "price-mechanism",
-    "question": "What is quantity demanded?",
+    "question": "Quantity demanded",
     "answer": "Quantity demanded is defined as the amount of g&s that a consumer is both w/a to buy at a given price over a period of time."
   },
   {
-    "id": "notion-econs-01-002",
+    "id": "notion-underlined-def-003",
     "topic": "price-mechanism",
-    "question": "What is the law of demand?",
-    "answer": "quantity demanded of a good is inversely related to its price, ceteris paribus."
+    "question": "Substitutes",
+    "answer": "Substitutes are a pair of goods considered by consumers to be alternatives to each other, with the level of utility derived from consuming either good being relatively similar."
   },
   {
-    "id": "notion-econs-01-003",
+    "id": "notion-underlined-def-004",
     "topic": "price-mechanism",
-    "question": "What is the law of diminishing marginal utility?",
-    "answer": "as more and more units of a good are consumed per period of time → the additional satisfaction or utility derived from the consumption of each successive unit will decrease"
+    "question": "Complementary goods",
+    "answer": "Complementary goods are a pair of goods consumed together to satisfy the same want."
   },
   {
-    "id": "notion-econs-01-005",
+    "id": "notion-underlined-def-005",
     "topic": "price-mechanism",
-    "question": "What are substitutes?",
-    "answer": "Substitutes are a pair of goods considered by consumers to be alternatives to each other"
+    "question": "Derived demand",
+    "answer": "Derived demand occurs when the demand for one good arises as a result of the demand for another."
   },
   {
-    "id": "notion-econs-01-006",
-    "topic": "price-mechanism",
-    "question": "What are complements?",
-    "answer": "Complementary goods are a pair of goods consumed together to satisfy the same want"
-  },
-  {
-    "id": "notion-econs-01-007",
-    "topic": "price-mechanism",
-    "question": "What is derived demand?",
-    "answer": "Derived demand occurs when the demand for one good arises as a result of the demand for another"
-  },
-  {
-    "id": "notion-econs-01-008-1",
-    "topic": "price-mechanism",
-    "question": "What is supply?",
-    "answer": "Supply is defined as the quantity of a good or service that a producer is both w/a to sell at each possible price during a given period of time, ceteris paribus."
-  },
-  {
-    "id": "notion-econs-01-008-2",
-    "topic": "price-mechanism",
-    "question": "What is quantity supplied?",
-    "answer": "Quantity supplied is the amount of a good that a producer is both w/a to sell at a given price during a given period of time, ceteris paribus."
-  },
-  {
-    "id": "notion-econs-01-009",
-    "topic": "price-mechanism",
-    "question": "What is the law of supply?",
-    "answer": "direct relationship between price and quantity supplied, ceteris paribus"
-  },
-  {
-    "id": "notion-econs-01-013",
+    "id": "notion-underlined-def-006",
     "topic": "elasticity",
-    "question": "What is PED, how is it calculated?",
-    "answer": "PED is a measure of the degree of responsiveness of the Q_dd for a good to a change in the price of the good itself, ceteris paribus PED=(%Δ Q_dd) / (%Δ P)"
+    "question": "Price elasticity of demand (PED)",
+    "answer": "PED is a measure of the degree of responsiveness of the $Q_{dd}$ for a good to a change in the price of the good itself, ceteris paribus."
   },
   {
-    "id": "notion-econs-01-015",
+    "id": "notion-underlined-def-007",
     "topic": "elasticity",
-    "question": "What is XED?",
-    "answer": "XED is a measure of the responsiveness of the demand for one good to a change in the price of another good, ceteris paribus XED=(%Δ Q_dd,A) / (%Δ P_B)"
+    "question": "Cross elasticity of demand (XED)",
+    "answer": "XED is a measure of the responsiveness of the demand for one good to a change in the price of another good, ceteris paribus."
   },
   {
-    "id": "notion-econs-01-016",
+    "id": "notion-underlined-def-008",
     "topic": "elasticity",
-    "question": "What is YED?",
-    "answer": "YED is a measure of the responsiveness of demand to a change in income, ceteris paribus YED=(%Δ Q_dd) / (%Δ Y)"
+    "question": "Income elasticity of demand (YED)",
+    "answer": "YED is a measure of the responsiveness of demand to a change in income, ceteris paribus."
   },
   {
-    "id": "notion-econs-01-017",
+    "id": "notion-underlined-def-009",
     "topic": "elasticity",
-    "question": "What characterises an income-inelastic necessity?",
-    "answer": "Necessity: 0<YED<1 — Income Inelastic"
+    "question": "Price elasticity of supply (PES)",
+    "answer": "PES is a measure of the responsiveness of the $Q_{ss}$ of a good to a change in its price, ceteris paribus."
   },
   {
-    "id": "notion-econs-01-018-1",
-    "topic": "elasticity",
-    "question": "What is a luxury good?",
-    "answer": "Luxury: YED>1 — Income Elastic"
+    "id": "notion-underlined-def-010",
+    "topic": "price-mechanism",
+    "question": "Consumer surplus",
+    "answer": "Consumer surplus is the difference between the maximum price that consumers are willing and able to pay and the actual price they pay, over the range of output consumed."
   },
   {
-    "id": "notion-econs-01-018-2",
-    "topic": "elasticity",
-    "question": "What is an inferior good?",
-    "answer": "If YED<0, the good is an inferior good → demand changes in the opposite direction to the change in income"
+    "id": "notion-underlined-def-011",
+    "topic": "price-mechanism",
+    "question": "Producer surplus",
+    "answer": "Producer surplus is the difference between the actual price producers receive and the minimum price producers are willing and able to receive, over the range of output produced."
   },
   {
-    "id": "notion-econs-01-019",
-    "topic": "elasticity",
-    "question": "What is PES, how is it calculated?",
-    "answer": "PES is a measure of the responsiveness of the Q_ss of a good to a change in its price, ceteris paribus PES=(%Δ Q_ss) / (%Δ P)"
-  },
-  {
-    "id": "notion-econs-02-014",
+    "id": "notion-underlined-def-012",
     "topic": "microeconomic-policies",
-    "question": "What is a price ceiling?",
-    "answer": "price ceiling is the maximum legal price allowed by the government"
+    "question": "Price ceiling",
+    "answer": "A price ceiling is the maximum legal price allowed by the government. No good or service can be bought or sold at a price above this limit."
   },
   {
-    "id": "notion-econs-02-021",
+    "id": "notion-underlined-def-013",
     "topic": "microeconomic-policies",
-    "question": "What is a price floor?",
-    "answer": "price floor is the minimum legal price allowed by the government"
+    "question": "Price floor",
+    "answer": "A price floor is the minimum legal price allowed by the government. No good or service can be bought or sold at a price below this lower limit."
   },
   {
-    "id": "notion-econs-02-028",
+    "id": "notion-underlined-def-014",
     "topic": "microeconomic-policies",
-    "question": "What is an output quota?",
-    "answer": "quota is a limit imposed by the government on the quantity of a good that can be sold during a period of time"
+    "question": "Quota",
+    "answer": "A quota is a limit imposed by the government on the quantity of a good that can be sold during a period of time."
   },
   {
-    "id": "notion-econs-02-062",
-    "topic": "microeconomic-policies",
-    "question": "What is moral suasion?",
-    "answer": "change people's attitudes and behaviour by urging them to “do the right thing” through appeals to their civic and ethical responsibilities"
-  },
-  {
-    "id": "notion-econs-03-001",
-    "topic": "economic-indicators",
-    "question": "What is gross domestic product (GDP)?",
-    "answer": "GDP → total value of all final g&s newly produced within the geographical boundary of a country in a given year before allowance for depreciation"
-  },
-  {
-    "id": "notion-econs-03-008",
-    "topic": "economic-indicators",
-    "question": "What is PPP?",
-    "answer": "e/r that would allow a given amt of money in one country to buy the same amt of goods in another country after exchanging it into the currency of the other country"
-  },
-  {
-    "id": "notion-econs-03-009",
-    "topic": "economic-indicators",
-    "question": "What is GNI?",
-    "answer": "Gross National Income is the sum of gross factor incomes → arising from the involvement in production processes or ownership of assets → receivable by residents units"
-  },
-  {
-    "id": "notion-econs-03-012",
-    "topic": "economic-indicators",
-    "question": "What is the Human Development Index (HDI)?",
-    "answer": "A composite indicator to broaden measure of SOL beyond NI → key dimensions of human development"
-  },
-  {
-    "id": "notion-econs-03-013",
-    "topic": "economic-indicators",
-    "question": "What is Net Economic Welfare?",
-    "answer": "A composite indicator to better indicator of SOL → Adds to GNP such as leisure and non-market activities"
-  },
-  {
-    "id": "notion-econs-03-014",
-    "topic": "economic-indicators",
-    "question": "What does the Environmental Quality Index measure?",
-    "answer": "EQI (environmental quality index) → Measure cumulative air, water, land and built environment data locally or regionally"
-  },
-  {
-    "id": "notion-econs-04-001-1",
-    "topic": "macroeconomic-goals",
-    "question": "What is low economic growth?",
-    "answer": "Low growth → growth rate hovering around zero"
-  },
-  {
-    "id": "notion-econs-04-001-2",
-    "topic": "macroeconomic-goals",
-    "question": "What is a falling economic growth rate?",
-    "answer": "A falling growth rate → Real GDP continues to increase, but at a decreasing rate"
-  },
-  {
-    "id": "notion-econs-04-001-3",
-    "topic": "macroeconomic-goals",
-    "question": "What is negative economic growth?",
-    "answer": "negative growth → Real GDP falls → technical recession is commonly defined as negative real GDP growth for two consecutive quarters"
-  },
-  {
-    "id": "notion-econs-04-005",
-    "topic": "macroeconomic-goals",
-    "question": "What is actual economic growth?",
-    "answer": "Actual growth is an increase in real national output over a period of time, usually one year"
-  },
-  {
-    "id": "notion-econs-04-008",
-    "topic": "macroeconomic-goals",
-    "question": "What is potential growth?",
-    "answer": "Potential growth is an increase in the rate at which the economy could produce, assuming that all resources are fully and efficiently employed"
-  },
-  {
-    "id": "notion-econs-04-010",
-    "topic": "macroeconomic-goals",
-    "question": "What is sustainable growth?",
-    "answer": "rate of sustained growth that can be achieved without causing significant economic problems for future generations"
-  },
-  {
-    "id": "notion-econs-04-011",
-    "topic": "macroeconomic-goals",
-    "question": "What is inclusive growth?",
-    "answer": "broad-based across economic sectors and creates productive employment opportunities for the majority of the country's population without worsening income inequality"
-  },
-  {
-    "id": "notion-econs-04-020-1",
-    "topic": "macroeconomic-goals",
-    "question": "What is inflation?",
-    "answer": "Inflation is a sustained increase in the general price level (GPL) of an economy"
-  },
-  {
-    "id": "notion-econs-04-020-2",
-    "topic": "macroeconomic-goals",
-    "question": "What is core inflation?",
-    "answer": "Core inflation → generalised and persistent price changes driven by underlying demand conditions → excludes selected components whose prices are especially volatile or strongly affected by temporary supply-side factors"
-  },
-  {
-    "id": "notion-econs-04-020-3",
-    "topic": "macroeconomic-goals",
-    "question": "What is deflation?",
-    "answer": "Deflation is a sustained decrease in the GPL of goods and services"
-  },
-  {
-    "id": "notion-econs-04-020-4",
-    "topic": "macroeconomic-goals",
-    "question": "What is disinflation?",
-    "answer": "Disinflation is a decrease in the rate of inflation → GPL continues to rise, but at a slower rate"
-  },
-  {
-    "id": "notion-econs-04-020-5",
-    "topic": "macroeconomic-goals",
-    "question": "What is stagflation?",
-    "answer": "Stagflation → high unemployment, rapid inflation and a depressed level of real output"
-  },
-  {
-    "id": "notion-econs-04-020-6",
-    "topic": "macroeconomic-goals",
-    "question": "What is the Consumer Price Index (CPI)?",
-    "answer": "Consumer Price Index (CPI) is a weighted average of prices of a specified basket of consumption goods and services commonly purchased by residential households → base year is assigned a value of 100"
-  },
-  {
-    "id": "notion-econs-04-025",
-    "topic": "macroeconomic-goals",
-    "question": "What is a negative supply shock?",
-    "answer": "sudden and unexpected decrease in the supply of a major commodity or essential factor of production"
-  },
-  {
-    "id": "notion-econs-04-031",
-    "topic": "macroeconomic-goals",
-    "question": "What are shoe-leather costs?",
-    "answer": "opportunity costs of the time and inconvenience involved in withdrawing money more frequently during inflation"
-  },
-  {
-    "id": "notion-econs-04-032",
-    "topic": "macroeconomic-goals",
-    "question": "What are menu costs?",
-    "answer": "Menu Costs → costs firms incur when informing consumers of price increases"
-  },
-  {
-    "id": "notion-econs-04-038",
-    "topic": "macroeconomic-goals",
-    "question": "What is hot money?",
-    "answer": "Hot money refers to funds that move quickly and regularly between international markets"
-  },
-  {
-    "id": "notion-econs-04-050",
-    "topic": "macroeconomic-goals",
-    "question": "What is the balance of payments?",
-    "answer": "balance of payments (BOP) → statement that summarises the economic transactions between residents of an economy and non-residents over a specified period"
-  },
-  {
-    "id": "notion-econs-04-051-3",
-    "topic": "macroeconomic-goals",
-    "question": "What is the primary income balance?",
-    "answer": "primary income balance records net income from abroad, including investment income and the compensation of employees"
-  },
-  {
-    "id": "notion-econs-04-051-4",
-    "topic": "macroeconomic-goals",
-    "question": "What is the secondary income balance?",
-    "answer": "secondary income balance records government and non-government transfers"
-  },
-  {
-    "id": "notion-econs-04-051-5",
-    "topic": "macroeconomic-goals",
-    "question": "What is a current-account surplus?",
-    "answer": "current-account surplus → total value of receipts exceeds the total value of payments → net inflow of foreign currency"
-  },
-  {
-    "id": "notion-econs-04-051-6",
-    "topic": "macroeconomic-goals",
-    "question": "What is a current-account deficit?",
-    "answer": "current-account deficit → total value of payments exceeds the total value of receipts → net outflow of foreign currency"
-  },
-  {
-    "id": "notion-econs-04-053",
-    "topic": "macroeconomic-goals",
-    "question": "What is a balance-of-trade deficit?",
-    "answer": "revenue received from exporting goods and services is less than expenditure on imported goods and services: X < M"
-  },
-  {
-    "id": "notion-econs-04-069",
-    "topic": "macroeconomic-goals",
-    "question": "What is a balance-of-trade surplus?",
-    "answer": "revenue received from exporting goods and services exceeds expenditure on imported goods and services: X > M"
-  },
-  {
-    "id": "notion-econs-04-081",
-    "topic": "macroeconomic-goals",
-    "question": "What is direct investment?",
-    "answer": "Investment in real or tangible assets, such as setting up a business abroad"
-  },
-  {
-    "id": "notion-econs-04-082",
-    "topic": "macroeconomic-goals",
-    "question": "What is portfolio investment?",
-    "answer": "purchase of company shares or government bonds without obtaining a controlling interest"
-  },
-  {
-    "id": "notion-econs-04-090-1",
-    "topic": "macroeconomic-goals",
-    "question": "What is the labour force?",
-    "answer": "labour force → people of at least the minimum legal working age who are willing and able to work at the prevailing wage rate"
-  },
-  {
-    "id": "notion-econs-04-090-2",
-    "topic": "macroeconomic-goals",
-    "question": "What is the unemployment rate?",
-    "answer": "unemployment rate → percentage of the labour force who are without jobs but are available for work, willing to work and actively seeking work"
-  },
-  {
-    "id": "notion-econs-04-090-3",
-    "topic": "macroeconomic-goals",
-    "question": "What is full employment?",
-    "answer": "Full employment → non-zero but low rate of unemployment compatible with price stability"
-  },
-  {
-    "id": "notion-econs-04-090-4",
-    "topic": "macroeconomic-goals",
-    "question": "What is underemployment?",
-    "answer": "Underemployment → labour is underutilised"
-  },
-  {
-    "id": "notion-econs-04-090-5",
-    "topic": "macroeconomic-goals",
-    "question": "What is a discouraged worker?",
-    "answer": "Discouraged workers → stopped actively seeking employment"
-  },
-  {
-    "id": "notion-econs-04-093",
-    "topic": "macroeconomic-goals",
-    "question": "What is structural unemployment?",
-    "answer": "structure of the economy changes → mismatch between the skills or locations of unemployed workers and those required by available jobs"
-  },
-  {
-    "id": "notion-econs-04-094",
-    "topic": "macroeconomic-goals",
-    "question": "What is occupational immobility?",
-    "answer": "factors of production cannot move easily between different industries and uses"
-  },
-  {
-    "id": "notion-econs-04-095",
-    "topic": "macroeconomic-goals",
-    "question": "What is geographical immobility?",
-    "answer": "lack of willingness or ability of factors of production to move between or within countries"
-  },
-  {
-    "id": "notion-econs-04-099",
-    "topic": "macroeconomic-goals",
-    "question": "What is seasonal unemployment?",
-    "answer": "predictable seasonal fluctuations in demand → workers are temporarily out of work retailers may hire temporary workers during the peak Christmas-shopping period"
-  },
-  {
-    "id": "notion-econs-05-001",
-    "topic": "policy-choices",
-    "question": "What is fiscal policy?",
-    "answer": "Fiscal policy involves changes in the level of government spending and tax rates to influence the economy"
-  },
-  {
-    "id": "notion-econs-05-002-1",
-    "topic": "policy-choices",
-    "question": "What is a direct tax?",
-    "answer": "Direct taxes are taxes on income or wealth"
-  },
-  {
-    "id": "notion-econs-05-002-2",
-    "topic": "policy-choices",
-    "question": "What is an indirect tax?",
-    "answer": "Indirect taxes are taxes on expenditure or the production of goods and services"
-  },
-  {
-    "id": "notion-econs-05-004",
-    "topic": "policy-choices",
-    "question": "What is discretionary fiscal policy?",
-    "answer": "deliberate changes in government spending or tax rates based on the government's judgement → response to changes in macroeconomic conditions"
-  },
-  {
-    "id": "notion-econs-05-024",
-    "topic": "policy-choices",
-    "question": "What is monetary policy?",
-    "answer": "Monetary policy → deliberate management of a country's interest rate or exchange rate → influence the level of economic activity through AD"
-  },
-  {
-    "id": "notion-econs-05-033",
-    "topic": "policy-choices",
-    "question": "What is a liquidity trap?",
-    "answer": "interest rate is already very low → increase in the money supply may have little or no effect on the interest rate"
-  },
-  {
-    "id": "notion-econs-05-053",
-    "topic": "policy-choices",
-    "question": "What is the monetary-policy trilemma?",
-    "answer": "cannot simultaneously achieve all three A stable exchange rate Free international capital mobility An independent interest-rate policy for domestic macroeconomic goals"
-  },
-  {
-    "id": "notion-econs-05-055",
-    "topic": "policy-choices",
-    "question": "What are supply-side policies?",
-    "answer": "increase the quantity or quality of factors of production, improve factor mobility, reduce production costs, or increase market efficiency → expanding AS"
-  },
-  {
-    "id": "notion-econs-06-001",
-    "topic": "globalisation",
-    "question": "What is globalisation?",
-    "answer": "Globalisation → increasing integration of economies around the world → flows of goods, services, capital, people or labour, and knowledge or technology across international borders"
-  },
-  {
-    "id": "notion-econs-06-002",
-    "topic": "globalisation",
-    "question": "What does comparative-advantage theory state?",
-    "answer": "countries specialise in the products in which they have a comparative advantage → trade can be mutually beneficial to all countries"
-  },
-  {
-    "id": "notion-econs-06-011",
-    "topic": "globalisation",
-    "question": "What are global value chains?",
-    "answer": "Global value chains (GVCs) divide the production process → different stages can be carried out in different countries"
-  },
-  {
-    "id": "notion-econs-06-034",
-    "topic": "globalisation",
-    "question": "What is protectionism?",
-    "answer": "protection of domestic industries from foreign competition in domestic markets → deliberate use of policies that restrict free trade between countries"
-  },
-  {
-    "id": "notion-econs-06-039",
-    "topic": "globalisation",
-    "question": "What is an embargo?",
-    "answer": "embargo is a complete ban on trade in specified goods or services"
-  },
-  {
-    "id": "notion-econs-06-044",
-    "topic": "globalisation",
-    "question": "What is dumping?",
-    "answer": "foreign producers sell goods at prices below their cost of production"
-  },
-  {
-    "id": "notion-econs-06-048",
-    "topic": "globalisation",
-    "question": "What are free trade agreements?",
-    "answer": "Free trade agreements (FTAs) are legally binding international treaties between two or more trading partners → promote trade by reducing barriers to trade in goods, services and investment"
-  },
-  {
-    "id": "notion-econs-06-051",
-    "topic": "globalisation",
-    "question": "What is trade creation?",
-    "answer": "Trade Creation → production to shift from higher-cost domestic producers to lower-cost producers within the preferential trading area"
-  },
-  {
-    "id": "notion-econs-06-053",
-    "topic": "globalisation",
-    "question": "What is trade diversion?",
-    "answer": "Trade Diversion → imports to switch from a lower-cost non-member to a higher-cost member"
-  },
-  {
-    "id": "ad-as-1",
-    "topic": "aggregate-demand-supply",
-    "question": "What are the components of aggregate demand?",
-    "answer": "AD = C + I + G + (X − M): consumption, investment, government expenditure on goods and services, and net exports."
-  },
-  {
-    "id": "failure-10",
+    "id": "notion-underlined-def-015",
     "topic": "market-failure",
-    "question": "What are externalities?",
+    "question": "Market failure",
+    "answer": "Market failure is said to occur when free markets, operating without government intervention, fail to deliver a socially efficient allocation of resources."
+  },
+  {
+    "id": "notion-underlined-def-016",
+    "topic": "market-failure",
+    "question": "Externalities",
     "answer": "Externalities are spillover effects arising from the production or consumption of a good that affect third parties who are not directly involved in the mkt transaction."
   },
   {
-    "id": "failure-11",
+    "id": "notion-underlined-def-017",
     "topic": "market-failure",
-    "question": "What is asymmetric information?",
+    "question": "Asymmetric information",
     "answer": "Asymmetric information refers to a situation in which one party has more information than another party about the characteristics of the goods or services for sale."
   },
   {
-    "id": "failure-12",
+    "id": "notion-underlined-def-018",
     "topic": "market-failure",
-    "question": "What is adverse selection?",
+    "question": "Adverse selection",
     "answer": "Adverse selection occurs when products of different qualities or risk levels are sold at a single price because buyers or sellers are insufficiently informed to determine their true quality or risk at the time of purchase."
   },
   {
-    "id": "failure-13",
+    "id": "notion-underlined-def-019",
     "topic": "market-failure",
-    "question": "What is moral hazard?",
+    "question": "Moral hazard",
     "answer": "Moral hazard refers to the tendency of an individual to change their behaviour when the costs of that behaviour will be borne partly or entirely by another party."
   },
   {
-    "id": "failure-14",
+    "id": "notion-underlined-def-020",
     "topic": "market-failure",
-    "question": "What is supplier-induced demand?",
-    "answer": "A profit-motivated doctor may use their superior knowledge to influence their patients' demand in their own self-interest. This is known as supplier-induced demand."
+    "question": "Structural unemployment",
+    "answer": "Structural unemployment occurs when the structure of the economy changes, resulting in a mismatch between the skills of unemployed workers and the skills required for available jobs."
   },
   {
-    "id": "failure-5-1",
+    "id": "notion-underlined-def-021",
     "topic": "market-failure",
-    "question": "What is non-rivalry?",
-    "answer": "The consumption of the good by one person does not result in less of the good remaining for other consumers."
+    "question": "Occupational immobility",
+    "answer": "Occupational immobility occurs when there are barriers to the mobility of FOPs between different industries and uses."
   },
   {
-    "id": "failure-5-2",
+    "id": "notion-underlined-def-022",
     "topic": "market-failure",
-    "question": "What is non-excludability?",
-    "answer": "It is impossible or prohibitively costly to exclude non-payers from consuming the good once it is produced."
+    "question": "Geographical immobility",
+    "answer": "Geographical immobility refers to the lack of willingness or ability of FOPs to move between or within countries in response to changes in conditions in factor mkts."
   },
   {
-    "id": "failure-5-3",
-    "topic": "market-failure",
-    "question": "What is non-rejectability?",
-    "answer": "Consumers cannot refuse the consumption of the good once it is produced."
-  },
-  {
-    "id": "firms-market-structure-10",
+    "id": "notion-underlined-def-023",
     "topic": "firms-market-structure",
-    "question": "What is a barrier to entry (BTE)?",
-    "answer": "BTE is defined as anything that prevents or impedes the entry of new firms into the industry and thereby limits the degree of competition faced by existing firms."
+    "question": "LRAC curve — lowest UCOP",
+    "answer": "Points on the LRAC curve represent the lowest UCOP of producing any given level of output, given the current technology and input prices."
   },
   {
-    "id": "firms-market-structure-14",
+    "id": "notion-underlined-def-024",
     "topic": "firms-market-structure",
-    "question": "What is the Market Concentration Ratio (MCR)?",
-    "answer": "The combined market share of the largest firms in an industry, expressed as a percentage of total industry sales or output."
+    "question": "Internal economies of scale (IEOS)",
+    "answer": "the cost savings arising from the increase in scale of production of the firm."
   },
   {
-    "id": "firms-market-structure-17",
+    "id": "notion-underlined-def-025",
     "topic": "firms-market-structure",
-    "question": "What is allocative efficiency?",
-    "answer": "Allocative efficiency → current combination of goods produced and sold gives the maximum satisfaction for each consumer at the current level of income → P = MC → value consumers place on the good is exactly equal to the opportunity cost incurred by society"
+    "question": "Internal diseconomies of scale (IDOS)",
+    "answer": "A situation in which a firm experiences rising average costs as it increases its scale of production."
   },
   {
-    "id": "firms-market-structure-19",
+    "id": "notion-underlined-def-026",
     "topic": "firms-market-structure",
-    "question": "What is productive efficiency?",
-    "answer": "Productive efficiency → output is produced using the least costly combination of inputs, given the current level of technology"
+    "question": "External economies of scale (EEOS)",
+    "answer": "The reduction in unit costs arising from industry expansion."
   },
   {
-    "id": "firms-market-structure-5",
+    "id": "notion-underlined-def-027",
     "topic": "firms-market-structure",
-    "question": "What are internal economies of scale?",
-    "answer": "cost savings arising from the increase in scale of production of the firm"
+    "question": "External diseconomies of scale (EDOS)",
+    "answer": "A rise in firms' UCOP due to industry growth."
   },
   {
-    "id": "firms-market-structure-6",
+    "id": "notion-underlined-def-028",
     "topic": "firms-market-structure",
-    "question": "What are internal diseconomies of scale?",
-    "answer": "A situation in which a firm experiences rising average costs as it increases its scale of production"
-  },
-  {
-    "id": "firms-market-structure-7",
-    "topic": "firms-market-structure",
-    "question": "What are external economies of scale?",
-    "answer": "The reduction in unit costs arising from industry expansion"
-  },
-  {
-    "id": "firms-market-structure-8",
-    "topic": "firms-market-structure",
-    "question": "What are external diseconomies of scale?",
-    "answer": "A rise in firms' UCOP due to industry growth"
-  },
-  {
-    "id": "firms-market-structure-9",
-    "topic": "firms-market-structure",
-    "question": "What is market power?",
+    "question": "Market power",
     "answer": "Market power refers to the ability of a seller to exert significant influence over the quantity of a good or service traded or the price at which it is sold."
   },
   {
-    "id": "indicators-1",
+    "id": "notion-underlined-def-029",
+    "topic": "firms-market-structure",
+    "question": "Barriers to entry (BTE)",
+    "answer": "BTE is defined as anything that prevents or impedes the entry of new firms into the industry and thereby limits the degree of competition faced by existing firms."
+  },
+  {
+    "id": "notion-underlined-def-030",
+    "topic": "firms-market-structure",
+    "question": "Network effects",
+    "answer": "Network effects occur when the value of a good or service increases as more and more people use the good or service."
+  },
+  {
+    "id": "notion-underlined-def-031",
+    "topic": "firms-market-structure",
+    "question": "Market Concentration Ratio (MCR)",
+    "answer": "Market Concentration Ratio (MCR) measures the size of firms relative to the whole industry and assists in determining the market structure."
+  },
+  {
+    "id": "notion-underlined-def-032",
+    "topic": "firms-market-structure",
+    "question": "Allocative efficiency",
+    "answer": "Allocative efficiency is defined as a situation where the current combination of goods produced and sold gives the maximum satisfaction for each consumer at the current level of income."
+  },
+  {
+    "id": "notion-underlined-def-033",
+    "topic": "firms-market-structure",
+    "question": "Productive efficiency",
+    "answer": "It is achieved when output is produced using the least costly combination of inputs, given the current level of technology."
+  },
+  {
+    "id": "notion-underlined-def-034",
+    "topic": "firms-market-structure",
+    "question": "LRAC — long-run cost definition",
+    "answer": "The LRAC maps out the lowest average cost of producing any given level of output in the long run when the firm is able to choose the most appropriate plant size for producing that level of output."
+  },
+  {
+    "id": "notion-underlined-def-035",
+    "topic": "firms-market-structure",
+    "question": "Dynamic efficiency",
+    "answer": "Dynamic Efficiency is a situation in which firms are technologically progressive to meet the changing needs and wants of consumers over time."
+  },
+  {
+    "id": "notion-underlined-def-036",
+    "topic": "firms-market-structure",
+    "question": "Merger",
+    "answer": "The voluntary amalgamation of two or more firms into a single business entity."
+  },
+  {
+    "id": "notion-underlined-def-037",
+    "topic": "firms-market-structure",
+    "question": "Acquisition",
+    "answer": "The takeover of an existing firm by purchasing the owners' shares."
+  },
+  {
+    "id": "notion-underlined-def-038",
+    "topic": "firms-market-structure",
+    "question": "Horizontal integration",
+    "answer": "A firm combines with or takes over a similar firm at the same stage of production to form a single entity."
+  },
+  {
+    "id": "notion-underlined-def-039",
+    "topic": "firms-market-structure",
+    "question": "Vertical integration",
+    "answer": "A firm combines with or takes over another firm at a different stage of production but in the same industry."
+  },
+  {
+    "id": "notion-underlined-def-040",
+    "topic": "firms-market-structure",
+    "question": "Backward vertical integration",
+    "answer": "Firms merge with another firm at an earlier stage of production."
+  },
+  {
+    "id": "notion-underlined-def-041",
+    "topic": "firms-market-structure",
+    "question": "Forward vertical integration",
+    "answer": "Firms merge with another firm at a later stage of production."
+  },
+  {
+    "id": "notion-underlined-def-042",
+    "topic": "firms-market-structure",
+    "question": "Conglomerate integration",
+    "answer": "A combination of firms from different industries with no commonalities."
+  },
+  {
+    "id": "notion-underlined-def-043",
+    "topic": "firms-market-structure",
+    "question": "Physical product differentiation",
+    "answer": "Physical changes to the product itself are made by adding more features to existing products and making them different from those provided by rivals."
+  },
+  {
+    "id": "notion-underlined-def-044",
+    "topic": "firms-market-structure",
+    "question": "Product differentiation",
+    "answer": "Product differentiation involves a firm making its product or services more unique"
+  },
+  {
+    "id": "notion-underlined-def-045",
+    "topic": "firms-market-structure",
+    "question": "Cartel",
+    "answer": "A formal, explicit collusion whereby an oligopoly establishes a virtual monopoly."
+  },
+  {
+    "id": "notion-underlined-def-046",
+    "topic": "firms-market-structure",
+    "question": "Price leadership",
+    "answer": "Firms follow an unwritten agreement by following the pricing policy of a recognised leader. → Prices may change when a rise in costs affects profit margins."
+  },
+  {
+    "id": "notion-underlined-def-047",
+    "topic": "firms-market-structure",
+    "question": "Diversification",
+    "answer": "Strategies for firms to enter or start producing new products or product lines, provide new services, or enter new markets, involving substantially different skills, technologies and knowledge."
+  },
+  {
+    "id": "notion-underlined-def-048",
+    "topic": "firms-market-structure",
+    "question": "Nationalisation",
+    "answer": "Nationalization is the acquisition of private companies by the public sector."
+  },
+  {
+    "id": "notion-underlined-def-049",
+    "topic": "firms-market-structure",
+    "question": "Marginal cost pricing (MC pricing)",
+    "answer": "The government can force a monopoly to charge a price equal to its marginal cost (P= MC). MC pricing will ensure that the price that consumers pay will be equal to the MC that firms incur to produce the good."
+  },
+  {
+    "id": "notion-underlined-def-050",
+    "topic": "macroeconomic-goals",
+    "question": "Actual growth",
+    "answer": "Actual growth is an increase in real national output over a period of time, usually one year."
+  },
+  {
+    "id": "notion-underlined-def-051",
+    "topic": "macroeconomic-goals",
+    "question": "Potential growth",
+    "answer": "Potential growth is an increase in the rate at which the economy could produce, assuming that all resources are fully and efficiently employed."
+  },
+  {
+    "id": "notion-underlined-def-052",
+    "topic": "macroeconomic-goals",
+    "question": "Sustainable growth",
+    "answer": "Sustainable growth is a rate of sustained growth that can be achieved without causing significant economic problems for future generations. It can be assessed using environmental indicators."
+  },
+  {
+    "id": "notion-underlined-def-053",
+    "topic": "macroeconomic-goals",
+    "question": "Inclusive growth",
+    "answer": "Inclusive growth is sustained growth over a period of time that is broad-based across economic sectors and creates productive employment opportunities for the majority of the country's population without worsening income inequality."
+  },
+  {
+    "id": "notion-underlined-def-054",
     "topic": "economic-indicators",
-    "question": "What is the difference between nominal GDP and real GDP?",
-    "answer": "Nominal GDP uses current prices. Real GDP adjusts for changes in the general price level, so it better reflects changes in the volume of output."
+    "question": "Inflation",
+    "answer": "Inflation is a sustained increase in the general price level (GPL) of an economy."
+  },
+  {
+    "id": "notion-underlined-def-055",
+    "topic": "economic-indicators",
+    "question": "Deflation",
+    "answer": "Deflation is a sustained decrease in the GPL of goods and services."
+  },
+  {
+    "id": "notion-underlined-def-056",
+    "topic": "economic-indicators",
+    "question": "Disinflation",
+    "answer": "Disinflation is a decrease in the rate of inflation: the GPL continues to rise, but at a slower rate over time."
+  },
+  {
+    "id": "notion-underlined-def-057",
+    "topic": "economic-indicators",
+    "question": "Stagflation",
+    "answer": "Stagflation is a situation involving high unemployment, rapid inflation and a depressed level of real output."
+  },
+  {
+    "id": "notion-underlined-def-058",
+    "topic": "economic-indicators",
+    "question": "Consumer Price Index (CPI)",
+    "answer": "The Consumer Price Index (CPI) is a weighted average of prices of a specified basket of consumption goods and services commonly purchased by residential households. It is compared with a reference year and expressed as an index number; the base year is assigned a value of $100$."
+  },
+  {
+    "id": "notion-underlined-def-059",
+    "topic": "economic-indicators",
+    "question": "Internal value of money",
+    "answer": "The internal value of a unit of money is the amount of real goods and services it can buy."
+  },
+  {
+    "id": "notion-underlined-def-060",
+    "topic": "economic-indicators",
+    "question": "External value of money",
+    "answer": "The external value of a unit of money depends on the foreign exchange rate."
+  },
+  {
+    "id": "notion-underlined-def-061",
+    "topic": "economic-indicators",
+    "question": "Balance of payments (BOP)",
+    "answer": "The balance of payments (BOP) is a statement that summarises the economic transactions between residents of an economy and non-residents over a specified period."
+  },
+  {
+    "id": "notion-underlined-def-062",
+    "topic": "economic-indicators",
+    "question": "Trade surplus",
+    "answer": "A trade surplus occurs when the revenue received from exporting goods and services exceeds expenditure on imported goods and services: $X > M$."
+  },
+  {
+    "id": "notion-underlined-def-063",
+    "topic": "economic-indicators",
+    "question": "Trade deficit",
+    "answer": "The revenue received from exporting goods and services is less than expenditure on imported goods and services: $X < M$."
+  },
+  {
+    "id": "notion-underlined-def-064",
+    "topic": "economic-indicators",
+    "question": "Labour force",
+    "answer": "The labour force comprises people of at least the minimum legal working age who are willing and able to work at the prevailing wage rate."
+  },
+  {
+    "id": "notion-underlined-def-065",
+    "topic": "economic-indicators",
+    "question": "Unemployment rate",
+    "answer": "The unemployment rate is the percentage of the labour force who are without jobs but are available for work, willing to work and actively seeking work at prevailing wage rates."
+  },
+  {
+    "id": "notion-underlined-def-066",
+    "topic": "economic-indicators",
+    "question": "Full employment",
+    "answer": "Full employment is a non-zero but low rate of unemployment compatible with price stability, where almost all people who are willing and able to work have gained employment."
+  },
+  {
+    "id": "notion-underlined-def-067",
+    "topic": "economic-indicators",
+    "question": "Underemployment",
+    "answer": "Underemployment occurs when labour is underutilised, such as when workers work fewer hours than they wish or are employed in jobs that do not fully use their skills."
+  },
+  {
+    "id": "notion-underlined-def-068",
+    "topic": "economic-indicators",
+    "question": "Discouraged workers",
+    "answer": "Discouraged workers are people who have been unemployed for a substantial period, are willing and able to work, but have had no success in finding a job and have stopped actively seeking employment."
+  },
+  {
+    "id": "notion-underlined-def-069",
+    "topic": "globalisation",
+    "question": "Globalisation",
+    "answer": "Globalisation is the increasing integration of economies around the world, particularly through flows of goods, services, capital, people or labour, and knowledge or technology across international borders."
+  },
+  {
+    "id": "notion-underlined-def-070",
+    "topic": "globalisation",
+    "question": "Law of comparative advantage",
+    "answer": "The law of comparative advantage states that if countries specialise in the products in which they have a comparative advantage, trade can be mutually beneficial to all countries"
+  },
+  {
+    "id": "notion-underlined-def-071",
+    "topic": "globalisation",
+    "question": "Protectionism",
+    "answer": "Protectionism is the protection of domestic industries from foreign competition in domestic markets."
+  },
+  {
+    "id": "notion-underlined-def-072",
+    "topic": "globalisation",
+    "question": "Tariff",
+    "answer": "Tariff is a form of protectionism that has the effect of raising prices of imported goods and reducing the quantity of imported home applicances available to consumers, lowering consumer welfare."
+  },
+  {
+    "id": "notion-underlined-def-073",
+    "topic": "globalisation",
+    "question": "Dumping",
+    "answer": "Dumping occurs when foreign producers sell goods at prices below their cost of production, either by making a loss or with assistance from their government."
+  },
+  {
+    "id": "notion-underlined-def-074",
+    "topic": "globalisation",
+    "question": "Free trade agreements (FTAs)",
+    "answer": "Free trade agreements ($FTAs$) are legally binding international treaties between two or more trading partners that promote trade by reducing barriers to trade in goods, services and investment."
+  },
+  {
+    "id": "notion-underlined-def-075",
+    "topic": "globalisation",
+    "question": "Trade creation",
+    "answer": "Trade creation occurs when preferential trade causes production to shift from higher-cost domestic producers to lower-cost producers within the preferential trading area."
+  },
+  {
+    "id": "notion-underlined-def-076",
+    "topic": "globalisation",
+    "question": "Trade diversion",
+    "answer": "Trade diversion occurs when preferential trade causes imports to switch from a lower-cost non-member to a higher-cost member."
+  },
+  {
+    "id": "notion-underlined-def-077",
+    "topic": "policy-choices",
+    "question": "Monetary policy",
+    "answer": "Monetary policy is the deliberate management of a country's interest rate or exchange rate to influence the level of economic activity through $AD$."
+  },
+  {
+    "id": "notion-underlined-def-078",
+    "topic": "policy-choices",
+    "question": "Supply-side policies",
+    "answer": "Supply-side policies are policies that increase the quantity or quality of factors of production, improve factor mobility, reduce production costs, or increase market efficiency, thereby expanding $AS$."
+  },
+  {
+    "id": "notion-underlined-def-079",
+    "topic": "policy-choices",
+    "question": "Privatisation",
+    "answer": "Privatisation: Transfer a state-owned monopoly to private ownership or introduce private-sector provision into a public-sector market, strengthening the profit motive."
+  },
+  {
+    "id": "notion-underlined-def-080",
+    "topic": "policy-choices",
+    "question": "Deregulation",
+    "answer": "Deregulation: Lower barriers to entry, placing pressure on incumbent firms to raise productivity and innovate."
+  },
+  {
+    "id": "notion-underlined-def-081",
+    "topic": "economic-indicators",
+    "question": "Standard of living (SOL)",
+    "answer": "Standard of living (SOL) refers to the level of economic welfare and social well-being of an individual or household."
+  },
+  {
+    "id": "notion-underlined-def-082",
+    "topic": "economic-indicators",
+    "question": "Material standard of living",
+    "answer": "The material SOL is affected by the amount of goods and services that individuals within the country have available for consumption from which they derive utility."
+  },
+  {
+    "id": "notion-underlined-def-083",
+    "topic": "economic-indicators",
+    "question": "Non-material standard of living",
+    "answer": "Non-material aspects of living standards involve indicators like the amount of leisure people consume, life expectancy, standard of education, absence of pollution, low crime rates and other social factors"
+  },
+  {
+    "id": "notion-underlined-def-084",
+    "topic": "economic-indicators",
+    "question": "Gross Domestic Product (GDP)",
+    "answer": "The total value of all final g&s newly produced within the geographical boundary of a country in a given year before allowance for appreciation."
+  },
+  {
+    "id": "notion-underlined-def-085",
+    "topic": "economic-indicators",
+    "question": "Gross National Income (GNI)",
+    "answer": "Gross National Income is the sum of gross factor incomes, arising from the involvement in production processes or ownership of assets that may be needed for production, receivable by residents units."
+  },
+  {
+    "id": "notion-underlined-def-086",
+    "topic": "economic-indicators",
+    "question": "Human Development Index (HDI)",
+    "answer": "A composite indicator to broaden measure of SOL beyond NI"
+  },
+  {
+    "id": "notion-underlined-def-087",
+    "topic": "aggregate-demand-supply",
+    "question": "Circular flow of income",
+    "answer": "The circular flow of income represents the sources of spending flow and the uses of income generated by the spending flow."
+  },
+  {
+    "id": "notion-underlined-def-088",
+    "topic": "market-failure",
+    "question": "Salience bias",
+    "answer": "It refers to the tendency for people to focus on information that is more prominent over other less prominent but equally relevant pieces of information."
+  },
+  {
+    "id": "notion-underlined-def-089",
+    "topic": "market-failure",
+    "question": "Sunk cost fallacy",
+    "answer": "It arises when a person's decision is affected by fixed rather than marginal costs. There is hence a tendency to continue in any activity once an investment of time, money or energy has been made."
+  },
+  {
+    "id": "notion-underlined-def-090",
+    "topic": "market-failure",
+    "question": "Loss aversion",
+    "answer": "Human beings experience losses asymmetrically, more severely than equivalent gains. Humans tend to prefer avoiding a loss over making an equivalent or greater gain."
   }
 ]
